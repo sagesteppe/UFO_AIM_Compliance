@@ -1,0 +1,369 @@
+---
+title: "UFO Annual Compliance Report"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+---
+
+```{r Load Libraries, echo = F, warning = F, message = F}
+shhh <- suppressPackageStartupMessages
+shhh(library(tidyverse))
+shhh(library(here))
+shhh(library(sf))
+
+# source('AIM_report_functions)
+set.seed(24)
+rm(shhh)
+
+```
+
+
+```{r Load AIM input data}
+
+files <- paste0(here(), '/data/raw/',
+                list.files(paste0(here(), '/data/raw/')))
+
+AIMdata <- read.csv(files[which(str_detect(files, "Query"))] )
+Plotdata <- read.csv(files[which(str_detect(files, "Plots"))] )
+soildata <- read.csv(files[which(str_detect(files, "SoilHorizon"))] )
+PSPSdata <- read.csv(files[which(str_detect(files, "Species.csv"))] )
+SPdata <- read.csv(files[which(str_detect(files, "SpeciesRich"))] )
+ST <- read.csv(files[which(str_detect(files, "LPIDetail"))])
+
+rm(files)
+```
+
+
+```{r Join the Ecological Site Description data to the AIM data set, echo = F}
+ecological_site_d <- Plotdata %>% 
+  dplyr::select(Actual.Eco.Site, PrimaryKey)
+
+AIMdata <- left_join(AIMdata, ecological_site_d, by = 'PrimaryKey')
+soildata <- left_join(soildata, ecological_site_d, by = 'PrimaryKey')
+PSPSdata <- left_join(PSPSdata, ecological_site_d, by = 'PrimaryKey')
+SPdata <- left_join(SPdata, ecological_site_d, by = 'PrimaryKey')
+
+# "Plotdata has the actual.eco.site assigned (This was filled in manually)" - TY
+```
+
+
+```{r Annotate Eco site subset ST dataset, echo = F}
+STN <-ST %>%
+  select(HeightWoody, HeightHerbaceous, SpeciesWoody, SpeciesHerbaceous, PrimaryKey) %>% # Selects the data from the data frame needed
+  drop_na(.) %>%  #remove any NA values
+  left_join(., ecological_site_d, by = 'PrimaryKey')
+
+rm(ecological_site_d, ST)
+# THE PURPOSE OF THIS CHUNK IS CURRENTLY UNLCEAR TO ME, SEEMS SUBSET AND READY FOR ANALYSES
+```
+
+```{r Noxious and Nonnoxious Species Comparison by Strata, echo = F}
+
+target <- c("SS","SD","MMS","MC","PJ","GR","SAL","SAN","FORE") 
+# Creates a list with strata abbreviations 
+
+#png(filename =
+#      paste0(here(), "/results/plts_fg_tab/NoxVsNonnox.png"), 
+#    width = 6, height = 4, units = "in", res = 300) 
+
+AIMdata %>%
+  select(AH_NoxCover, AH_NonNoxCover, Actual.Eco.Site) %>% 
+  filter(Actual.Eco.Site %in% target) %>% 
+  pivot_longer(!Actual.Eco.Site, names_to = 'covertype', values_to = 'covervalue') %>% 
+
+  ggplot(., aes(x=covertype, y=covervalue, fill= covertype))+ 
+    geom_jitter(alpha=0.2, width = 0.2)+  
+    geom_boxplot() +            
+    labs(title = "Noxious and Nonnoxious Species Comparison by Strata", 
+         x = "Cover Type",
+         y = "Average Percent Cover",
+         fill = "Cover Type:") +  
+    scale_x_discrete(labels= c("Non-noxious", "Noxious"))+   
+    scale_fill_manual(values=c("dodgerblue2","firebrick3"),labels = c("Nonnoxious", "Noxious"))+    
+    
+    theme_classic() +
+    facet_wrap(~ Actual.Eco.Site, ncol = 3) +
+    theme(axis.text.x = element_text(colour="gray20", angle = 25, hjust=0.75),
+          legend.position="bottom", legend.box = "horizontal",
+          plot.title = element_text(hjust = 0.5))
+
+# dev.off()  
+```
+
+```{r Perennial and Annual Grass}
+
+#png(filename =
+#      paste0(here(), "/results/plts_fg_tab/AnualVsPernGrass.PNG"), 
+#    width = 6, height = 4, units = "in", res = 300) 
+
+AIMdata %>%
+  select(AH_PerenGrassCover, AH_AnnGrassCover, Actual.Eco.Site) %>%
+  filter(Actual.Eco.Site %in% target)  %>% 
+  pivot_longer(!Actual.Eco.Site, names_to = 'covertype', values_to = 'covervalue') %>% 
+
+  ggplot(., aes(x=covertype,y=covervalue,fill= covertype)) +
+    geom_jitter(alpha=0.2, width = 0.2)+
+    geom_boxplot() +
+    labs(title = "Percent Cover of Annual and Perennial Grass",
+         x = "Duration", y="Average Percent Cover",
+         colour= "Duration") +
+    scale_x_discrete(labels= c("Annual","Perennial")) +
+    facet_wrap(.~Actual.Eco.Site, ncol=3) +
+    theme_bw() +
+
+    scale_fill_manual(values=c("paleturquoise3", "rosybrown3"),labels = c("Annual", "Perennial")) +
+    theme(axis.text.x=element_text(colour="gray20", angle = 25, hjust=0.75), 
+          legend.position="bottom", legend.box = "horizontal",
+          plot.title = element_text(hjust = 0.5)) 
+
+dev.off()
+
+```
+
+```{r Create Columns of Total Aerial Plant Cover by Functional Group, echo = F}
+
+AIMdata <- AIMdata %>% 
+  mutate('Shrub_Cover'   = rowSums(select(., matches("AH.*ShrubCover")), na.rm = T), # subshrub need to ask Ken I have like 12 columns to taylors 4 ???
+         'Succulent'     = rowSums(select(., matches("AH.*SucculentCover")), na.rm = T),
+         'Tree'          = rowSums(select(., matches("AH.*TreeCover")), na.rm = T),
+         'noxiousforb'   = rowSums(select(., matches("AH_Nox.*ForbCover")), na.rm = T),
+         'nonnoxiousforb'= rowSums(select(., matches("AH_NonNox.*ForbCover")), na.rm = T)
+         ) %>% 
+  group_by(Actual.Eco.Site) %>% # calculate the sample size for each stratum
+  mutate('StratumSampleSize' = n()) # by group here
+
+```
+
+```{r stratum description, general using TerrADat form "Plots"}
+col_order <- c('Ecological Site', 
+       "Elevation.min", "Elevation.Q1", "Elevation.mean", "Elevation.Q3", "Elevation.max", "Elevation.sd",
+       "AvgPrecip.min", "AvgPrecip.Q1", "AvgPrecip.mean", "AvgPrecip.Q3", "AvgPrecip.max", "AvgPrecip.sd",
+           "Slope.min",     "Slope.Q1",     "Slope.mean",     "Slope.Q3",     "Slope.max",     "Slope.sd"
+       )
+
+# REED NOTE : THERE IS SOME MASSIVE CLEAN UP WORK TO DO HERE! I THINK SOME PROBLEMS DUE TO CLIPPING ON A RASTER EXTRACT ARE INVOLVED...
+# WONDER IF COMPLETE CASES OR OTHER MIGHT HONESTLY BE A GOOD SOLUTION SO THAT THE N() VALUE IS ACCURATE
+
+Plotdata %>% 
+  group_by(Actual.Eco.Site) %>%  # Group by ecosite to get stats for individual strata
+  mutate('SampleSize' = n()) %>% 
+  mutate(across(c(Elevation, AvgPrecip, Slope), # Get stats for these columns 
+               list(min = min, mean = mean, max = max, sd = sd), 
+                #    Q1 = quantile(.,probs=0.25, na.rm = T), 
+                #    Q3 = quantile(.,probs=0.75, na.rm = T)),     
+               na.rm = T,
+            .names = "{.col}.{.fn}"
+  )) %>% 
+    mutate(across(c(Elevation, AvgPrecip, Slope), # Get stats for these columns 
+               funs(Q1 = quantile(.,probs=0.25, na.rm = T),
+                     Q3 = quantile(.,probs=0.75, na.rm = T)), 
+               .names = "{.col}.{.fn}"
+               )) %>%  # this not working need better cleaning;
+  dplyr::select(SampleSize:ncol(.)) %>% 
+  distinct(Actual.Eco.Site, .keep_all = T) %>% 
+  rename('Ecological Site' = Actual.Eco.Site)  %>% 
+  select(col_order) %>% 
+  rename_with(~str_remove(., 'Elevation/.|AvgPrecip/.|Slope/.')) %>% 
+  knitr::kable(., booktabs = T) %>% 
+  kableExtra::add_header_above(c("", "Elevation" = 6, "Annual Precipitation" = 6, 'Slope' = 6))
+
+rm(col_order)
+```
+
+
+
+```{r Make Summary table of Land form data, echo = F}
+
+Plotdata %>%
+  select(Actual.Eco.Site, LandscapeType) %>% 
+  mutate(LandscapeType = gsub("[^[:alnum:][:space:]]", "", LandscapeType)) %>% 
+  mutate(LandscapeType = snakecase::to_title_case(LandscapeType)) %>% 
+  mutate(LandscapeType = case_when(
+    LandscapeType == 'Hills Mountains' ~ 'Mountain/Hill',
+    LandscapeType == 'Hill Mountain' ~ 'Mountain/Hill', 
+    LandscapeType == 'Floodplain Flood Basin' ~ 'Flood plain/Basin',
+    TRUE ~ LandscapeType
+    )) %>% 
+  dplyr::count(Actual.Eco.Site, LandscapeType) %>% 
+  rename('Ecological Site' = Actual.Eco.Site) %>% 
+  distinct(.keep_all = T) %>% 
+  pivot_wider(names_from = LandscapeType, values_from = n, values_fill = 0) %>% 
+  select(any_of(c('Mountain/Hill', 'Alluvial Fan', 'Terrace', 'Flood plain/Basin', 'Flat Plain' ))) %>% 
+  knitr::kable() 
+  
+```
+
+# Soils
+
+```{r Make Summary Table of Soils Statisics}
+
+# https://cran.r-project.org/web/packages/soiltexture/vignettes/soiltexture_vignette.pdf
+
+col_orders <- c(
+  'Actual.Eco.Site', 'SampleSize', 'Effer', 'Effer Cnt.', 'Texture', 'Texture_Cnt.',
+  "RockFragments.min", "RockFragments.Q1", "RockFragments.mean", "RockFragments.Q3", "RockFragments.max", "RockFragments.sd",
+  "ESD_PctClay.min", "ESD_PctClay.Q1", "ESD_PctClay.mean", "ESD_PctClay.Q3", "ESD_PctClay.max", "ESD_PctClay.sd"
+)
+
+soildata %>% 
+  group_by(Actual.Eco.Site) %>% 
+  mutate('SampleSize' = n()) %>% 
+  select(Actual.Eco.Site, SampleSize, Texture, RockFragments, Effer, ESD_PctClay) %>% 
+  add_count(Texture, name = 'Texture_Cnt.') %>% 
+  add_count(Effer, name = 'Effer Cnt.') %>% 
+  mutate(across(c(RockFragments, ESD_PctClay), # Get stats for these columns 
+               list(min = min, mean = mean, max = max, sd = sd), 
+            #        Q1 = quantile(., probs=0.25, na.rm = T), 
+             #       Q3 = quantile(., probs=0.75, na.rm = T)),     
+               na.rm = T,
+            .names = "{.col}.{.fn}"
+  ))  %>% 
+  mutate(across(c(RockFragments, ESD_PctClay), # Get stats for these columns 
+               funs(Q1 = quantile(.,probs=0.25, na.rm = T),
+                     Q3 = quantile(.,probs=0.75, na.rm = T)), 
+               .names = "{.col}.{.fn}"
+               )) %>% 
+  select(-RockFragments, -ESD_PctClay) %>% 
+  distinct(.keep_all = T) %>% 
+  dplyr::select(col_orders) %>% 
+  rename('Ecological Site' = Actual.Eco.Site) %>% 
+  arrange(Texture_Cnt., .by_group = T)# %>% 
+  #knitr::kable() #%>% 
+  #kableExtra::add_header_above(c("", "Rock Fragment" = 7, "Annual Precipitation" = 13))
+  #kableExtra::collapse_rows(columns = 1:4, valign = "top")
+  
+rm(col_orders)
+```
+
+```{r Soil Stability, warning = F, echo = F}
+
+col_orders <- c(
+  'Actual.Eco.Site', 'SampleSize', 'Effer', 'Effer Cnt.', 'Texture', 'Texture_Cnt.',
+  "RockFragments.min", "RockFragments.Q1", "RockFragments.mean", "RockFragments.Q3", "RockFragments.max", "RockFragments.sd",
+  "ESD_PctClay.min", "ESD_PctClay.Q1", "ESD_PctClay.mean", "ESD_PctClay.Q3", "ESD_PctClay.max", "ESD_PctClay.sd"
+)
+
+AIMdata %>%
+  select(., c(Actual.Eco.Site , matches("SoilStability"))) %>% 
+  group_by(Actual.Eco.Site) %>% 
+  mutate(across(matches("SoilStability"), # Get stats for these columns 
+               list(min = min, median = median, mean = mean, max = max, sd = sd), 
+               na.rm = T,
+            .names = "{.col}.{.fn}"
+  )) %>% # we may want to calculate MODE in here - need defined and troubleshoot
+  mutate(across(matches("sd"),
+                 ~ .x * 1.282)) %>% 
+  rename_with(~gsub('sd', 'Z-score', .x)) %>% # ask ken if he wants 2 SD or why the conversion is carried out
+  distinct(Actual.Eco.Site, .keep_all = T) %>%
+  dplyr::select(-SoilStability_All, -SoilStability_Protected, -SoilStability_Unprotected) %>% 
+  pivot_longer(!Actual.Eco.Site, names_to = 'Variable', values_to = 'Statistic') %>% 
+  mutate(Variable = str_remove(Variable, 'SoilStability_')) %>% 
+  mutate(Group = str_remove(Variable, "\\.[^.]*$"), .before = Variable) %>% 
+  mutate(Variable = str_extract(Variable, "\\.[^.]*$")) %>% 
+  pivot_wider(names_from = Variable, values_from = Statistic) %>% 
+  rename_with(., ~ str_to_title(gsub(".", " ", .x, fixed = TRUE))) %>% 
+  mutate(Group = forcats::fct_relevel(Group, c("Protected", "All", "Unprotected"))) %>% 
+  rename(Ecological_Site = 'Actual Eco Site') %>%
+  group_by(Ecological_Site) %>%
+  arrange(Ecological_Site, Group) %>% 
+  knitr::kable(digits = 1) #%>% 
+ # kableExtra::collapse_rows(columns = 1, valign = "top")
+
+```
+
+```{r Calculating Surface Cover}
+
+# this is aerial not basal
+
+AIMdata %>%  
+  select(BareSoilCover, AH_ForbCover, AH_GrassCover, FH_TotalLitterCover, 
+         FH_RockCover, Shrub_Cover, Succulent, Tree, TotalFoliarCover, Actual.Eco.Site) %>% 
+  pivot_longer(!Actual.Eco.Site, names_to = 'covertype', values_to = 'covervalue')  %>% 
+  mutate(covertype = str_remove_all(covertype, 'AH_|FH_')) %>% 
+  mutate(covertype = snakecase::to_title_case(covertype)) %>% 
+  
+  ggplot(aes(x=covertype,y=covervalue,fill=covertype)) +      
+  geom_point(alpha=0.4) +   
+  geom_boxplot() +   
+  facet_wrap(~Actual.Eco.Site) +
+  labs(x="", y="Percent Cover", fill="Cover Type", 
+       title = 'Aerial Cover by Stratum')+ 
+  theme_classic() +
+  theme(axis.text.x = element_blank(), 
+        axis.ticks.x=element_blank(),
+        plot.title = element_text(hjust = 0.5)
+        )  
+
+
+```
+
+# Vascular Plant Species
+
+#### NOTES 'DOMINANT' IS A RATHER .... TERM, IT SEEMS WE ARE ATTEMPTING TO FUSE SPECIES WHICH ARE BOTH SOMEWHAT UBIQUITUOUS ACROSS ALL SITES WITHIN A STRATUM, AND HAVE A HIGH COVER VALUE. LET'S THINK ABOUT THIS IN THE FUTURE.
+
+```{r Dominant Species by Stratum}
+
+PSPSdata %>%               
+  group_by(Actual.Eco.Site) %>% 
+  mutate(N_Pts_Stratum = n_distinct(PlotID)) %>% 
+  group_by(Actual.Eco.Site, Species) %>%
+  add_count(Species, name = 'N_Pts_SPP_Pres') %>%   # Proportion of occurrences of plant by stratum
+  mutate(Prop_Pts_spp_pres = N_Pts_SPP_Pres/N_Pts_Stratum) %>% 
+  ungroup(Species) %>%
+  arrange(desc(Prop_Pts_spp_pres)) %>% 
+  slice_head(prop = 0.30) %>% 
+  dplyr::select(Actual.Eco.Site, Species, N_Pts_Stratum:Prop_Pts_spp_pres) %>% 
+  rename(Ecological_Site = 'Actual.Eco.Site') %>%
+  distinct(.keep_all = T) %>% 
+  knitr::kable()
+
+```
+
+
+# ALPHA SPECIES RICHNESS
+
+it looks like we want to have both number of species by stratum with some descriptions of richness (summary ?), and by functional groups
+```{r}
+
+PSPSdata %>% 
+  group_by(Actual.Eco.Site) %>% 
+  mutate(N_Pts = n_distinct(PlotID),
+         No_Spp = n()) %>% 
+  add_count(GrowthHabitSub, name = 'N_GHS') %>% 
+  
+  group_by(Actual.Eco.Site, Noxious) %>% 
+  add_count(Noxious, name = 'Native_Spp') %>% 
+  ungroup() %>% 
+  filter(Noxious == 'NO') %>% 
+  dplyr::select(Actual.Eco.Site, N_Pts, No_Spp, 
+                Native_Spp, GrowthHabitSub, N_GHS) %>%
+  distinct() %>% 
+  group_by(Actual.Eco.Site) %>% 
+  arrange(Actual.Eco.Site, -N_GHS) %>% 
+  knitr::kable() # SEE WHAT WE WANT DO TO ABOUT FUNCTIONALLY UNPLACED TAXA
+  
+PSPSdata %>% 
+  group_by(Actual.Eco.Site, PlotID) %>% 
+  mutate(Spp_by_Plot = n_distinct(Species)) %>% 
+  add_count(Noxious, name = 'Native_Spp') %>% 
+  filter(Noxious == 'NO') %>% 
+  ungroup() %>% 
+  dplyr::select(Actual.Eco.Site, PlotID, Spp_by_Plot, Native_Spp) %>% 
+  arrange(-Spp_by_Plot) %>% 
+  distinct() %>% 
+  ggplot(., aes(x = Spp_by_Plot,fill = Actual.Eco.Site)) +
+  geom_density(alpha = 0.8, position = "fill") +
+  labs(title = "Distribution of Plant Species Richness at All Plots", 
+     x = "Number of Species",
+     y = "",
+     fill = "Strata:") +  
+  theme_void() +
+  theme(plot.title = element_text(hjust = 0.5))
+
+```
+
+
+### BETA SPECIES RICHNESS
+

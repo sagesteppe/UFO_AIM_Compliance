@@ -1,0 +1,1757 @@
+OBJECTID,SiteKey,PlotKey,DateModified,Actual.Eco.Site,PlotID,EstablishDate,State,County,Directions,AvgPrecip,AvgPrecipUOM,EcolSite,Soil,ParentMaterial,Slope,Aspect,ESD_SlopeShape,LandscapeType,LandscapeTypeSecondary,MgtUnit,GPSCoordSys,Datum,Zone,Easting,Northing,Elevation,ElevationType,RecentWeatherPast12,RecentWeatherPrevious12,DisturbWildfire,DisturbRodents,DisturbMammals,DisturbWater,DisturbWind,DisturbWaterSoilDep,DisturbWindSoilDep,DisturbUndgroundUtils,DisturbOverhdTransLines,DisturbOther,DisturbOtherDesc,WildlifeUse,MgtHistory,OffsiteInfluences,Comments,ESD_MLRA,ESD_CRA,ESD_Region,ESD_Investigators,ESD_Bedrock,ESD_CommunityDescription,ESD_MajorLandform,ESD_ComponentLandform,HillslopeType,ESD_GeomorphicComp,ESD_RunIn_RunOff,ESD_SlopeComplexity,ESD_Root_density,ESD_Root_Depth,ESD_Root_Notes,ESD_DKDate,ESD_DKObservers,ESD_LitterClass,ESD_BiologicalCrustClass,ESD_PctGrassCover,ESD_ResourceRetentionClass,ESD_bareGapPatchSize,ESD_grassPatchSize,ESD_ResourceRetentionNotes,ESD_Pedoderm_Class,ESD_SurfaceNotes,ESD_SubsurfaceNotes,ESD_Compaction,ESD_Series,ESD_ParticleSizeClass,ESD_Mineralogy,ESD_SoilTempRegime,ESD_DepthClass,ESD_Subgroup,ESD_Greatgroup,ESD_Reaction,ESD_SoilMoistureRegime,ESD_CationExchangeActivityClass,ESD_Epipedon,ESD_Subsurface_features,ESD_Depth_to_root_horizon,ESD_Type_root_horizon,ESD_Horizon_notes,ESD_TrackingID,ESD_StateWithinEcologicalSite,ESD_CommunityWithinState,ESD_ErosionPatternClass,ESD_SoilRedistributionClass,Longitude,Latitude,DateLoadedInDb,GlobalID,PrimaryKey,DBKey,ADMINST,SpeciesState,ProjectName,Purpose,PurposeFlag,Design,DesignFlag
+69318,1.80719E+15,1.81102E+15,11/5/2018 12:10,MMS,Rip-207,8/30/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+Head south on US-550 S/S Townsend Ave toward Anderson Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.5 mi)
+24.5 mi
+
+Turn right onto CO-62 W/State Hwy 62/Sherman St
+ Continue to follow CO-62 W/State Hwy 62
+23.3 mi
+
+Continue onto CO-145 N
+17.1 mi
+
+Slight right onto Grand Ave
+184 ft
+
+Continue onto CO-145 N/42Z South Rd
+ Continue to follow CO-145 N
+15.3 mi
+
+Continue onto CO-141 N
+19.8 mi
+
+Turn right onto Spring Creek Truck Trail
+2.8 mi
+West End Re-2
+Colorado",16,in, UNKNOWN,95,Residuum weathered from interbedded sanndstone & s,14,160,CC,Hills/Mountains*,Backslope,Allotment,Decimal Degrees,NAD 83,,-108.53902,38.37843,6824,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Skein-Rock outcrop complex,",,,,,,,,,,,,,,,,,,,,-108.53902,38.37843,9/1/2018,{CB54CA72-5D92-40F4-BA82-3189DBD727EE},18110208275958022018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69319,1.80604E+15,1.80604E+15,11/2/2018 11:53,SD,SD-397,6/4/2018 0:00,CO,Delta,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Take US-50 W to W 5th St in Delta
+28 min (23.2 mi)
+ 
+Take G Rd and G50 Rd to US-50 W
+8 min (5.0 mi)
+ 
+Turn left onto US-50 W
+7 min (8.1 mi)
+
+Turn right onto Wells Gulch Rd
+13 min (2.5 mi)
+Wells Gulch Rd
+Delta, CO 81416",11,in, UNKNOWN,52,"Stony, outwash alluvium",4,192,LC,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-108.23696,38.82104,5571,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Meeteetse stony loam, 3 to 20 percent slopes",,,,,,,,,,,,,,,,,,,,-108.23696,38.82104,9/1/2018,{F87EE5F8-6E23-4A84-95E0-CD943AF6CC34},18060411321921842018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69320,1.80604E+15,1.80604E+15,10/22/2018 13:30,SD,SD-325,6/4/2018 0:00,CO,Delta,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Follow S Townsend Ave and US-50 W to Confluence Dr in Delta
+27 min (22.7 mi)
+ 
+Head north on S Townsend Ave toward Woodgate Rd
+ Pass by Burger King (on the left in 1.8 mi)
+6.5 mi
+
+Continue onto US-50 W
+15.9 mi
+
+Turn right onto Meeker St
+0.1 mi
+
+Turn left at the 2nd cross street onto E 12th St
+344 ft
+
+Turn left onto Main St
+236 ft
+ 
+Take G Rd and G50 Rd to US-50 W
+8 min (5.5 mi)
+ 
+Turn right onto Confluence Dr
+0.8 mi
+
+Turn left onto W 5th St
+0.2 mi
+
+Continue onto G Rd
+1.6 mi
+
+Turn right to stay on G Rd
+0.9 mi
+
+Continue onto G50 Rd
+1.9 mi
+
+Turn left onto US-50 W
+7 min (8.1 mi)
+
+Turn right onto Wells Gulch Rd
+25 min (4.6 mi)
+38.8462500, -108.2149500",14,in, UNKNOWN,70,"Cobbly, stony outwash alluvium derived from basalt",40,158,LL,Hills/Mountains*,Backslope,Allotment,Decimal Degrees,NAD 83,,-108.21495,38.84625,6286,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,Basalt prominent in topsoil layer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Saraton-Agua Fria complex,,,,,,,,,,,,,,,,,,,,-108.21495,38.84625,9/1/2018,{401832A1-212D-4313-8667-1C6440CD2610},18060417475223122018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69321,1.80604E+15,1.80605E+15,11/5/2018 18:26,SD,SD-327,6/5/2018 0:00,CO,Delta,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Follow S Townsend Ave and US-50 W to Confluence Dr in Delta
+27 min (22.7 mi)
+ 
+Head north on S Townsend Ave toward Woodgate Rd
+ Pass by Burger King (on the left in 1.8 mi)
+6.5 mi
+
+Continue onto US-50 W
+15.9 mi
+
+Turn right onto Meeker St
+0.1 mi
+
+Turn left at the 2nd cross street onto E 12th St
+344 ft
+
+Turn left onto Main St
+236 ft
+ 
+Take G Rd and G50 Rd to US-50 W
+8 min (5.5 mi)
+ 
+Turn right onto Confluence Dr
+0.8 mi
+
+Turn left onto W 5th St
+0.2 mi
+
+Continue onto G Rd
+1.6 mi
+
+Turn right to stay on G Rd
+0.9 mi
+
+Continue onto G50 Rd
+1.9 mi
+
+Turn left onto US-50 W
+1 min (1.0 mi)
+
+Turn right onto Star Nelson Rd
+3 min (1.3 mi)
+38.7710208, -108.1823265",9,in, UNKNOWN,,,31,160,VC,Hills/Mountains*,Shoulder,Allotment,Decimal Degrees,NAD 83,,-108.18233,38.77102,5285,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,None,None,"OHV, full-sized roads present; sighs indicate heavy usage of roads; powerlines about a half a mile to the north",None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.18233,38.77102,9/1/2018,{21A284DD-E073-46FC-BB91-EBF74B042BCE},18060509563978892018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69322,1.80605E+15,1.80605E+15,11/2/2018 11:53,MMS,MMS-071,6/5/2018 0:00,CO,Mesa,"Take US-50 W to W 5th St in Delta
+28 min (23.1 mi)
+ 
+Head north on S Townsend Ave toward E Oak Grove Rd
+ Pass by Burger King (on the left in 1.8 mi)
+6.5 mi
+
+Continue onto US-50 W
+16.7 mi
+ 
+Take G Rd and G50 Rd to US-50 W
+8 min (5.0 mi)
+ 
+Turn left onto W 5th St
+0.6 mi
+
+Continue onto G Rd
+1.6 mi
+
+Turn right to stay on G Rd
+0.9 mi
+
+Continue onto G50 Rd
+1.9 mi
+
+Turn left onto US-50 W
+5 min (5.6 mi)
+ 
+Continue on 650 Rd. Drive to Z S Rd in Mesa County
+59 min (18.6 mi)
+ 
+Turn left onto 650 Rd
+13.6 mi
+
+Continue onto Z S Rd
+2.9 mi
+
+Turn right to stay on Z S Rd
+2.1 mi
+Z S Rd",21,in, UNKNOWN,26,Mixed loess over alluvium and/or materials,5,220,LL,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-108.48344,38.63841,7969.140137,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Rabbit and deer scat present; cow-calf operation active; grazing occuring in and around the plot.,,BLM road about 200 ft from plot center; OHV trails throughour the surrounding area.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Mirand-Callan families-Chilson variant complex,",,,,,,,,,,,,,,,,,,,,-108.48344,38.63841,9/1/2018,{F97CB4B3-A535-45CA-B808-4ECF1D1FD735},18060515553867722018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69323,1.80606E+12,1.80606E+15,11/5/2018 18:26,PJ,SS-223,6/6/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Follow S Townsend Ave and US-50 W to Confluence Dr in Delta
+27 min (22.7 mi)
+ 
+Take Sawmill Mesa Rd and 579 Rd to your destination in Montrose County
+47 min (19.8 mi)
+38.6246900, -108.2788700",13,in,R036XY113CO,B31,Colluvium over residuum weathered from sandstone,1,75,LC,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-108.27887,38.62469,6709,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,"Rabbit scat prominent, deer scat present as well. Grazing evident. Cow patties prominent on plot.","Chaining in 1958, seeding and rollerchopping in 2003",,Crested wheat AGCR prominent throughout plot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Barx-Lazear, very flaggy-Rock outcrop complex",,,,,,,,,,,,,,,,,,,,-108.27887,38.62469,9/1/2018,{8574D569-ED48-4D1E-86A3-2A32F977C4AE},18060608475295222018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69324,1.80605E+15,1.80628E+15,11/5/2018 15:57,PJ,MMS-072,6/28/2018 0:00,CO,Montrose,"Head north on S Townsend Ave toward E Oak Grove Rd
+ Pass by Burger King (on the left in 1.8 mi)
+11 min (6.5 mi)
+ 
+Follow W Jay Jay Rd and Jig Rd to 5850 Rd
+6 min (3.6 mi)
+ 
+Turn left onto W Jay Jay Rd
+1.7 mi
+
+Turn left onto Jig Rd
+1.4 mi
+
+Slight left to stay on Jig Rd
+0.4 mi
+
+Turn left to stay on Jig Rd
+0.1 mi
+ 
+Take Jasmine Rd and Hillside Rd to Holly Rd
+6 min (3.9 mi)
+ 
+Turn right at the 1st cross street onto 5850 Rd
+0.5 mi
+
+Turn left at the 1st cross street onto Jasmine Rd
+1.2 mi
+
+Continue onto Hillside Rd
+1.8 mi
+
+Continue onto Holly Rd
+0.4 mi
+ 
+Drive to Transfer Rd
+22 min (9.3 mi)
+ 
+Slight left to stay on Holly Rd
+0.5 mi
+
+Turn left onto Transfer Rd
+8.8 mi
+15930 Transfer Rd",17,in,R036XY114CO,262,Colluvium over residuum weathered from sandstone/s,2,347,LC,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-108.1319,38.45227,7488,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Deer and rabbit scat present; cow paddies and tracks present; evidence of grazing (grass shorter in some areas and missing seed heads,Hydroaxed in 2010; chained in the 60's,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Arabrab-Evpark-Parkelei complex, 3-20% slopes",,,,,,,,,,,,,,,,,,,,-108.1319,38.45227,9/1/2018,{FB0B9C64-F350-47DE-ADB9-0CDDAE55E339},18062811461094522018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69325,1.80606E+12,1.80629E+15,11/5/2018 18:32,MMS,SS-222,6/29/2018 0:00,CO,Delta,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Take US-50 W to D Rd in Delta County
+22 min (19.0 mi)
+ 
+Head north on S Townsend Ave toward Woodgate Rd
+ Pass by Burger King (on the left in 1.8 mi)
+6.5 mi
+
+Continue onto US-50 W
+12.4 mi
+ 
+Take 1900 Rd, F Rd, 2000 Rd and 2050 Rd to CO-92 E
+11 min (7.2 mi)
+ 
+Turn right onto D Rd
+0.8 mi
+
+Continue onto 1900 Rd
+1.9 mi
+
+Turn right onto F Rd
+1.0 mi
+
+Turn left onto 2000 Rd
+1.0 mi
+
+Turn right onto G Rd
+0.5 mi
+
+Turn left onto 2050 Rd
+1.0 mi
+
+Turn right onto H Rd
+0.3 mi
+
+Turn left onto 2075 Rd
+0.7 mi
+
+Turn right onto CO-92 E
+14 min (13.6 mi)
+ 
+Drive to Coal Rd
+36 min (7.5 mi)
+ 
+Turn left onto 3300 Rd
+1.5 mi
+
+Turn right onto L 50 Rd
+0.9 mi
+
+Turn left to stay on L 50 Rd
+0.3 mi
+
+Continue onto Coal Rd
+4.9 mi
+Delta County
+Colorado 81419",17,in,R048AY247CO,22,Glacial outwash and/or old complex landslide depos,10,286,VV,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-107.74771,38.87656,7723,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Deer scat present. Cow patties and tracks present,,,Galls on QUGA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Cerro stony loam, 10 to 35 percent slopes",,,,,,,,,,,,,,,,,,,,-107.74771,38.87656,9/1/2018,{CF8AB2FB-BB3A-43EE-A9CF-CC70CEA362D5},18062910181447442018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69326,1.80605E+15,1.80702E+15,11/5/2018 16:00,PJ,MMS-075,7/2/2018 0:00,CO,Montrose,"Take US-550 S, CO-62 W/State Hwy 62, CO-145 N and CO-141 N to S17 Rd
+2 h 1 min (102 mi)
+ 
+Head south on US-550 S/S Townsend Ave toward Woodgate Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.6 mi)
+24.6 mi
+
+Turn right onto CO-62 W/State Hwy 62/Sherman St
+ Continue to follow CO-62 W/State Hwy 62
+23.3 mi
+
+Continue onto CO-145 N
+17.1 mi
+
+Slight right onto Grand Ave
+184 ft
+
+Continue onto CO-145 N/42Z South Rd
+ Continue to follow CO-145 N
+15.3 mi
+
+Continue onto CO-141 N
+21.2 mi
+ 
+Drive to S15 Rd
+45 min (11.2 mi)
+ 
+Turn right onto S17 Rd
+0.7 mi
+
+Turn right to stay on S17 Rd
+2.1 mi
+
+Slight left onto R18 Rd
+1.6 mi
+
+Turn right onto S15 Rd
+ Destination will be on the right
+6.8 mi
+S15 Rd
+Naturita, CO 81422",16,in, UNKNOWN,95,Residuum weathered from interbedded sandstone & sh,8,247,LC,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-108.6808074,38.4788406,6617,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Elk and cattle scat present,Chaining in the 60's; grass diversity is not apparent in the aftermath. Game trails present. Chained woody debris throughout site and surrounding area,Historic uranium mining road about 200 ft. away from plot center,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Skein-Rock outcrop complex, 3 to 65% clopes",,,,,,,,,,,,,,,,,,,,-108.6808074,38.4788406,9/1/2018,{D402EDA1-5799-4D13-B5C6-9617957D0647},18070213554535752018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69327,1.80604E+15,1.80703E+15,11/5/2018 18:00,SD,SD-331,6/25/2018 0:00,CO,Delta,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+
+Head north on S Townsend Ave toward Woodgate Rd
+ Pass by Burger King (on the left in 1.8 mi)
+6.5 mi
+
+Continue onto US-50 W
+16.7 mi
+
+Turn left onto W 5th St
+0.6 mi
+
+Continue onto G Rd
+1.6 mi
+
+Continue onto Sawmill Mesa Rd
+4.4 mi
+
+Slight right onto Escalante Rim Rd
+1.6 mi
+
+Slight left onto Sawmill Mesa Cutoff Rd
+1.2 mi
+Sawmill Mesa Cutoff Rd
+Delta, CO 81416",10,in, UNKNOWN,,,4,351,LL,Flat Plain,,Allotment,Decimal Degrees,NAD 83,,-108.21142,38.69866,5459,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,"Deer, Sheep, Rabbit scat found. Likely sheep scat present, appears older. Some grazing observed.",None,Escalante rim road 1/3 mile to the east. Maintained 2-track just outside plot to nw. 1 mountain biker came down 2 track while monitoring.,manny grasshoppers observed.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.21142,38.69866,9/1/2018,{9CB8DB5C-3A5D-4A2E-966E-DFC67D12B529},18070308520091982018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69328,1.80606E+12,1.80703E+15,11/5/2018 18:31,PJ,SS-227,6/25/2018 0:00,CO,Delta,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Follow S Townsend Ave and US-50 W to Confluence Dr in Delta
+27 min (22.7 mi)
+ 
+Take Sawmill Mesa Rd to Escalante Rim Rd
+30 min (12.6 mi)
+38.6867600, -108.2572700",10,in,,73,Colluvium derived from sandstone/shale,8,88,VL,Hills/Mountains*,Backslope,Allotment,Decimal Degrees,NAD 83,12,-108.2573013,38.686737,5974,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Shavano-Lazear complex,,,,,,,,,,,,,,,,,,,,-108.2573013,38.686737,9/1/2018,{310219CF-2E09-4052-9619-005074D5E49F},18070312115068222018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69329,1.8073E+15,1.8073E+15,10/16/2018 15:36,MMS,PP-171,7/30/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Take US-550 S, CO-62 W/State Hwy 62, CO-145 N and CO-90 W to 5.75 Rd in Bedrock
+2 h 5 min (111 mi)
+ 
+Head south on US-550 S/S Townsend Ave toward Anderson Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.5 mi)
+24.5 mi
+
+Turn right onto CO-62 W/State Hwy 62/Sherman St
+ Continue to follow CO-62 W/State Hwy 62
+23.3 mi
+
+Continue onto CO-145 N
+32.5 mi
+
+Continue onto CO-141 N
+6.1 mi
+
+Turn left onto CO-90 W
+24.2 mi
+ 
+Take U5 Rd and Forest Rd 0371 to U2 Rd
+20 min (7.5 mi)
+ 
+Turn right onto 5.75 Rd
+0.8 mi
+
+Turn left to stay on 5.75 Rd
+0.3 mi
+
+Turn left onto U5 Rd
+1.6 mi
+
+U5 Rd turns slightly left and becomes Forest Rd 0371
+3.4 mi
+
+Turn left onto Forest Rd 4114
+1.1 mi
+
+Turn right onto U2 Rd
+ Destination will be on the left
+0.2 mi
+U2 Rd
+Bedrock, CO 81411",21,in,R048AY228CO,6,Alluvium derived from sandstone and shale,6,148,LC,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-109.037536,38.37545,7556,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Elk scat present. Cow patties present.,"Evidence of possible fire, chaining and seeding having occurred on site including widespread presence of AGCR and charred woody debris",A road occurs about 500 ft. to the north of plot center,Very dry with many unidentifiable plants,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Acree loam,,,,,,,,,,,,,,,,,,,,-109.037536,38.37545,9/1/2018,{C7DB133D-8620-40AE-9613-D443FDE5550A},18073013463130432018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69330,1.80807E+15,1.80807E+14,10/29/2018 12:40,MC,MC-056,8/7/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+Head south on US-550 S/S Townsend Ave toward Anderson Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.5 mi)
+10.3 mi
+
+Turn left onto Buckhorn Rd
+1.2 mi
+
+Turn right to stay on Buckhorn Rd
+10.1 mi
+
+Turn left onto Co Rd 32
+177 ft
+
+Continue onto Buckhorn Rd
+0.4 mi
+Buckhorn Lakes Park
+Montrose, CO 81403
+Hike to plot",31,in,F048AY918CO,921,Slide deposits derived from igneous and sedimentar,11,79,CC,Hills/Mountains*,Backslope,Allotment,Decimal Degrees,NAD 83,,-107.63129,38.31559,10918.61035,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Frisco gravelly loam,,,,,,,,,,,,,,,,,,,,-107.63129,38.31559,9/1/2018,{EFE59E50-6FFD-4896-A5D9-CE30A42AA5FC},1808071324547432018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69331,1.80606E+12,1.80809E+15,10/29/2018 13:29,SD,SS-230,8/9/2018 0:00,CO,Delta,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+
+Head north on S Townsend Ave toward Woodgate Rd
+ Pass by Burger King (on the left in 1.8 mi)
+6.5 mi
+
+Continue onto US-50 W
+21.8 mi
+
+Turn right onto Alkali Basin Rd
+6.0 mi
+38.84484, -108.14199",15,in, UNKNOWN,70,"Cobbly, stony outwash alluvium derived from basalt",31,282,LV,Hills/Mountains*,Backslope,Allotment,Decimal Degrees,NAD 83,,-108.14199,38.84484,6673,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,"Scat - deer, rabbit
+Some browsing could be wildlife or livestock, no other sign",,Unmaintained 2-track through plot,"Invasives: BRTE, ERTR13",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SaratonAgua Fria commpex, 20 to 50 % slopes",,,,,,,,,,,,,,,,,,,,-108.14199,38.84484,9/1/2018,{FE348B7A-874B-4EF4-8F1A-7EB226CB878A},18080911375688202018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69332,1.8053E+15,1.80823E+15,10/16/2018 11:56,PJ,PJW-156,8/23/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+
+Head south on US-550 S/S Townsend Ave toward Anderson Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.5 mi)
+24.5 mi
+
+Turn right onto CO-62 W/State Hwy 62/Sherman St
+ Continue to follow CO-62 W/State Hwy 62
+23.3 mi
+
+Continue onto CO-145 N
+18.0 mi
+
+Turn right onto County Rd 42z N
+2.5 mi
+
+Turn left onto Ragsdale Rd
+1.3 mi
+
+Turn right to stay on Ragsdale Rd
+52 ft
+Montrose County",16,in, UNKNOWN,12,Loam sandy residuum,33,169,LC,Hills/Mountains*,Backslope,Allotment,Decimal Degrees,NAD 83,,-108.31038,38.20472,6305.759766,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Borolls-Boralfs-Rock outcrop complex,,,,,,,,,,,,,,,,,,,,-108.31038,38.20472,9/1/2018,{07193AE4-2CEA-4DF8-9920-D992FA4FECAF},18082312034137132018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69333,1.8053E+15,1.80828E+15,11/5/2018 16:27,PJ,PJW-157,8/28/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+
+Head south on US-550 S/S Townsend Ave toward Anderson Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.5 mi)
+24.5 mi
+
+Turn right onto CO-62 W/State Hwy 62/Sherman St
+ Continue to follow CO-62 W/State Hwy 62
+23.3 mi
+
+Continue onto CO-145 N
+32.5 mi
+
+Continue onto CO-141 N
+6.1 mi
+
+Turn left onto CO-90 W
+2.3 mi
+
+Turn left toward Gg25 Rd
+0.3 mi
+
+Continue onto Gg25 Rd
+2.0 mi
+38.18673, -108.59132",14,in, UNKNOWN,76,Residuum weathered from interbedded sandstone/shal,8,237,LL,Hills/Mountains*,Backslope,Allotment,Decimal Degrees,NAD 83,,-108.59132,38.18673,5885.810059,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pinon-Bowdish-Rock outcrop complex,,,,,,,,,,,,,,,,,,,,-108.59132,38.18673,9/1/2018,{18A09D3A-25C5-4D13-930F-6C9F4FE01A31},18082810400251352018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69334,1.80606E+12,1.8083E+15,11/5/2018 17:11,PJ,SS-304,8/30/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+Head south on US-550 S/S Townsend Ave toward Anderson Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.5 mi)
+24.5 mi
+Turn right onto CO-62 W/State Hwy 62/Sherman St
+ Continue to follow CO-62 W/State Hwy 62
+23.3 mi
+Continue onto CO-145 N
+32.5 mi
+Continue onto CO-141 N
+19.8 mi
+Turn right onto Spring Creek Truck Trail
+3.7 mi
+Spring Creek Truck Trail
+Naturita, CO 81422",14,in, UNKNOWN,76, Residuum weathered from interbedded sandstone/sha,6,78,VC,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-108.69866,38.3811,5837,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,"Rabbit scat, deer scat. Heavily grazed, cow patties.",,Road 0.15 miles to the west,"Campbell fire a couple years ago, road 0.15 miles west of plot center. Sages are dead, JUOS still look relatively healthy, ATCA healthy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pinon-Bowdish-Rock outcrop complex,,,,,,,,,,,,,,,,,,,,-108.69866,38.3811,9/1/2018,{6EDD421C-BD09-4B43-8280-251847F556E9},18083010222579372018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69335,1.80905E+15,1.80905E+15,10/30/2018 13:36,PJ,Other-111,9/5/2018 0:00,CO,Delta,"Drive to Escalante put in on the Gunnison river
+Put rafts in, float about 7 miles down. 
+Take out at private land between river and plot - get landowner permision beforehand 
+Hike about 1 mile up drainage - look for pictographs",10,in, UNKNOWN,75,unweathered bedrock,12,80,CC,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-108.30585,38.77096,4928,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Torriorthents-Rock outcrop, sandstone, complex",,,,,,,,,,,,,,,,,,,,-108.30585,38.77096,9/1/2018,{E20E4EA9-8168-447B-A7A8-B50B9A5B911B},18090513012746132018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69336,1.80912E+15,1.80912E+15,11/2/2018 11:54,PJ,AS-008,9/12/2018 0:00,CO,Delta,"Take US-50 W to 1565 Rd/H38 Rd in Delta
+31 min (24.6 mi)
+Follow Devils Thumb Rd to W Pipeline Rd
+1 h 18 min (15.6 mi)
+38.8708900, -108.1586300",22,in, UNKNOWN,70,"Cobbly, stony outwash alluvium derived from basalt",14,200,LC,Terrace**,Riser,Allotment,Decimal Degrees,NAD 83,,-108.15863,38.87089,8251.299805,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Saraton-Agua Fria complex, 20 to 50 percent slopes",,,,,,,,,,,,,,,,,,,,-108.15863,38.87089,9/1/2018,{010EA5CA-CB17-4CC5-B7F5-4623781BDCFD},18091214574732752018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69337,1.80807E+15,1.80925E+15,11/5/2018 14:53,PJ,MC-057,9/11/2018 0:00,CO,Delta,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Take US-50 W to 1565 Rd/H38 Rd in Delta
+31 min (24.6 mi)
+ 
+Follow Devils Thumb Rd to W Pipeline Rd
+1 h 18 min (15.6 mi)
+W Pipeline Rd
+Eckert, CO 81418
+Drive up UTV roads -use GPS to natigate to plot.
+VERY ROCKY ROADS. DO NOT USE TRUCK. ONLY UTV. Strap down ALL gear.",21,in, UNKNOWN,70,Stony & cobbly outwash alluvium derived from basal,20,174,LC,Terrace**,Riser,Allotment,Decimal Degrees,NAD 83,,-108.17428,38.87,8106.939941,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Saraton-Agua Fria complex, 20 to 50 % slopes",,,,,,,,,,,,,,,,,,,,-108.17428,38.87,9/1/2018,{82A2C407-826A-4E8D-BEBE-F55500EBB522},18092514421034622018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69338,1.80807E+15,1.80926E+15,11/5/2018 14:37,MMS,MC-044,9/26/2018 0:00,CO,Delta,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Take US-50 W to D Rd in Delta County
+22 min (19.0 mi)
+ 
+Take 1900 Rd, F Rd, 2000 Rd and 2050 Rd to CO-92 E
+11 min (7.2 mi)
+ 
+Turn right onto CO-92 E
+19 min (16.3 mi)
+ 
+Continue on Back River Rd to your destination
+21 min (10.4 mi)
+38.8172060, -107.5476250",19,in, UNKNOWN,,,38,270,VC,Hills/Mountains*,Backslope,Allotment,Decimal Degrees,NAD 83,,-107.54768,38.81722,7597,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.54768,38.81722,9/1/2018,{0E6BCC70-792A-4DD1-9F77-0B8D0D90332B},18092613204337572018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69339,1.80604E+15,1.80611E+15,11/5/2018 17:54,SD,SD-326,6/11/2018 0:00,CO,Montrose,"Start: Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Take CO-145 N and CO-141 N to P12 Rd
+2 h 11 min (110 mi)
+ 
+Head south on US-550 S/S Townsend Ave toward Anderson Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.5 mi)
+24.5 mi
+
+Turn right onto CO-62 W/State Hwy 62/Sherman St
+ Continue to follow CO-62 W/State Hwy 62
+23.3 mi
+
+Continue onto CO-145 N
+32.5 mi
+
+Continue onto CO-141 N
+29.5 mi
+ 
+Drive to P12 Rd
+14 min (3.5 mi)
+ 
+Turn right onto P12 Rd
+0.8 mi
+
+P12 Rd turns slightly left and becomes O14 Rd
+0.8 mi
+
+Continue onto P12 Rd
+1.6 mi
+
+Turn right to stay on P12 Rd
+0.4 mi
+
+End: P12 Rd
+Gateway, CO 81522",13,in,R036XY325CO,17,Alluvium derived from sandstone,8,210,CL,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-108.81012,38.46436,5174,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,"No wildlife obs to note; Cow droppings throughout plot. PLJA grazed, almost no seed heads present, some PLJA roots pulled out",None of note,Power lines just east of plot. P12 road 1/4 mile east of plot,Cicadas prevalent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Barx-Progresso complex, 3 to 12 percent slopes",,,,,,,,,,,,,,,,,,,,-108.81012,38.46436,9/1/2018,{EDFF6D77-A5F1-4329-B50B-ACF00BBEF212},18061113070365872018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69340,1.80606E+12,1.80611E+15,10/18/2018 10:12,MMS,SS-224,6/12/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Take US-550 S, CO-62 W/State Hwy 62 and CO-145 N to Dd19 Rd/Monogram Truck Route
+1 h 50 min (95.0 mi)
+ 
+Head south on US-550 S/S Townsend Ave toward Anderson Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.5 mi)
+24.5 mi
+
+Turn right onto CO-62 W/State Hwy 62/Sherman St
+ Continue to follow CO-62 W/State Hwy 62
+23.3 mi
+
+Continue onto CO-145 N
+32.5 mi
+
+Continue onto CO-141 N
+6.1 mi
+
+Turn left onto CO-90 W
+8.5 mi
+ 
+Follow Monogram Truck Route to Ee16 Rd
+14 min (6.0 mi)
+ 
+Turn left onto Dd19 Rd/Monogram Truck Route
+2.4 mi
+
+Continue onto Dd19 Rd/Monogram Truck Route
+0.7 mi
+
+Dd19 Rd/Monogram Truck Route turns slightly right and becomes Dd19 Rd/Monogram Truck Route
+0.5 mi
+
+Slight right onto Ee16 Rd/Monogram Truck Route
+0.2 mi
+
+Slight left onto Ee16 Rd
+1.3 mi
+
+Slight right to stay on Ee16 Rd
+ Destination will be on the right
+1.0 mi
+Ee16 Rd
+Bedrock, CO 81411",16,in,R036XY284CO,60,Eolian deposits,2,317,LL,Flat Plain,,Allotment,Decimal Degrees,NAD 83,,-108.79117,38.2164,6873,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Rabbit scat present. Cow scat and tracks present. BOGR seedheads grazed.,Seeded in the past at some point,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Monogram loam, 1 to 8 percent slopes",,,,,,,,,,,,,,,,,,,,-108.79117,38.2164,9/1/2018,{B46C4E8D-0338-4F42-8D2D-10B4F73410EC},18061120211632222018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69341,1.80604E+15,1.80611E+15,11/2/2018 11:52,PJ,SD-330,6/12/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Take US-550 S, CO-62 W/State Hwy 62 and CO-145 N to Ee22 Rd/Long Park Rd
+1 h 48 min (91.5 mi)
+ 
+Continue on Ee22 Rd/Long Park Rd. Take Bb19 Rd to Aa18 Rd
+26 min (7.4 mi)
+Aa18 Rd
+Naturita, CO 81422",15,in, UNKNOWN,76,Residuum weathered from sandstone and shale,33,95,LC,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-108.70637,38.29163,6299,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Kill site/bone remains present,None,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Pinon-Bowdish-Rock outcrop complex,",,,,,,,,,,,,,,,,,,,,-108.70637,38.29163,9/1/2018,{0CF1800C-35E6-4BF1-B869-542CDDF87606},18061120272272122018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69342,1.80606E+12,1.80613E+15,10/18/2018 16:14,SS,SS-232,6/13/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+
+Head south on US-550 S/S Townsend Ave toward Anderson Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.5 mi)
+24.5 mi
+
+Turn right onto CO-62 W/State Hwy 62/Sherman St
+ Continue to follow CO-62 W/State Hwy 62
+23.3 mi
+
+Continue onto CO-145 N
+32.5 mi
+
+Continue onto CO-141 N
+0.6 mi
+
+Turn right onto CO-90
+0.4 mi
+
+Turn right onto Mailbox Park Rd
+3.5 mi
+Mailbox Park Rd
+Nucla, CO 81424",14,in,R036XY326CO,15,Alluvium derived from sandstone,11,230,LL,Flat Plain,,Allotment,Decimal Degrees,NAD 83,,-108.46355,38.23894,7432,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Rabbit and deer scat present; ERNA appears browsed,PJ treatment and seeding,Transmission line and road 5 meters from end of T2 and T3,Abundant cicadas and BRTE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Barx fine sandy loam, 3-6%",,,,,,,,,,,,,,,,,,,,-108.46355,38.23894,9/1/2018,{533C151F-2B38-4297-9084-EE81B2242556},18061309363388792018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69343,1.8053E+15,1.80613E+15,10/16/2018 11:43,PJ,PJW-132,6/13/2018 0:00,CO,Montrose,"Follow S Rio Grande Ave to CO-90 W
+11 min (5.3 mi)
+ 
+Head north on S Townsend Ave toward E Oak Grove Rd
+249 ft
+
+Turn left at the 1st cross street onto E Oak Grove Rd
+0.3 mi
+
+E Oak Grove Rd turns slightly right and becomes S Rio Grande Ave
+1.3 mi
+
+Turn left onto CO-90 W/W Main St
+ Continue to follow CO-90 W
+1.8 mi
+
+Turn left to stay on CO-90 W
+1.0 mi
+
+Turn right to stay on CO-90 W
+0.9 mi
+ 
+Take 90 Rd to CO-90
+1 h 23 min (37.6 mi)
+ 
+Turn left to stay on CO-90 W
+2.1 mi
+
+Turn left to stay on CO-90 W
+2.2 mi
+
+Continue onto 90 Rd
+15.6 mi
+
+Turn left to stay on 90 Rd
+14.5 mi
+
+Continue onto CO-90
+3.2 mi
+CO-90",15,in,R036XY284CO,48,Residuum weathered from interbedded sandstone & sh,41,64,LC,Hills/Mountains*,Backslope,Allotment,Decimal Degrees,NAD 83,,-108.38282,38.26392,6469.799805,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Signs of grazing visible,,"Powerline maintenenace roads in surrounding area. T1 runs perpendicular to a powerline, less than 1 mile away","Evidence of past fire activity visible, including fallen and scorched trees, as well as, woody debris littering the plot and surrounding area",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gurley-Skein loams,,,,,,,,,,,,,,,,,,,,-108.38282,38.26392,9/1/2018,{BC778864-0406-440A-A2ED-0FBA8D52E311},18061315553173042018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69344,1.80606E+12,1.80626E+14,11/5/2018 18:09,SS,SS-229,6/26/2018 0:00,CO,Montrose,"Head north on S Townsend Ave toward Woodgate Rd
+0.1 mi
+
+Turn left onto E Oak Grove Rd
+0.3 mi
+
+E Oak Grove Rd turns slightly right and becomes S Rio Grande Ave
+1.3 mi
+
+Turn left onto CO-90 W/W Main St
+ Continue to follow CO-90 W
+1.8 mi
+
+Turn left to stay on CO-90 W
+1.0 mi
+
+Turn right to stay on CO-90 W
+0.9 mi
+ 
+Continue on CO-90 W. Drive to Old Lindsey Canyon Trail
+11 min (4.9 mi)
+ 
+Turn left to stay on CO-90 W
+2.1 mi
+
+Turn left to stay on CO-90 W
+1.4 mi
+
+Turn left onto Old Lindsey Canyon Trail
+1.4 mi
+38.41965, -107.97606",13,in,R036XY325CO,B31,Slope alluvium derived from sandstone,13,210,CL,Terrace**,Riser,Allotment,Decimal Degrees,NAD 83,,-107.97606,38.41965,6401,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,"dead, partially decayed deer; tracks and scat present. Two small rodent burrows present. 3-5"" burrow/den under a rock. Sheep scat present; evidence of grazing and tracks within plot",,Unmaintained road running through T3,"Trash; including shotgun shells, bottles, and cans; scattered throughout plot",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Barx-Lazear, very flaggy-Rock outcrop complex",,,,,,,,,,,,,,,,,,,,-107.97606,38.41965,9/1/2018,{00242386-8AB4-4FB1-A32C-A857F07037CC},1806260806284632018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69345,1.80606E+12,1.80627E+15,11/5/2018 18:16,MMS,SS-233,6/27/2018 0:00,CO,Ouray,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+
+Head south on US-550 S/S Townsend Ave toward Anderson Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.5 mi)
+13.3 mi
+
+Turn left onto Co Rd 2
+1.9 mi
+
+Turn right onto Co Rd 4B
+1.5 mi
+
+Turn left to stay on Co Rd 4B
+0.5 mi
+38.27685604932676, -107.712179732",19,in,R036XY287CO,842,"Slope alluvium over residuum weathered igneous, me",47,315,VV,Hills/Mountains*,Backslope,Allotment,Decimal Degrees,NAD 83,,-107.71223,38.27689,7392,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Elk and deer scat present; game trails present throughtout the plot and surrounding area. Cattle presence visible,Signs of grazing,"A private road and property line are present downslope of the plot, opposite the gully.","A gully is present downslope from the plot, about .2-.3 miles away",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Parkelei-Signalhill, very stony complex",,,,,,,,,,,,,,,,,,,,-107.71223,38.27689,9/1/2018,{9B5D4C28-AFA2-4EC3-9031-321B9D3388E9},18062708513744492018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69346,1.80606E+12,1.80628E+15,10/18/2018 10:40,PJ,SS-225,6/28/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+
+Head north on S Townsend Ave toward Woodgate Rd
+ Pass by Burger King (on the left in 1.8 mi)
+10 min (6.5 mi)
+ 
+Follow W Jay Jay Rd and Jig Rd to 5850 Rd
+6 min (3.6 mi)
+ 
+Turn left onto W Jay Jay Rd
+1.7 mi
+
+Turn left onto Jig Rd
+1.4 mi
+
+Slight left to stay on Jig Rd
+0.4 mi
+
+Turn left to stay on Jig Rd
+0.1 mi
+
+Turn left at the 1st cross street onto 5850 Rd
+58 s (0.5 mi)
+ 
+Take Rim Rd to Dry Creek Rd
+16 min (4.6 mi)
+ 
+Turn right onto Kiowa Rd
+0.8 mi
+
+Turn left onto Shavano Valley Rd
+0.2 mi
+
+Turn right onto Rim Rd
+3.1 mi
+
+Turn right onto Dry Creek Rd
+200 ft
+
+Continue straight to stay on Dry Creek Rd
+0.4 mi
+Dry Creek Rd
+Montrose, CO 81403",12,in,R036XY113CO,30,Colluvium over residuum weathered from sandstone/s,5,50,LL,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-108.04869,38.4851,6421,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Deer scat and prints present. Small lizards present. Very minimal evidence of grazing.,Domestic sheep in spring- light; signs of recreation present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Barboncito-Rock outcrop complex,,,,,,,,,,,,,,,,,,,,-108.04869,38.4851,9/1/2018,{5D8A084A-CAA0-4353-BC42-E1A2B8EE3DA5},18062807330619972018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69347,1.80606E+12,1.80703E+15,11/5/2018 16:40,SS,SS-231,7/3/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Take CO-145 N to S17 Rd
+1 h 59 min (102 mi)
+ 
+Head south on US-550 S/S Townsend Ave toward Anderson Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.5 mi)
+24.5 mi
+
+Turn right onto CO-62 W/State Hwy 62/Sherman St
+ Continue to follow CO-62 W/State Hwy 62
+23.3 mi
+
+Continue onto CO-145 N
+32.5 mi
+
+Continue onto CO-141 N
+21.2 mi
+ 
+Take Q 12 Rd to S15 Rd
+14 min (4.7 mi)
+ 
+Turn right onto S17 Rd
+0.4 mi
+
+Slight left onto Q 12 Rd
+1.9 mi
+
+Slight right
+1.1 mi
+
+Turn right onto S15 Rd
+ Destination will be on the right
+1.2 mi
+S15 Rd
+Naturita, CO 81422",14,in,R036XY326CO,17,Alluvium derived from sandstone,6,60,VL,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-108.776972,38.404861,5928,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Grass appears to be grazed. Cow patties present,Grass appears to be grazed; most likely plowed and seeded,Uranium mining and road development nea plot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Barx-Progresso complex, 3-12% slopes",,,,,,,,,,,,,,,,,,,,-108.776972,38.404861,9/1/2018,{94A1D21D-4A2C-4856-AAB1-A788B02F759B},18070315460062612018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69348,1.80606E+12,1.80704E+15,10/18/2018 11:43,SS,SS-228,6/14/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Follow US-550 S, CO-62 W/State Hwy 62 and CO-145 N to CO-90
+1 h 33 min (80.9 mi)
+ 
+Head south on US-550 S/S Townsend Ave toward Anderson Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.5 mi)
+24.5 mi
+
+Turn right onto CO-62 W/State Hwy 62/Sherman St
+ Continue to follow CO-62 W/State Hwy 62
+23.3 mi
+
+Continue onto CO-145 N
+32.5 mi
+
+Continue onto CO-141 N
+0.6 mi
+ 
+Take 3000 Rd, CC Rd, BB Rd, 2700 Rd, ... and Z26 Rd to V19 Rd
+26 min (13.4 mi)
+ 
+Turn right onto CO-90
+0.9 mi
+
+Continue straight
+0.3 mi
+
+Continue onto DD30 Rd
+0.5 mi
+
+Turn left onto DD31 Rd
+0.8 mi
+
+Continue onto 3000 Rd
+1.4 mi
+
+Turn left onto CC Rd
+1.5 mi
+
+Turn right onto Main St
+0.7 mi
+
+Continue onto Grand Ave
+0.5 mi
+
+Continue onto BB Rd
+1.2 mi
+
+Turn right onto 2700 Rd
+1.1 mi
+
+Turn left onto Aa Rd
+0.8 mi
+
+Turn right onto 26 Rd
+1.5 mi
+
+26 Rd turns left and becomes Z26 Rd
+1.6 mi
+
+Turn left onto V19 Rd
+0.6 mi
+38.3197538483447, -108.622451421",13,in,R036XY325CO,17,Alluvium derived from sandstone,2,16,LL,Flat Plain,,Allotment,Decimal Degrees,NAD 83,,-108.62241,38.31976,5653,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,grazing visible; could be due to livestock- cow patties present in plot.Bunches grazed and seedheads absent lead us to conclude that crazing occurs here.,possible treatment in the past due to presence of dead and uprooted woody sp. throughout plot,A telephone line runs perpendicular to our T1 about a quarter mile north.,Cryptobiotic soil crust visible throughout plot.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Barx-Progresso complex, 3 to 12 percent slopes",,,,,,,,,,,,,,,,,,,,-108.62241,38.31976,9/1/2018,{F187C745-C011-4F85-9A56-DEF3BAE091CA},18070408554231632018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69349,1.80605E+15,1.80704E+15,11/5/2018 15:00,PJ,MMS-073,7/4/2018 0:00,CO,Ouray,"Head south on US-550 S/S Townsend Ave toward Woodgate Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.6 mi)
+6.4 mi
+
+Turn right onto Uncompahgre Rd
+118 ft
+
+Turn left onto Frontage Rd
+0.3 mi
+
+Turn right onto Government Springs Rd
+1.2 mi
+
+Turn right to stay on Government Springs Rd",14,in,R036XY325CO,B31,Slope alluvium derived from sandstone,13,60,VL,Terrace**,Riser,Allotment,Decimal Degrees,NAD 83,,-107.86259,38.32482,6959,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,"Deer and elk scat present; some fresh, but most of it dry. Grasses appear grazed and game trails/tracks are prevalent throughout plot.",P/J pasture that appears chained. Chainsawed tree stumps present,Homes and transmission lines visible from plot. Unmaintained two-track runs through T1,"Seeded with AGCR; OPFR dominates the plot ground. Chained, woody debris throughout plot.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Barx-Lazear, very flaggy-Rock outcrop complex 3-10",,,,,,,,,,,,,,,,,,,,-107.86259,38.32482,9/1/2018,{2B9BAFDD-80A8-443E-BCD1-55B9C934ACC8},18070414232981442018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69350,1.80604E+15,1.80705E+15,10/22/2018 12:12,SD,SD-324,7/5/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+
+Head north on S Townsend Ave toward Woodgate Rd
+ Pass by KFC (on the right in 0.3 mi)
+0.8 mi
+
+Turn right onto S 12th St
+0.5 mi
+
+Turn right onto Sunnyside Rd
+0.2 mi
+
+At the traffic circle, take the 3rd exit onto S Hillcrest Dr
+1.3 mi
+
+Continue onto 6600 Rd
+0.9 mi
+
+Turn right onto Landfill Rd
+4.6 mi
+
+Turn right onto Bostwick Park Rd
+0.2 mi
+38.5311900, -107.7908600",14,in, UNKNOWN,44,Alluvium,36,10,LV,Terrace**,Riser,Allotment,Decimal Degrees,NAD 83,,-107.79086,38.53119,6307,2,Drought,Drought,0,1,0,1,0,1,0,0,0,0,,Small rodent burrows,,none,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gullied land,,,,,,,,,,,,,,,,,,,,-107.79086,38.53119,9/1/2018,{12B00A9F-1687-4F63-B8CB-1ACBBC56C0F3},18070509094810962018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69351,1.80605E+15,1.8071E+15,11/5/2018 18:29,MMS,MMS-074,7/10/2018 0:00,CO,Montrose,"Take US-50 W to D Rd in Delta County
+23 min (18.9 mi)
+Head north on S Townsend Ave toward E Oak Grove Rd
+ Pass by Burger King (on the left in 1.8 mi)
+6.5 mi
+Continue onto US-50 W
+12.4 mi
+ 
+Take 1900 Rd, F Rd, 2000 Rd and 2050 Rd to CO-92 E
+11 min (7.2 mi)
+ 
+Turn right onto D Rd
+0.8 mi
+
+Continue onto 1900 Rd
+1.9 mi
+
+Turn right onto F Rd
+1.0 mi
+
+Turn left onto 2000 Rd
+1.0 mi
+
+Turn right onto G Rd
+0.5 mi
+
+Turn left onto 2050 Rd
+1.0 mi
+
+Turn right onto H Rd
+0.3 mi
+
+Turn left onto 2075 Rd
+0.7 mi
+
+Turn right onto CO-92 E
+30 min (25.9 mi)
+ 
+Take Fruitland Mesa Rd and Black Canyon Rd to D76 Rd in Montrose County
+35 min (15.2 mi)
+ 
+Turn right onto Dogwood Ave
+184 ft
+
+Turn left onto Fruitland Mesa Rd/I St
+ Continue to follow Fruitland Mesa Rd
+3.3 mi
+
+Continue straight onto 7745 Rd
+1.2 mi
+
+Turn right onto A Rd/Black Canyon Rd
+410 ft
+Turn right to stay on A Rd/Black Canyon Rd
+0.8 mi
+Turn left onto Black Canyon Rd
+1.9 mi
+Slight right to stay on Black Canyon Rd
+3.7 mi
+Turn right
+0.5 mi
+Continue straight
+0.4 mi
+Turn right
+1.4 mi
+Merge onto D76 Rd
+0.3 mi
+Turn left to stay on D76 Rd
+1.4 mi
+D76 Rd
+Crawford, CO 81415",22,in,R048AY238CO,1,Weathered from sandstone,7,344,LC,Terrace**,Riser,Allotment,Decimal Degrees,NAD 83,,-107.76064,38.61922,8002,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Elk and deer scat present; avian and ungulate skeletal remains present near T2,,Unmaintained 4x4 road about 10 m from plot center.,Dry stock pond just beyond T2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Absarokee loam, 3 to 12 percent slopes",,,,,,,,,,,,,,,,,,,,-107.76064,38.61922,9/1/2018,{8327CE82-7D09-4AF8-84BE-3A68B781750D},18071012195392682018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69352,1.80606E+12,1.80712E+15,11/5/2018 18:19,SD,SS-234,7/12/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+
+Head north on S Townsend Ave toward Woodgate Rd
+ Pass by Burger King (on the left in 1.8 mi)
+2.6 mi
+
+Turn right onto Maple Rd/N San Juan Ave
+ Continue to follow N San Juan Ave
+0.2 mi
+
+Sharp left onto 6450 Rd
+3.9 mi
+
+Continue onto 6400 Rd
+3.9 mi
+
+Turn right onto Falcon Rd
+0.2 mi
+
+Slight left onto Peach Valley Rd
+5.7 mi
+38.664540854239426, -107.883523224",11,in, UNKNOWN,74,Locally transported stony residuum,11,198,CC,Terrace**,Riser,Allotment,Decimal Degrees,NAD 83,,-107.88352,38.66456,5607,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,possible pronghorn scat. Evidence of grazing,Evidence of grazing,located in an OHV area,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Torriorthents-Haplargids complex, very stony",,,,,,,,,,,,,,,,,,,,-107.88352,38.66456,9/1/2018,{87880A92-0E96-4D4D-B04C-55C6534B898E},18071208214636302018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69353,1.80604E+15,1.80712E+14,10/22/2018 15:43,SD,SD-332,7/12/2018 0:00,CO,Delta,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+
+Head north on S Townsend Ave toward Woodgate Rd
+17 s (0.1 mi)
+ 
+Take S Rio Grande Ave to N Townsend Ave
+4 min (1.7 mi)
+ 
+Take US-50 W to Carnation Rd
+14 min (12.6 mi)
+ 
+Follow Carnation Rd and 6200 Rd to Peach Valley Rd in Delta County
+15 min (7.4 mi)
+2283 Peach Valley Rd
+Delta, CO 81416",10,in,R034BY109UT,800,Cretaceous source colluvium over residuum weathere,7,35,CC,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-107.90334,38.68056,5427,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Persayo loam, 4 to 25 percent slopes",,,,,,,,,,,,,,,,,,,,-107.90334,38.68056,9/1/2018,{0D195BC6-C4EC-464F-89FF-CF8A8AB7F878},1807121251101692018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69354,1.80716E+15,1.80716E+15,10/24/2018 9:08,PJ,GR-021,6/14/2018 0:00,CO,Montrose,"38.4593651, -107.8670737
+Head east on E Oak Grove Rd toward S Townsend Ave
+11 s (184 ft)
+ 
+Follow US-550 S, CO-62 W/State Hwy 62 and CO-145 N to CO-90
+1 h 34 min (81.0 mi)
+ 
+Turn right onto US-550 S/S Townsend Ave
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.6 mi)
+24.6 mi
+
+Turn right onto CO-62 W/State Hwy 62/Sherman St
+ Continue to follow CO-62 W/State Hwy 62
+23.3 mi
+
+Continue onto CO-145 N
+32.5 mi
+
+Continue onto CO-141 N
+0.6 mi
+ 
+Take CC Rd, 2700 Rd and Z26 Rd to The Meadows Trail
+41 min (19.4 mi)
+ 
+Turn right onto CO-90
+0.9 mi
+
+Continue straight
+0.3 mi
+
+Continue onto DD30 Rd
+0.5 mi
+
+Turn left onto DD31 Rd
+0.8 mi
+
+Continue onto 3000 Rd
+1.4 mi
+
+Turn left onto CC Rd
+3.1 mi
+
+Turn right onto 2700 Rd
+2.1 mi
+
+Turn left onto Aa Rd
+0.8 mi
+
+Turn right onto 26 Rd
+1.5 mi
+
+26 Rd turns left and becomes Z26 Rd
+4.4 mi
+
+Sharp right onto The Meadows Trail
+3.6 mi
+29516 The Meadows Trail
+Nucla, CO 81424",15,in, UNKNOWN,76, Residuum weathered from interbedded sandstone/sha,6,240,LC,Hills/Mountains*,Backslope,Allotment,Decimal Degrees,NAD 83,,-108.57239,38.36678,6194.209961,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,Evidence of deer presence (scat),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Pinon-Bowdish-Rock outcrop complex, 3-10% slopes",,,,,,,,,,,,,,,,,,,,-108.57239,38.36678,9/1/2018,{7EB46847-A716-40C2-972F-FB450F8C8531},18071607392328632018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69355,1.80604E+15,1.80717E+15,10/22/2018 16:59,SS,SD-398,7/17/2018 0:00,CO,Delta,"From BLM Office
+Follow S Junction Ave and S 5th St to S San Juan Ave
+2 min (0.5 mi)
+ 
+Follow US-50 W to W 5th St in Delta
+26 min (22.3 mi)
+ 
+Take G Rd and G50 Rd to US-50 W
+8 min (5.0 mi)
+ 
+Turn left onto US-50 W
+4 min (4.2 mi)
+
+Turn left onto 730 Rd
+19 min (3.4 mi)
+730 Rd
+Delta, CO 81416",9,in, UNKNOWN,75,Stony loamy rockfall deposits,31,340,CV,Terrace**,Riser,Allotment,Decimal Degrees,NAD 83,,-108.2094,38.73566,5151,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Torriorthents-Rock outcrop, sandstone, complex",,,,,,,,,,,,,,,,,,,,-108.2094,38.73566,9/1/2018,{5FE6772C-7BBE-45EB-B2A3-EE0E03372A5C},18071710495691532018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69356,1.80604E+15,1.80717E+15,11/5/2018 17:28,SS,SD-396,7/17/2018 0:00,CO,Delta,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Take US-50 W to W 5th St in Delta
+28 min (23.2 mi)
+ 
+Take G Rd and G50 Rd to US-50 W
+8 min (5.0 mi)
+ 
+Turn left onto US-50 W
+5 min (5.6 mi)
+ 
+Continue on 650 Rd. Drive to Escalante Rim Rd
+22 min (7.5 mi)
+730 Rd
+Delta, CO 81416",10,in, UNKNOWN,73,Alluvium and/or colluvium,7,218,LC,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-108.23609,38.71801,5571,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Shavano-Lazear complex, 3 to 12 percent slopes",,,,,,,,,,,,,,,,,,,,-108.23609,38.71801,9/1/2018,{6E9308CE-31B9-4AE0-B523-06EF98EA1123},18071714501753302018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69357,1.80606E+12,1.80718E+15,11/5/2018 18:30,MMS,SS-302,7/18/2018 0:00,CO,Delta,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Take US-50 W to D Rd in Delta County
+23 min (19.0 mi)
+ 
+Head north on S Townsend Ave toward Woodgate Rd
+ Pass by Burger King (on the left in 1.8 mi)
+6.5 mi
+
+Continue onto US-50 W
+12.4 mi
+ 
+Take 1900 Rd, F Rd, 2000 Rd and 2050 Rd to CO-92 E
+11 min (7.2 mi)
+ 
+Turn right onto D Rd
+0.8 mi
+
+Continue onto 1900 Rd
+1.9 mi
+
+Turn right onto F Rd
+1.0 mi
+
+Turn left onto 2000 Rd
+1.0 mi
+
+Turn right onto G Rd
+0.5 mi
+
+Turn left onto 2050 Rd
+1.0 mi
+
+Turn right onto H Rd
+0.3 mi
+
+Turn left onto 2075 Rd
+0.7 mi
+ 
+Continue on CO-92 E to Bowie Rd
+32 min (27.5 mi)
+ 
+Turn right onto CO-92 E
+15.3 mi
+
+Turn left onto CO-133 N
+12.1 mi
+ 
+Drive to 4405 Dr/Hubbard Creek Rd
+13 min (5.4 mi)
+ 
+Slight left onto Bowie Rd
+1.9 mi
+
+Turn left onto 4405 Dr/Hubbard Creek Rd
+3.4 mi
+20750 Hubbard Creek Rd
+Paonia, CO 81428",18,in,R048AY238CO,2,Weathered from sandstone,5,285,LL,Hills/Mountains*,Shoulder,Allotment,Decimal Degrees,NAD 83,,-107.56125,38.9553,7936,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Absarokee-Work loams, 6 to 25 percent slopes",,,,,,,,,,,,,,,,,,,,-107.56125,38.9553,9/1/2018,{587D0D36-210D-40E6-82F6-A4376156A62C},18071810392856832018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69358,1.80719E+15,1.80719E+15,11/5/2018 16:28,MMS,RIP-206,7/19/2018 0:00,CO,Gunnison,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Take US-50 W to D Rd in Delta County
+22 min (19.0 mi)
+ 
+Take 1900 Rd, F Rd, 2000 Rd and 2050 Rd to CO-92 E
+11 min (7.2 mi)
+ 
+Drive from CO-133 N to Gunnison County
+36 min (30.8 mi)
+ 
+Turn right
+3 min (1.3 mi)
+38.8968100, -107.4921000",18,in, UNKNOWN,,,8,350,LC,Floodplain/Flood basin,,Allotment,Decimal Degrees,NAD 83,,-107.492096,38.896809,7372,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,"Elk,bear, Mule deer scat present; about 30-50% of grasses in openings palatable",Signs of cattle grazing,"Coal mine reclamation has introduced BRIN2, subsidence evidence on hike in; a two-track runs through T2 at 7m.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.492096,38.896809,9/1/2018,{3BDEB358-BFF2-4FAD-9357-EFAD3CEABDD9},18071908345580362018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69359,1.80604E+15,1.80723E+14,11/5/2018 18:04,SD,SD-334,7/23/2018 0:00,CO,Delta,"Follow S Townsend Ave and US-50 W to Confluence Dr in Delta
+27 min (22.6 mi)
+ 
+Head north on S Townsend Ave toward E Oak Grove Rd
+ Pass by Burger King (on the left in 1.8 mi)
+6.5 mi
+
+Continue onto US-50 W
+15.9 mi
+
+Turn right onto Meeker St
+0.1 mi
+
+Turn left at the 2nd cross street onto E 12th St
+344 ft
+
+Turn left onto Main St
+236 ft
+ 
+Continue on Confluence Dr. Take G Rd to H Ln
+7 min (4.5 mi)
+ 
+Turn right onto Confluence Dr
+0.8 mi
+
+Turn left onto W 5th St
+0.2 mi
+
+Continue onto G Rd
+1.6 mi
+
+Turn right to stay on G Rd
+0.9 mi
+
+Continue onto G50 Rd
+0.4 mi
+
+Turn right onto 1250 Rd
+0.5 mi
+
+Turn left onto H Ln
+381 ft
+693 1250 Rd
+Delta, CO 81416",9,in, UNKNOWN,,,3,149,CV,Terrace**,Riser,Allotment,Decimal Degrees,NAD 83,,-108.13092,38.78548,5308,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Ants have cleared some areas of gravel. PLJA has been grazed; some sheep scat present.,,Alkali flats road about 500 ft west of plot center; transmission line about .25 mi east of plot center,BRTE somewhat common,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.13092,38.78548,9/1/2018,{2E04CEED-9D8D-4D83-BF85-39DEBCC911EE},1807230903411932018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69360,1.80604E+15,1.80724E+15,11/5/2018 18:01,SD,SD-333,7/24/2018 0:00,CO,Delta,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+ 
+Take US-50 W to D Rd in Delta County
+23 min (19.0 mi)
+ 
+Take 1900 Rd, 1800 Rd and CO-92 E to CO-65 S
+11 min (7.0 mi)
+ 
+Turn left onto CO-65 S
+5 min (3.8 mi)
+ 
+Continue on Running Deer Rd. Drive to Oak Creek Rd
+8 min (4.1 mi)
+19681 Oak Creek Rd
+Eckert, CO 81418",10,in, UNKNOWN,11,"Basalt and/or calcareous, gypsiferous, weathered s",40,158,LV,Hills/Mountains*,Footslope,Allotment,Decimal Degrees,NAD 83,,-107.99332,38.85852,5479,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Game trails present in plot vicinity; no evidence of scat.,,Private property located less than 500 ft southast of plot center; road present about 500 ft south of plot center,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Badland,,,,,,,,,,,,,,,,,,,,-107.99332,38.85852,9/1/2018,{A6BB5935-F83D-4EB7-9371-56A92F680FA1},18072408390648502018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69361,1.80604E+15,1.80724E+15,10/22/2018 16:17,SD,SD-335,7/24/2018 0:00,CO,Montrose,"Take US-50 W to Ash Mesa Rd in Delta County
+24 min (20.4 mi)
+ 
+Head north on S Townsend Ave toward E Oak Grove Rd
+ Pass by Burger King (on the left in 1.8 mi)
+6.5 mi
+
+Continue onto US-50 W
+14.0 mi
+ 
+Take D Rd to 25 Mesa Rd in Montrose County
+19 min (11.5 mi)
+ 
+Turn left onto Ash Mesa Rd
+0.8 mi
+
+Turn right onto D 25 Rd
+0.7 mi
+
+Turn left to stay on D 25 Rd
+312 ft
+
+Continue straight onto 1600 Rd
+0.5 mi
+
+Turn right onto Tessman Rd
+0.5 mi
+
+Continue onto D Rd
+1.7 mi
+
+Continue straight onto 25 Mesa Rd
+ Destination will be on the left
+7.1 mi
+Nucla-Delta Rd
+Delta, CO 81416",10,in,R036XY113CO,R3,Colluvium over residuum weathered from sandstone,14,144,LV,Terrace**,Tread,Allotment,Decimal Degrees,NAD 83,,-108.19581,38.65291,5733,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Lazear, extremely flaggy-Rock outcrop-Wellsbasin",,,,,,,,,,,,,,,,,,,,-108.19581,38.65291,9/1/2018,{8AFCE17B-8E1F-49C6-8FE9-6F6D79CCF788},18072413353514022018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69362,1.80719E+15,1.80725E+15,11/5/2018 17:51,PJ,RIP-208,7/25/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+
+Head south on US-550 S/S Townsend Ave toward Anderson Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.5 mi)
+2.7 mi
+
+Turn right toward Racine Rd
+105 ft
+
+Turn right onto Racine Rd
+0.8 mi
+
+Racine Rd turns left and becomes 6500 Rd
+0.7 mi
+
+6500 Rd turns right and becomes Ranger Rd
+0.9 mi
+
+Turn left onto Sims Mesa Rd
+0.6 mi
+
+Slight right onto Happy Canyon Rd
+1.6 mi
+19241-19251 Happy Canyon Rd
+Montrose, CO 81403",12,in,R036XY113CO,30,Colluvium over residuum weathered from sandstone/s,54,20,LL,Terrace**,Riser,Allotment,Decimal Degrees,NAD 83,,-107.90445,38.38847,6423,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Barboncito-Rock outcrop complex, 3 to 20% slope",,,,,,,,,,,,,,,,,,,,-107.90445,38.38847,9/1/2018,{9F117C55-F65F-4BA6-8CF9-15D3E645C6A5},18072508180588582018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69363,1.80606E+12,1.80725E+15,10/19/2018 10:38,SS,SS-301,7/25/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+
+Head north on S Townsend Ave toward Woodgate Rd
+ Pass by Burger King (on the left in 1.8 mi)
+10 min (6.5 mi)
+ 
+Follow W Jay Jay Rd and Jig Rd to 5850 Rd
+6 min (3.6 mi)
+ 
+Turn left onto W Jay Jay Rd
+1.7 mi
+
+Turn left onto Jig Rd
+1.4 mi
+
+Slight left to stay on Jig Rd
+0.4 mi
+
+Turn left to stay on Jig Rd
+0.1 mi
+ 
+Take Jasmine Rd and Hillside Rd to Holly Rd
+6 min (3.9 mi)
+ 
+Turn right at the 1st cross street onto 5850 Rd
+0.5 mi
+
+Turn left at the 1st cross street onto Jasmine Rd
+1.2 mi
+
+Continue onto Hillside Rd
+1.8 mi
+
+Continue onto Holly Rd
+0.4 mi
+ 
+Take Transfer Rd to Rotocap Rd 542
+40 min (13.8 mi)
+ 
+Slight left to stay on Holly Rd
+0.5 mi
+
+Turn left onto Transfer Rd
+9.2 mi
+
+Turn right onto Rotocap Rd 542
+4.1 mi
+38.494587726957491, -108.151302157",16,in,R036XY113CO,B31,Colluvium over residuum weathered from sandstone,10,108,LL,Flat Plain,,Allotment,Decimal Degrees,NAD 83,,-108.15125,38.49464,7149,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Deer scat present.,Juniper knocked/cut down,Road adjacent to plot with fencing,Cyano crust common around plot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Barx-Lazear, very flaggy-Rock outcrop complex",,,,,,,,,,,,,,,,,,,,-108.15125,38.49464,9/1/2018,{01C7E4CF-9EDB-4AD3-9863-F5A676D67ECF},18072514484483882018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69364,1.80604E+15,1.80726E+15,11/5/2018 17:17,SD,SD-328,7/26/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+
+Head north on S Townsend Ave toward Woodgate Rd
+ Pass by KFC (on the right in 0.3 mi)
+0.8 mi
+
+Turn right onto S 12th St
+0.5 mi
+
+Turn right onto Sunnyside Rd
+0.2 mi
+
+At the traffic circle, take the 3rd exit onto S Hillcrest Dr
+1.3 mi
+
+Continue onto 6600 Rd
+0.9 mi
+
+Turn right onto Landfill Rd
+3.8 mi
+38.5608813, -107.8275775",13,in, UNKNOWN,15,Silty alluvium,5,321,LL,Fan Piedmont,,Allotment,Decimal Degrees,NAD 83,,-107.82764,38.56085,6135,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Evidence of grazing; rabbit scat present. Burrow holes present on plot. Evidence of grazing; no evidence of cattle,None,None,OHV trails common throughout plot; one present at the end of T2.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Billings silty clay loam,,,,,,,,,,,,,,,,,,,,-107.82764,38.56085,9/1/2018,{E8BCB38C-4177-4527-84CA-958ECA5519BE},18072607523797912018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69365,1.8053E+15,1.80827E+15,10/16/2018 10:43,PJ,PJW-133,8/1/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+
+Head south on US-550 S/S Townsend Ave toward Anderson Rd
+ Continue to follow US-550 S
+ Pass by Chili's Grill & Bar (on the right in 0.5 mi)
+24.5 mi
+
+Turn right onto CO-62 W/State Hwy 62/Sherman St
+ Continue to follow CO-62 W/State Hwy 62
+23.3 mi
+
+Continue onto CO-145 N
+32.5 mi
+
+Turn left onto CO-141 S
+12.6 mi
+
+Turn right onto County Rd U29 W
+6.0 mi
+
+County Rd U29 W turns right and becomes U29 Rd
+2.9 mi
+
+Turn right onto W Fork Dry Creek
+2.4 mi
+38.1362627, -108.6606630",16,in, UNKNOWN,17,Alluvium derived from sandstone,13,50,CC,Terrace**,Riser,Allotment,Decimal Degrees,NAD 83,,-108.66058,38.1362,6279.52002,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,Jack rabbit and deer scat present. No evidence of livestock in plot vicinity,The draw below appears to have been used for cattle in the past; cow patties were present. Plot area appears undisturbed.,OHV roads present above cliff shelf and the gully below was used for livestock but it currently unmaintained.,"Appears that this area has burned relatively recently. Large, dead Juniper debris littler the site, but live trees don’t appear to have many burn scars.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Barx-Progresso complex,,,,,,,,,,,,,,,,,,,,-108.66058,38.1362,9/1/2018,{8917278F-A876-49A4-AC6B-7AD07CCF9981},18082713232751312018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69366,1.80604E+15,1.80522E+15,11/2/2018 11:54,SD,SD-323,5/22/2018 0:00,CO,Montrose,"Montrose Blm
+2465 S Townsend Ave, Montrose, CO 81401
+Head north on S Townsend Ave toward Woodgate Rd
+Pass by Burger King (on the left in 1.8 mi)
+6.5 mi
+Continue onto US-50 W
+5.4 mi
+Turn left onto CO-348 N
+0.8 mi
+Continue onto SW 5th St
+171 ft
+Continue onto CO-348 N
+7.0 mi
+Turn left onto Cedar Rd
+1.4 mi
+Turn left to stay on Cedar Rd
+0.2 mi
+Unnamed Road
+Olathe, CO 81425
+ Walk ~285 meters to the east to plot
+38°36'31.8""N 108°08'38.2""W",10,in,R036XY325CO,X14,Slope alluvium derived from sandstone and shale,8,91,CC,Hills/Mountains*,Shoulder,Allotment,Decimal Degrees,NAD 83,,-108.143957,38.608851,5814,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Barboncito, extremely flaggy-Samala-Rock outcrop c",,,,,,,,,,,,,,,,,,,,-108.143957,38.608851,9/1/2018,{0B65FD55-B6D3-4B5B-954B-F62E1AEE6E97},18052209380212082018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69367,1.80606E+12,1.80529E+15,11/2/2018 10:09,MMS,SS-221,5/29/2018 0:00,CO,Montrose,"Head southwest toward US-50 W
+2 s (135 ft)
+ 
+Continue on US-50 E. Take Dave Wood Rd to Timber Ridge Rd in Ouray County
+40 min (29.3 mi)
+ 
+Turn right onto Timber Ridge Rd
+9 min (2.4 mi)
+38.3407500, -107.9786800",16,in,R036XY287CO,858,Cretaceous source colluvium derived from sandstone,6,25,LL,Terrace**,Riser,Allotment,Decimal Degrees,NAD83,,-107.97868,38.34075,7654,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,"Deer, elk rabbit and possibly sheep scat. Dried out/old cow scat. Rabbitbrus appears to have been recently browsed",Chaining in 1965. Further lop and scatter and burn in the 70s.,none,Loped and scattered large pieces of JUOS covering area. Man made structure 0.1 mile from the plot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wellsbasin, extremely stony-Signalhill, very stony",,,,,,,,,,,,,,,,,,,,-107.97868,38.34075,9/1/2018,{65CDE00C-12B5-4D86-8AA6-9C13F1A48D5C},18052912522061422018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+69368,1.8053E+15,1.80531E+15,10/16/2018 10:29,PJ,PJW-131,5/31/2018 0:00,CO,Delta,"Take US-50 W to D Rd in Delta County
+23 min (18.9 mi)
+ 
+Head north on S Townsend Ave toward E Oak Grove Rd
+ Pass by Burger King (on the left in 1.8 mi)
+6.5 mi
+
+Continue onto US-50 W
+12.4 mi
+ 
+Take 1900 Rd, F Rd, 2000 Rd and 2050 Rd to CO-92 E
+11 min (7.2 mi)
+ 
+Turn right onto D Rd
+0.8 mi
+
+Continue onto 1900 Rd
+1.9 mi
+
+Turn right onto F Rd
+1.0 mi
+
+Turn left onto 2000 Rd
+1.0 mi
+
+Turn right onto G Rd
+0.5 mi
+
+Turn left onto 2050 Rd
+1.0 mi
+
+Turn right onto H Rd
+0.3 mi
+
+Turn left onto 2075 Rd
+0.7 mi
+
+Turn right onto CO-92 E
+22 min (18.7 mi)
+ 
+Take Crawford Rd and Cottonwood Creek Rd to your destination
+8 min (4.5 mi)
+ 
+Turn left onto Fobare Rd
+0.8 mi
+
+Turn right onto Crawford Rd
+2.1 mi
+
+Turn left onto Cottonwood Creek Rd
+1.3 mi
+
+Turn left
+0.2 mi
+15232 3050 Rd",18,in, UNKNOWN,56,"Weathered, calcareous silty shale",38,314,LL,Hills/Mountains*,Shoulder,Allotment,Decimal Degrees,NAD 83,,-107.60166,38.76742,6532.140137,2,Drought,Drought,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Midway-Gaynor silty clay loams,,,,,,,,,,,,,,,,,,,,-107.60166,38.76742,9/1/2018,{3F26A196-3DE3-4F31-8E87-F0467F1DAF46},18053110585075952018-09-01,CO_UncompahgreFO_LUP_2018_5-3b_02.mdb,CO,CO,Colorado Uncompahgre FO 2018,,,,
+74017,CO,COS05000_2019_SS-241,6/4/2019 14:41,SS,SS-241,5/30/2019 6:00,CO,COS05000,,,,,B31,Sandstone,5,93,linear linear,Flat_Plain,,COS05000,Decimal Degrees,WGS84,,-108.0388429,38.4995844,,,,,0,0,0,0,1,0,0,0,1,0,,Low level elk and mule deer,,Transmission lines has a transmission road present may be influencing site characteristics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.0388323,38.49957832,9/1/2019,{8B0F219A-5154-4137-B7C2-65276260ED68},COS05000_2019_SS-2412019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74035,CO,COS05000_2019_SD-339,7/24/2019 16:06,SS,SD-339,7/23/2019 6:00,CO,COS05000,,,,,B31,Collovium over residuum derived from sandstone,5,90,linear linear,Terrace,Riser,COS05000,Decimal Degrees,WGS84,,-108.0840249,38.52829838,1876,,,,0,0,1,0,0,0,0,0,0,1,,Deer scat present,Pinons cut and piled throughout plot,"Road adjacent to plot, causing runoff into plot",Barbed wire fence and other trash present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.0840143,38.52829231,9/1/2019,{FC966D93-7D5F-46D8-9514-0DF1442D7552},COS05000_2019_SD-3392019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74036,CO,COS05000_2019_SD-350,6/4/2019 14:41,SD,SD-350,5/29/2019 6:00,CO,COS05000,,,,,36,Aluvium derived from shale,1,230,linear concave,Flat_Plain,,COS05000,Decimal Degrees,WGS84,,-107.957081,38.67150979,1631,,,,0,0,0,0,0,0,0,0,0,1,"Was farmed in the past, can see drainage ditches and furrow marks throughoyt plot.",Prarie dog holes present,"Majority of vegetation is invasive, evidence of farming, trash.","Farm adjacent to plot, private road on 120 degree side of plot",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.9570704,38.67150369,9/1/2019,{C2322CBF-FDCB-49B3-9735-9F8E534B610D},COS05000_2019_SD-3502019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74045,CO,COS05000_2019_SS-246,6/8/2019 13:45,SS,SS-246,6/6/2019 6:00,CO,COS05000,,,,,78,Cobbly and stoney outwash,8,211,linear linear,Flat_Plain,,COS05000,Decimal Degrees,WGS84,,-108.2061283,38.82637218,1783,,,,0,0,0,0,1,0,0,0,0,1,,Pronghorn seen area on way to site. Blue collared lizard. Evidence of rabbits. Ant hills frequent. ,"Cheat grass, brome, DEPI, ",Had to move plot East because of road.,Tons of cheat grass.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.2061177,38.82636607,9/1/2019,{30BE449D-AAF5-4739-B6E5-2C6C69887140},COS05000_2019_SS-2462019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74046,CO,COS05000_2019_SD-338,6/8/2019 13:45,SD,SD-338,6/5/2019 6:00,CO,COS05000,,,,,52,"Stony, outwash alluvium",1,117,linear linear,Flat_Plain,,COS05000,Decimal Degrees,WGS84,,-108.1131406,38.78928547,1576,,,,0,0,0,1,1,0,0,0,0,0,,"Evidence of deer or antelope, anthills common",Last years drought,None,"Area primarily dead vegetation and gravel. More dead vegetation in comparison to other surrounding plateaus, possibly from last years drought? Dead vegetatio appears to be mainly LAOT.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.11313,38.78927936,9/1/2019,{4A29DE33-F0B5-4F63-A349-9228E0E1612A},COS05000_2019_SD-3382019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74047,CO,COS05000_2019_MMS-079,6/8/2019 14:02,PJ,MMS-079,6/7/2019 6:00,CO,COS05000,,,,,79,Cobbly and stoney outwash ,47,265,linear linear,Hill_Mountain,Backslope,COS05000,Decimal Degrees,WGS84,,-108.2039914,38.85120843,1963,,,,0,0,1,0,0,0,0,0,0,0,,"Evidence of deer or antelope, small rodents and small lizards.",Dominated by BTRE.,"None, plot is relatively far from any main roads.",Plot is located on a slope with one half sloping towards a gully and the other half sloping up towards a hill ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.2039807,38.85120232,9/1/2019,{3AE14EC2-6DC9-446D-9934-37B883E622EC},COS05000_2019_MMS-0792019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74048,CO,COS05000_2019_SD-341,6/8/2019 14:02,SD,SD-341,6/5/2019 6:00,CO,COS05000,,,,,42,Recent alluvium,5,193,linear linear,Terrace,Tread,COS05000,Decimal Degrees,WGS84,,-108.1982222,38.80861834,1645,,,,0,0,0,0,0,0,1,0,0,0,,"Cottentail rabbits, pronghorn","DEPI, BRDI",N/A,Very rocky across site. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.1982116,38.80861224,9/1/2019,{120CF4EF-25D2-4BB4-AE48-1A6B5ED9F6C1},COS05000_2019_SD-3412019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74060,CO,COS05000_2019_SD-337,11/12/2019 19:13,SD,SD-337,6/8/2019 6:00,CO,COS05000,,,,,80,Glacial outwash and/or old complex landslide deposits,31,261,linear concave,Floodplain_Basin,,COS05000,Decimal Degrees,WGS84,,-108.3141033,38.83815403,1590,,,,0,0,1,1,0,0,0,0,0,0,,"Some signs of pronghorn, deer, rabbits, and visually seen several lizards.  Most signs of ungulate use is in gully. ",Invasive - BRTE widespread through plot. ,None in the area. ,"Small gully intersecting 240 degree transect and 0 degree transect. Quite rocky surface giving it a """"shield"""" from some erosion. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.3140926,38.83814793,9/1/2019,{BDADC822-3130-40EB-ADDF-1E949B610AF1},COS05000_2019_SD-3372019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74061,CO,COS05000_2019_SD-336,6/11/2019 17:44,SD,SD-336,6/10/2019 6:00,CO,COS05000,,,,,23,Cretaceous residuum weathered from shale,9,299,linear convex,Floodplain_Basin,,COS05000,Decimal Degrees,WGS84,,-107.8671959,38.78829947,1626,,,,0,0,0,1,0,0,0,0,0,0,,Deer or elk tracks all throughout the plot and surrounding hills. Possible elk scat. Ant hills. ,"Plot lies in a basin surrounding hills and cliffs, soil is effected by water deposition. One 3-4ft wide gully runs through transect 3 (240 degree).",None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.8671853,38.78829335,9/1/2019,{3017F006-6791-4995-9756-EDB76CE0BC00},COS05000_2019_SD-3362019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74062,CO,COS05000_2019_SS-242,6/11/2019 14:36,SD,SS-242,6/9/2019 6:00,CO,COS05000,,,,,23,Cretaceous residuum weatgered from of shale,23,262,convex concave,Hill_Mountain,Backslope,COS05000,Decimal Degrees,WGS84,,-107.7384216,38.7695029,1664,,,,0,0,0,1,0,0,0,0,0,0,,"Some game trails but hard to tell what species are using them (looks kike deer tracks), rabbits, few ant hills. Possibly inactive prarie dog burrow. ","BRTE,",Transmission lines and farm somewhat close [quarter mile or so],"Rolling hills with little grass cover, quite a few shrubs and forbs, only listed water as a recent disturbance as quite a few rills / gullies with signs of small amount of recent flowing water. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.738411,38.76949677,9/1/2019,{A0659200-5D34-4EE6-B5D7-F5D9A27D3742},COS05000_2019_SS-2422019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74063,CO,COS05000_2018_SD-329,6/11/2019 17:44,SD,SD-329,6/9/2019 6:00,CO,COS05000,,,,,59,Weathered from bedrock,9,200,linear convex,AlluvialFan,,COS05000,Decimal Degrees,WGS84,,-108.244774,38.80027481,1632,,,,0,1,0,0,0,0,0,0,0,0,,"Prairie dog active in site, small amount if pronghorn scat near site, ant colonies common.",Tamerisk close to sight in small rills but not directly in plot. ,Cell tower off in distance about 330 degrees. Likely not influencing site but good reference point,Lots of blooming princes plume!,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.2447634,38.80026872,9/1/2019,{EDD6AC67-D981-4F75-AEC4-4FC242B6016D},COS05000_2018_SD-3292019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2018,,,,
+74099,CO,COS05000_2019_OT-112,6/19/2019 14:05,SD,OT-112,6/18/2019 6:00,CO,COS05000,,,,,703,Alluvium derived from shale,9,90,concave concave,Terrace,Riser,COS05000,Decimal Degrees,WGS84,,-107.9465913,38.6608356,1653,,,,0,0,0,1,0,0,0,0,0,1,,Few old inactive praire dog burrows on plot. Rabbit scat.  Few ant hills. ,"Tamarisk, chorispora tenellia, diffuse knapweed",Someone took an ATV/UTV near 25m mark on 0 degree line,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.9465807,38.6608295,9/1/2019,{DCFE9EA7-AD6B-4F73-8B0D-EF06133449F6},COS05000_2019_OT-1122019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74103,CO,COS05000_2019_SD-344,6/20/2019 22:29,SD,SD-344,6/20/2019 6:00,CO,COS05000,,,,,11,"Basalt and/or calcareous, gypsiferous, weathered silty shale",25,43,linear concave,Floodplain_Basin,,COS05000,Decimal Degrees,WGS84,,-107.8672356,38.55095961,1772,,,,0,0,0,0,0,0,0,0,0,1,,"Few ant hills, game trails likely from deer/pronghorn along with quite a bit of hedging on shrubs, some spots dug likely from small rodents but hard to tell exactly what they are from (mostly near or in rills)","Cheat grass, chorispora tenella, prickly lettuce, agoeris parviflora(false agoseris)
+",In an area with atv/motor bike/horse/pedestrian trails around it but not in plot. ,One larger rill running through plot with quite a few on slopes around the plot.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.8672251,38.55095351,9/1/2019,{E8716907-2A4D-4C68-BAC7-2C35370CB985},COS05000_2019_SD-3442019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74104,CO,COS05000_2019_SS-245,6/20/2019 22:29,MMS,SS-245,6/19/2019 6:00,CO,COS05000,,,,,262,Colluvium over residuum weathered from sandstone and shale,6,355,linear linear,Flat_Plain,,COS05000,Decimal Degrees,WGS84,,-108.0615627,38.39910363,2323,,,,0,0,1,0,0,0,0,0,0,1,," Elk tracks and scat, small lizards, rabbit scat present. ",Plot was chained in late 60s/early 70s. Pinon and juniper logs scattered.,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.0615522,38.39909757,9/1/2019,{1E84977A-09BC-4876-8996-97F1B6CFA5A8},COS05000_2019_SS-2452019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74105,CO,COS05000_2019_SD-348,6/20/2019 22:40,SD,SD-348,6/19/2019 6:00,CO,COS05000,,,,,703,Alluvium derived from shale,15,183,linear concave,Terrace,Tread,COS05000,Decimal Degrees,WGS84,,-107.9288139,38.65393076,1658,,,,0,0,0,1,0,0,0,0,0,1,,"Deer tracks, multiple ant hills, rabbit scat, inactive praire dog holes.",Chorispora tenella,Looks like a few atv tracks in plot. ,mix of shrubs and forbs with small amount of grasses. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.9288033,38.65392466,9/1/2019,{1CA10F85-BB5B-406C-A4FB-611437D4C303},COS05000_2019_SD-3482019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74109,CO,COS05000_2019_SD-340,6/21/2019 19:13,SD,SD-340,6/21/2019 6:00,CO,COS05000,,,,,14,Silty alluvium,28,304,linear linear,AlluvialFan,,COS05000,Decimal Degrees,WGS84,,-107.7844615,38.50510132,1910,,,,0,1,0,0,0,0,1,0,0,0,,"Prairie dog holes on plot. No signs of grazing this year. Last years grass short, probably grazed.","Chorispora tenella
+Erci6",100 m south of plot a road is ontop of the hill. This is where the majority of the rills leading into the plot are found.,Some clay pigeons and metal cans at base of hill north of road,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.784451,38.50509523,9/1/2019,{03EF7A76-DB70-48AA-8D6E-ADF2AA0AA215},COS05000_2019_SD-3402019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74147,CO,COS05000_2019_PJ-136,6/28/2019 16:06,MMS,PJ-136,6/26/2019 6:00,CO,COS05000,,,,,262,Colluvium over residuum weathered from sandstone and shale,26,4,linear convex,Terrace,Riser,COS05000,Decimal Degrees,WGS84,,-107.9940277,38.34634031,2354,,,,0,0,0,1,0,0,0,0,0,0,,"Some hedging on shrubs and a fair amount of game trails in the area, passed by a fair sized den (possibly bobcat), several different ant colonies.  Multiple lizards","DEPI,",N/A,"Difficult and very dense hike into plot through a gully, lots of shrubs and trees, end of 0 degree line is at the top of the gully. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.9940172,38.34633425,9/1/2019,{31D88530-88DD-46E9-B0F7-69DDC5E9589D},COS05000_2019_PJ-1362019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74148,CO,COS05000_2019_MMS-076,6/28/2019 16:06,MMS,MMS-076,6/25/2019 6:00,CO,COS05000,,,,,262,Colluvium over residuum  weathered from sandstone and shale,8,43,linear linear,Flat_Plain,,COS05000,Decimal Degrees,WGS84,,-107.9735806,38.35445156,2269,,,,0,0,1,0,0,0,0,0,0,0,,Grazing on shrubs approaching plot. Minimal herb grazing. Burrow on plot.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.9735701,38.3544455,9/1/2019,{3D62E404-3242-4ADE-ADA5-36380E4BD8CE},COS05000_2019_MMS-0762019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74150,CO,COS05000_2019_RI-194,6/30/2019 20:14,PJ,RI-194,6/30/2019 6:00,CO,COS05000,,,,,R3,Colluvium over residuum weatyered from sandstone,22,282,linear concave,AlluvialFan,,COS05000,Decimal Degrees,WGS84,,-108.1233663,38.53678442,1931,,,,,,,,,,,,,,,"Fox or small coyote skull found in plot, likely more in area. Rabbit scat and deer or elk tracks present in plot. ",Depi common in some areas of plot ,None,Plot on slope above gully. Water flow patterns into the gully are common. Road 1/4 mile above plot may be influencing this. Otherwise relatively undisturbed area.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.1233557,38.53677834,9/1/2019,{87EB3B66-E16A-4DF8-96B7-6FA85C330BE6},COS05000_2019_RI-1942019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74151,CO,COS05000_2019_SS-237,6/30/2019 20:15,SS,SS-237,6/29/2019 6:00,CO,COS05000,,,,,B31,"Description of Barx- PM = Slope alluvium derived from sandstone, Description of Lazear - PM =  Very Flaggy  Colluvium over residuum weathered from sandstone",31,120,linear concave,AlluvialFan,,COS05000,Decimal Degrees,WGS84,,-108.084394,38.460291,2035,,,,0,0,0,0,1,0,0,0,0,1,,Deer or antelope tracks and scat ,Few invasives. CHTE found occasionally. ,"Tabaguache trail/2 track adjacent to plot on the east side, causing runoff into plot. One major gully runs through the south edge of the plot as result of road. ",Main disturbance in this plot is runoff from the road,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.0843834,38.46028491,9/1/2019,{C20FB830-0EB4-41BD-B218-AE16082960F7},COS05000_2019_SS-2372019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74186,CO,COS05000_2019_PJ-137,7/9/2019 19:58,PJ,PJ-137,7/8/2019 6:00,CO,COS05000,,,,,76,Cobbles and stones rockfall deposits,11,78,linear concave,Terrace,Tread,COS05000,Decimal Degrees,WGS84,,-108.6029003,38.36906949,1831,,,,0,0,1,0,0,1,1,0,0,0,,Elk or deer prints and droppings,"Leal, depi, drcu",,Severe exposed bedrock nne that is elevated above plot causing runoff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.6028897,38.36906347,9/1/2019,{A124822F-851A-4BD2-84FE-10994F491D00},COS05000_2019_PJ-1372019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74187,CO,COS05000_2019_GR-022,7/9/2019 19:58,PJ,GR-022,7/7/2019 6:00,CO,COS05000,,,,,76,Cobbles and stones rockfall deposits,9,51,convex linear,Terrace,Tread,COS05000,Decimal Degrees,WGS84,,-108.6862775,38.38891388,1771,,,,0,0,1,0,0,0,0,0,0,1,,Droppings and tracks from elk and deer very common throughout plot. Likely an elk wintering spot. Grasses in plot heavily grazed and droppings/scat concentrated in this area. ,"Possible lightning scars on some junipers. Trees mainly had burn marks mid way up tje trunk, none at base. Burns not recemt
+Invasives BRTE, LEAL4 and DEPI present in plot.",None,Pinon juniper not grassland.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.6862668,38.38890786,9/1/2019,{F368F3D6-EC42-404A-ABB4-21D6D1A9907A},COS05000_2019_GR-0222019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74188,CO,COS05000_2019_SD-342,7/9/2019 20:09,SD,SD-342,7/6/2019 6:00,CO,COS05000,,,,,17,Alluvium derived from sandstone ,7,339,concave convex,AlluvialFan,,COS05000,Decimal Degrees,WGS84,,-108.8394048,38.44488681,1551,,,,0,0,1,0,0,0,0,0,0,0,,"Ant hills, last year grazing severe, large tracks look like elk","Invasives leal, brte, depi, bindweed","Road 60 m away, rills appeae to be leading from road",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.839394,38.44488079,9/1/2019,{D3992F0F-F5CF-49CA-9098-1C2E1AA4154C},COS05000_2019_SD-3422019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74189,CO,COS05000_2019_SS-247,7/24/2019 15:55,SS,SS-247,7/7/2019 6:00,CO,COS05000,,,,,17,Alluvium derived from sandstone,3,21,linear linear,Flat_Plain,,COS05000,Decimal Degrees,WGS84,,-108.7685504,38.41124141,1779,,,,0,0,1,0,0,0,0,0,0,1,,"Deer scat present but not dominating. Coyote or bobcat tracks foumd outside of plot at pond, but not on the plot. ","DEPI, LEAL4, BRTE, RATE, ERCI6 and DRCU very common throughout this plot, likely due to heavy cattle grazing. ",2 track road adjacent to plot inbetween the 120 amd 240 lines.,Heavy cattle grazing and dominated by invasives. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.7685396,38.41123539,9/1/2019,{16C52F26-D262-4AFE-8B47-43F0F611B43F},COS05000_2019_SS-2472019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74190,CO,COS05000_2019_PJ-140,7/9/2019 20:09,PJ,PJ-140,7/6/2019 6:00,CO,COS05000,,,,,88,Residuum weathered from sand stone,20,319,linear concave,Hill_Mountain,Backslope,COS05000,Decimal Degrees,WGS84,,-108.783372,38.44377606,1626,,,,0,1,1,0,1,0,1,0,0,0,,"Deer, small rodent, looks like cow pie but small","Drcu, depi",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.7833613,38.44377004,9/1/2019,{D604B86E-8F22-4E46-A57A-A566A66D6F83},COS05000_2019_PJ-1402019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74252,CO,COS05000_2019_SD-343,7/24/2019 15:55,SD,SD-343,7/23/2019 6:00,CO,COS05000,,,,,73, Alluvium and/or colluvium,11,92,linear concave,Terrace,Tread,COS05000,Decimal Degrees,WGS84,,-108.2646682,38.76672604,1669,,,,0,0,0,1,0,0,0,0,0,1,,Dove nest found on ground with two eggs. Small lizards present. Some ant hills throughout the plot. Deer and rabbit droppings present.,"DEPI, BRTE, CHTE, DRCU and LASE present at plot.","Old road or 2 track running perpendicular to the 120 degree line. Runoff from road caused 30m section in between 240 and 120 lines to be washed out. Pedestaling on plants and deposition/runoff common near edge of road, but not the rest of the plot.","Road next to plot is currently closed off to motorized vehicles, but has been driven recently regardless.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.2646575,38.76671995,9/1/2019,{FF608A9F-F375-4C9E-A912-CCE59DA3BD24},COS05000_2019_SD-3432019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74253,CO,COS05000_2019_SS-252,7/24/2019 15:55,PJ,SS-252,7/22/2019 6:00,CO,COS05000,,,,,25,Alluvium derivedfrom sandstone,2,42,linear linear,Flat_Plain,,COS05000,Decimal Degrees,WGS84,,-108.3756513,38.22740468,2101,,,,0,0,1,0,1,0,0,0,0,0,,Game trails throughout the plot looks like deer or elk scat. Browsing on some chte,"Depi, brte, chte, drcu, rate, lase","Road is ~150m away, no obviuos influence except invasives",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.3756407,38.22739867,9/1/2019,{5025026C-A856-4B8B-ADE7-EA5D0218ECCB},COS05000_2019_SS-2522019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74254,CO,COS05000_2019_SS-248,7/24/2019 15:55,PJ,SS-248,7/21/2019 6:00,CO,COS05000,,,,,76,Cobbles and stones rockfall deposits,16,91,linear linear,Terrace,Tread,COS05000,Decimal Degrees,WGS84,,-108.646248,38.24857792,1815,,,,0,1,0,0,0,0,0,0,0,1,,"Small burrow found of ground squirrel or other rodent. Small deer tracks present but rare. Rabbit droppings present occasionally. Some small brown lizards seen. There are many rock outcroppings that snakes, bears or mountain lions could reside in, but no known signs of them.",DEPI present but not dominating.,None,"Plot is on top of a mesa that is almost entirely bedrock. There are a couple standing, dead pinons and ponderosas in the plot, but the cause of death is unclear.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.6462373,38.24857192,9/1/2019,{39C3883B-9B73-4174-B6B5-A7D7E85120A2},COS05000_2019_SS-2482019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74255,CO,COS05000_2019_RI-196,7/24/2019 15:55,PJ,RI-196,7/20/2019 6:00,CO,COS05000,,,,,79,Cobbly and stony outwash,25,179,linear concave,AlluvialFan,,COS05000,Decimal Degrees,WGS84,,-108.764096,38.29003424,1702,,,,0,0,1,0,0,1,0,0,0,0,,Possible mountain goat tracks and evidence of browsing on plants.,DRCU and DEPI present but not dominating ,None,Plot on slope off of alluvial fan. One major inactive gully cuts through the center of the plot in between the 0 and 120 lines. Gully is old but loose soil and rock are deposited at the base. Boulders are widespread throughout the area ascwell.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.7640853,38.29002824,9/1/2019,{3FC30FEB-DA6F-4AB8-8211-D578CCF31A4F},COS05000_2019_RI-1962019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74256,CO,COS05000_2019_RI-195,7/24/2019 15:54,PJ,RI-195,7/22/2019 6:00,CO,COS05000,,,,,76,Cobbles & stones rockfall deposits,8,301,linear linear,Flat_Plain,,COS05000,Decimal Degrees,WGS84,,-108.4030398,38.20554418,1979,,,,0,0,0,0,0,1,1,0,0,0,,"Redtail hawk in area, many small lizards, rabbit scat, deer scat and tracks, ant hills present, lots of small insect burrows in downed logs and soil.","Lots and lots of invasives, DEPI, BRTE, ERSI6, SIAL2, LASE, DRCU, ",Some UTV roads near plot but quite overgrown and no recent use but may be contributing to the formation of some rills.,"Possible burn as there are many chared logs in the sage area that look like they were cut with a saw and piled up, also small juos and pied coming up in this area. Very little soil deposition from wind. Lots and lots of invasives on plot. Small gully or large rill (dried stream) just outside of plot that several of the rills lead into. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.4030291,38.20553817,9/1/2019,{443ED063-C080-4126-B299-379F09232076},COS05000_2019_RI-1952019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74257,CO,COS05000_2019_SS-251,7/24/2019 15:55,SS,SS-251,7/19/2019 6:00,CO,COS05000,,,,,107,Eolian deposits derived from sandstone,7,230,linear linear,AlluvialFan,,COS05000,Decimal Degrees,WGS84,,-108.9681148,38.29688513,1971,,,,0,0,1,0,1,0,1,0,0,1,,Deer droppings and browsing,Bee or beetle holes in ground,Old mining road touching 240 line probable cause of runoff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.968104,38.29687914,9/1/2019,{EF394E29-3EC2-4AD8-90C5-037429A48475},COS05000_2019_SS-2512019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74258,CO,COS05000_2019_SS-240,7/24/2019 15:54,PJ,SS-240,7/18/2019 6:00,CO,COS05000,,,,,45,Residuum weathered from sandstone,11,115,linear concave,Floodplain_Basin,,COS05000,Decimal Degrees,WGS84,,-109.0520255,38.24493561,1909,,,,0,0,0,1,0,1,0,0,0,0,,Deer scat widespread in area. One or two small holes likely from rodents but dont look active. Bear scat near plot.  Several lizard species. ,"RATE, DEPI, DRCU","None in immediate area, quite remote. ","Possible soil deposition by wind but plot is dominated by deposition from water. Bear scat near plot, awesome area surrounded by small cliffs and shelves.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-109.0520147,38.24492964,9/1/2019,{DBB28256-65CC-4010-8744-8D7C0C5AFD8C},COS05000_2019_SS-2402019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74315,CO,COS05000_2019_PJ-138,8/4/2019 15:00,PJ,PJ-138,8/3/2019 6:00,CO,COS05000,,,,,"B31—Barx-Lazear, very flaggy-Rock outcrop complex, 3 to 35 percent
+slopes","Barx - Slope alluvium derived from sandstone, Lazear- Colluvium over residuum weathered from sandstone",6,279,linear linear,Terrace,Tread,COS05000,Decimal Degrees,WGS84,,-108.3457912,38.64285293,2193,,,,0,1,1,0,1,0,0,0,0,1,,"Lizards, deer, rabbit scat, mountain blue bird, ","DRCU, DEPI, CHTE, COWR2, ",Road pretty close to plot but is an overgrown two track that looks like it is not used often.,"Lots of downed and decating PIED and JUOS, listed wind as possible reason but not sure. Quite a bit of duff in area as well. Definitly a lot of fuel if fire comes through.  Long rill directly outside of plot leading towards canyon. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.3457805,38.64284686,9/1/2019,{B98BA91C-C609-4A3F-9708-D6A3D7D8E2F4},COS05000_2019_PJ-1382019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74316,CO,COS05000_2019_SS-239,8/4/2019 15:00,PJ,SS-239,8/2/2019 6:00,CO,COS05000,,,,,B31,Slope alluvium derived from sandstone.,10,143,linear convex,AlluvialFan,,COS05000,Decimal Degrees,WGS84,,-108.3367911,38.60383913,2110,,,,0,0,1,0,0,1,0,0,0,0,,Rabbit and elk droppings present.,"DEPI, BRTE and CHTE present.","Cattle trough directly adjacent to plot. Fence and 2 track road about 50m off of 240 line. Some trash (ex beer cans, plastic) scattered throught plot.",Heavy influence from cattle grazing.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.3367804,38.60383306,9/1/2019,{C0384E2C-2294-4CE0-934A-A84DFB0303AB},COS05000_2019_SS-2392019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74317,CO,COS05000_2019_SS-243,8/4/2019 15:00,SS,SS-243,8/1/2019 6:00,CO,COS05000,,,,,X31M,Colluvium over residuum weathered from sandstone,23,301,linear linear,Terrace,Riser,COS05000,Decimal Degrees,WGS84,,-108.2660668,38.64908298,1933,,,,0,1,1,1,0,0,0,0,0,0,,"Rabbit pellets, deer tracks, browsed plants, bear scat outside of plot","Invasives: drcu, depi, chte",Road approximately 200 m away at 180 degrees,Rills from the road leading to the gully running parallel to north line,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.2660562,38.6490769,9/1/2019,{B2F09FE6-1512-4CD9-AF3C-965C808B8388},COS05000_2019_SS-2432019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74318,CO,COS05000_2019_SD-347,8/4/2019 15:00,SD,SD-347,8/1/2019 6:00,CO,COS05000,,,,,73—Shavano-Lazear complex,"Shavano- Colluvium derived from sandstone and shale, Lazear- Alluvium and/or colluvium",6,122,linear concave,Terrace,Tread,COS05000,Decimal Degrees,WGS84,,-108.2498505,38.6826927,1810,,,,0,1,1,1,1,0,0,0,0,0,,"Rabbit scat, deer/pronghorn scat and prints, coyote scat, several ant colonies, possible bear scat, several small lizards, ","BRTE, DEPI, ",,Small amount of soil deposited by wind at base of shrubs but very moderate. Same with water but looks like it probably rained overnight. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.2498399,38.68268662,9/1/2019,{E4867D59-7543-4DC1-950C-C10F19BC0EE7},COS05000_2019_SD-3472019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74329,CO,COS05000_2020_MMS-081,8/6/2019 0:35,MMS,MMS-081,8/5/2019 6:00,CO,COS05000,,,,,81,Rewprked material weathered from sandstone,4,337,linear linear,Terrace,Tread,COS05000,Decimal Degrees,WGS84,,-107.6204592,38.60833166,2394,,,,0,0,1,0,0,0,0,0,0,1,,"Elk and deer  scat, deer skull, chipmunks",,Road less than 100 m away,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.6204487,38.60832554,9/1/2019,{BA136F88-79E8-43BC-9D52-D40A19AAF981},COS05000_2020_MMS-0812019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2020,,,,
+74330,CO,COS05000_2019_SS-244,8/6/2019 0:37,SS,SS-244,8/4/2019 6:00,CO,COS05000,,,,,"B31(blm side) - Barx-Lazear, very flaggy-Rock outcrop complex, 18 (national forest side) - Begay fine sandy loam","Barx-Slope alluvium derived from sandstone, Lazear-Colluvium over residuum weathered from sandstone, 18 - Begay - Alluvium derived from sandstone ",9,90,linear linear,AlluvialFan,,COS05000,Decimal Degrees,WGS84,,-108.2661839,38.53668242,2193,,,,0,1,1,1,0,0,0,0,0,0,,"Bear scat, chipmunk, rabbit scat, deer prints & scat, many lizards, ant colonies  (several species)","BRTE, DEPI, ",None directly near plot but fair amount of UTV and 4x4 roads on top of monitor mesa leading in and through potter basin.,Water deposition more common in the sage parts of plot compared to the parts with tree cover.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.2661732,38.53667636,9/1/2019,{4602B04C-2F4C-4C40-BEB7-062D3CF439B0},COS05000_2019_SS-2442019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74332,CO,COS05000_2020_MC-048,8/7/2019 17:54,MC,MC-048,8/6/2019 6:00,CO,COS05000,,,,,921,Slide deposits derived by igneous and sedementary rockn,45,40,concave convex,Hill_Mountain,Backslope,COS05000,Decimal Degrees,WGS84,,-107.6031361,38.28955431,2942,,,,,,,,,,,,,,,"Game trails throughout and around plot, possibly elk or deer. Coyotes spotted in surrounding areas, but not at plot. Jays, and several smaller bird species present. Chipmunks amd squirrels very common. ",None,"Very old road 1/8 mile from plots center, but does not appear to be having an impact on the site. ",Plot is surrounded by private land and is relatively isolated from human activities. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.6031256,38.28954824,9/1/2019,{4D14F6D2-2904-4987-930F-EA2947817EF2},COS05000_2020_MC-0482019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2020,,,,
+74388,CO,COS05000_2020_SS-254,8/16/2019 23:40,GR,SS-254,8/15/2019 6:00,CO,COS05000,,,,,"76 - Torriorthents-Rock outcrop, shale, complex",Torriorthents - Cobbles & stones rockfall deposits.  ,35,183,linear concave,Hill_Mountain,Backslope,COS05000,Decimal Degrees,WGS84,,-107.5297406,38.8846008,2303,,,,0,1,1,1,0,1,0,0,0,0,,"Chipmunk, deer scat, elk scat, rabbit, bald eagle, coopers hawk, snake (grey will try and find species)","BRJA, BRTE, ALAL3, LASE, LEAL4, TARA, jointed goat grass (just off plot), musk thistle (CUNAM2), yellow sweet clover (MEOF), alfalfa (MESA), currly dock (RUCR) , Canada thistle, bull thistle (just off plot)","Small road above and below plot, farm land in the valley, ","In an area that historically had a land slide, lots of invasives, more of a MMS vs a SS, ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.5297302,38.88459464,9/1/2019,{4313FA8A-BA24-4D32-83A3-625D1EF66434},COS05000_2020_SS-2542019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2020,,,,
+74389,CO,COS05000_2019_SS-238,8/17/2019 22:23,MMS,SS-238,8/16/2019 6:00,CO,COS05000,,,,,34,Stony alluvium or colluvium,23,342,linear linear,Hill_Mountain,Shoulder,COS05000,Decimal Degrees,WGS84,,-107.6652373,38.89916143,2318,,,,,,,,,,,,,,,"Elk and deer scat, clear game trails",,,Knotweed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.6652268,38.89915528,9/1/2019,{49B8A94F-1042-4419-B4F9-186261FAC728},COS05000_2019_SS-2382019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74390,CO,COS05000_2020_MMS-082,8/17/2019 22:24,SD,MMS-082,8/17/2019 6:00,CO,COS05000,,,,,44,Alluvium,20,300,concave linear,Flat_Plain,,COS05000,Decimal Degrees,WGS84,,-107.6363684,38.77207053,1785,,,,0,1,1,1,0,0,0,0,0,1,,"Prarie dog holes and runs cover 1/4 of plot, appear to be semi-active, but old. Deer or antelope scat and tracks. ","Dominated by LEPE2 in areas. ALAL3, BRTE, ERCI6 also present and common",Road perpendicular with 120 line. 30m on 120 line touching edge of road. Water runnoff from road created gully running parralel to 120 line. Trash thrown from the road on the plot as well.,"Strata listed as MMS, Actual strata closer to  SD, But sage and JUOS also present",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.6363579,38.7720644,9/1/2019,{906710E2-66AA-4EAD-A9BB-CD3DF145EF50},COS05000_2020_MMS-0822019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2020,,,,
+74424,CO,COS05000_2020_MC-049,8/26/2019 13:56,MMS,MC-049,8/25/2019 6:00,CO,COS05000,,,,,"64 - Radersburg loam, 6 to 12 percent slopes",Cobbly alluvium,32,1,linear convex,Hill_Mountain,Shoulder,COS05000,Decimal Degrees,WGS84,,-108.4209751,38.03207598,2393,,,,0,0,1,0,0,0,0,0,0,0,,"Elk, bear and deer droppings and tracks. Game tracks throughout the plot. Rabbit droppings.","Wildfire approximately 40 years ago burned a conifer stand. Has since been grown over by mixed mountain shrub. Fire scarred conifer snags still standing in plot and on surrounding hillsides.
+DEPI, BRJA present",None,Evidence of wildfire up to 5 miles outside of plot. Actually an MMS instead of a MC. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.4209645,38.03207,9/1/2019,{F87D8B9B-8438-4A5F-AAA0-61230BF462DA},COS05000_2020_MC-0492019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2020,,,,
+74425,CO,COS05000_2020_SD-354,8/26/2019 13:56,SD,SD-354,8/23/2019 6:00,CO,COS05000,,,,,23,Cretaceous residuum weathered from shale,5,241,linear linear,Floodplain_Basin,,COS05000,Decimal Degrees,WGS84,,-108.7469402,38.23522144,1780,,,,0,0,1,0,0,0,0,0,0,1,,"Elk and deer droppings throughout plot, small rodent holes.","SIAL2, DEPI, ERCI6, BRTE, MEOF and LASE present.","In the center of an old open pit uranium mine. Mine was abandoned 50 years ago. Mining roads circling downward towards plot. Rills and unstable soil all along the surrounding mine walls. Plot has since been grown over by vegetation, primarily CHGR6 and invasives)","Abandoned mine, extremely disturbed area. Soil on plot at bottom of mine is loose and somewhat cracked open in areas. Trace minerals present: yellow rock (possibly uranium), possibly valadium? Other yellow rock that smells like sulfur. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.7469295,38.23521545,9/1/2019,{5350958F-AB8A-49F2-916C-1F489D665F81},COS05000_2020_SD-3542019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2020,,,,
+74426,CO,COS05000_2020_PJ-141,8/26/2019 14:37,PJ,PJ-141,8/24/2019 18:00,CO,COS05000,,,,,76,Cobbles and stones rockfall deposits,19,189,linear linear,Terrace,Tread,COS05000,Decimal Degrees,WGS84,,-108.6354041,38.35875845,1700,,,,0,0,1,1,0,0,0,0,0,0,,"Deer, rabbit and elk scat, small lizards present","LEAL4, DRCU, DEPI present","None, road below mesa where plot is located but not influencing the plot","On riser of mesa with 20 degree slope downward. Water flow paths come from top of mesa downward creating a few rills and a gully. Plot is relatively hard to get to, yet has been moderatly- heavily grazed. Possibly an elk wintering ground",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.6353934,38.35875244,9/1/2019,{FE6971EC-0127-4301-9582-34115A292448},COS05000_2020_PJ-1412019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2020,,,,
+74430,CO,COS05000_2020_SD-353,8/27/2019 14:09,SD,SD-353,8/26/2019 6:00,CO,COS05000,,,,,"75 - Torriorthents-Rock outcrop, sandstone, complex",Torriorthents - Stony loamy rockfall deposits.    Rock Outcrop - Unweathered bedrock,15,137,linear concave,Terrace,Tread,COS05000,Decimal Degrees,WGS84,,-108.3080971,38.80932839,1650,,,,0,0,0,0,0,0,1,0,0,0,,"Lizard in rock outcrop, deer or pronghorn scat (old), a lot of hedging on the shrubs in the plot. Rabbit scat on plot","DEPI, DRCU, ",Road about a quarter mile north of plot. ,"Only pedestals are at the base of shrubs or trees caused from wind, near the rim of the canyon, some rills and gully just outside of plot, ground is covered with cobble and flaggy rock helping reduce soil erosion. Lots of hedging of shrubs in plot.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.3080864,38.8093223,9/1/2019,{84B881E2-108B-4A73-B11C-5E0BBDD3DAA3},COS05000_2020_SD-3532019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2020,,,,
+74435,CO,COS05000_2019_PP-172,8/28/2019 23:16,PJ,PP-172,8/28/2019 6:00,CO,COS05000,,,,,"30—Trampas-Delson, moderately deep families complex, 3 to 30 percent 
+slopes","Trampas Family- Locally transported colluvium and/or residuum weathered from 
+sandstone and shale.  Delson Family, Mod Deep- Locally transported colluvium and/or residuum weathered from 
+sandstone and shale",7,22,linear linear,Terrace,Tread,COS05000,Decimal Degrees,WGS84,,-108.2840672,38.60094262,2148,,,,0,1,0,0,0,1,0,0,0,0,,"Small lizards, rabbit scat, tons of spiders on plot in dead fall, deer/elk scat, possible bighorn scat? Small ground squirrel or chipmunk. Clarks nutcracker, jays. ","DRCU, DEPI, CHTE2, ",Quite remote with no roads to access. No obvious off site influences. ,Small canyon on either side of plot. Pretty remote area with difficult access,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.2840565,38.60093655,9/1/2019,{A4D6122B-2BF2-4F08-8DED-ACB484BA17DA},COS05000_2019_PP-1722019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74466,CO,COS05000_2020_SD-352,9/4/2019 23:27,SD,SD-352,9/4/2019 18:00,CO,COS05000,,,,,"75 - Torriorthents-Rock outcrop, sandstone, complex",Torriorthents- Stony loamy rockfall deposits,14,207,linear linear,Flat_Plain,,COS05000,Decimal Degrees,WGS84,,-107.9178586,38.75974401,1613,,,,0,1,0,0,0,0,0,0,0,0,,Inactive prarie dog holes very common throughout plot. None observed to be active. Several large ant hills,None,"Old 2 track 500ft west of plot (closed to vehicles but tracks present), but runoff from road does not appear to be affecting the plot. About 1/4  mile from largr road. Some trash present on plot.",None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.9178481,38.7597379,9/1/2019,{F39315C8-318F-43B7-9FD7-E55D3BA60745},COS05000_2020_SD-3522019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2020,,,,
+74482,CO,COS05000_2021_MC-052,9/11/2019 15:58,MC,MC-052,9/10/2019 18:00,CO,COS05000,,,,,"912—Frisco, very stony-Rock outcrop-Silverjack complex, 30 to 60 
+percent slopes","Frisco - Slide deposits derived from igneous and sedimentary rock, Silverjack complex - Slide deposits derived from igneous, metamorphic and
+sedimentary rock",17,157,concave linear,Hill_Mountain,Backslope,COS05000,Decimal Degrees,WGS84,,-107.5986821,38.29066853,2862,,,,0,0,0,1,0,0,0,0,0,1,,"Fresh elk scat, tracks and beds common throughout plot. Bear claw marks on trees, chipmunks, corvids (grey jay)",None,"Old 2 track transects 240 line, does not appear to be maintained. Water runnoff from 2 track contributes to gully at end of 120 line.",None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.5986716,38.29066246,9/1/2019,{AE7455F3-E89A-487A-A40D-CDF1887DD943},COS05000_2021_MC-0522019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2021,,,,
+74483,CO,COS05000_2020_MMS-085,9/11/2019 15:58,SS,MMS-085,9/9/2019 18:00,CO,COS05000,,,,,"47—Kech-Rock outcrop complex, 10 to 40 percent slopes",Alluvium and/or residuum weathered from sandstone and shale,16,303,linear linear,Terrace,Riser,COS05000,Decimal Degrees,WGS84,,-107.7198695,38.64823309,2262,,,,0,1,1,0,0,0,0,0,0,0,,"Rabbit scat, deer and elk scat common",Fallen and standing deadfall surrounding plot (see photos). LEAL and BRTE present,No evidence of the road that should been leading to the plot. Nearest road approx 106 m,Moderate to heavy browsing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.719859,38.64822698,9/1/2019,{7EB562B3-9F3A-4730-B21A-C79E512930E4},COS05000_2020_MMS-0852019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2020,,,,
+74484,CO,COS05000_2019_SS-250,9/11/2019 15:58,PJ,SS-250,9/8/2019 18:00,CO,COS05000,,,,,"75—Torriorthents-Rock outcrop, sandstone, complex",Torriorhents - Stony loamy rockfall deposits,18,300,linear linear,Hill_Mountain,Backslope,COS05000,Decimal Degrees,WGS84,,-107.8350718,38.72944463,1748,,,,0,1,1,0,0,0,0,0,0,0,,"Lots of elk scat,  deer and bighorn scat, rabbit scat, several ant colonies, song bird, ","On backslope surrounded by gullies, ",Some older road cuts near plot,Some type of disturbance on northern part of plot as it is dominated by invasives. No clear sign as to what caused it. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.8350612,38.72943851,9/1/2019,{527598E8-9912-49D6-B52A-DA4C0C665FB1},COS05000_2019_SS-2502019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+74485,CO,COS05000_2020_SS-253,9/11/2019 15:59,PJ,SS-253,9/6/2019 18:00,CO,COS05000,,,,,"30—Barboncito-Rock outcrop complex, 3 to 20 percent slopes",Barboncito - Colluvium over residuum weathered from sandstone and shale,4,4,linear linear,Flat_Plain,,COS05000,Decimal Degrees,WGS84,,-108.1009194,38.4786476,2117,,,,0,1,0,1,0,0,1,0,0,0,,"Rabbit scat, chipmunk or ground squirrel, some old burrows of some kind that are no longer in use, deer/pronghorn scat, ","DEPI, BRTE, LEAL4, LASE, DRCU  quite a bit of downed or dead PIED and JUOS in area. ",Some private property about 1/4 mile west of plot but likely has no influence on the plot.,Deposition by wind is seen at base of trees and shrubs.  Water run off is just evident from the 1 or two rills on plot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.1009089,38.47864153,9/1/2019,{FA31E6B1-6CEA-4D23-8090-0A8E43E77D12},COS05000_2020_SS-2532019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2020,,,,
+74543,CO,COS05000_2019_AS-002,10/18/2019 20:53,MMS,AS-002,9/20/2019 18:00,CO,COS05000,,,,,"26—Colona silty clay loam, 1 to 6 percent slopes",Colona - Alluvium,39,38,convex linear,Hill_Mountain,Backslope,COS05000,Decimal Degrees,WGS84,,-108.134643,37.99435462,2632,,,,0,1,0,0,0,0,0,0,0,0,,"Lots of elk scat and bedding, chipmunks, ground squirrels, golden eagle on way to plot but not observed at plot.",,Road at the top of the hill (on private)  also surrounded by mostly private lands,"50-70% slope leading into a flood basin. Plot on the upper part of the hill side.  Mixed mountain shrub, not aspen.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.1346324,37.99434862,9/1/2019,{BCCC9799-667F-490E-AC47-68C639C37019},COS05000_2019_AS-0022019-09-01,CO2019RawCleaned.gdb,CO,CO,COS05000_2019,,,,
+80116,CO,CO_UFO-2020_SD-357_V1,6/26/2020 17:47,SD,SD-357,6/19/2020 18:00,CO,Uncompahgre Field Office,,,,,"78—Utaline sandy loam, 3 to 12 percent slopes",Cobbly & stony outwash,6,211,linear linear,AlluvialFan,,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.2742007,38.8514055,1740,,,,0,1,1,0,1,1,1,0,0,0,,"Antelope scat and track, ground squirrel holes throughout site, abandoned ant hill, lack of shrubs assuming due to browsing, sheep scat, dead and dying grass parts some browsing mostly drought.",HAGL SATR12 BRTE,"Upslope 70-100 m from powerline, road and natural gas line but no obvious influence, beneath hill",Mostly fine litter movement forming dams sone larger (5 mm) litter movement.  Mostly remaining beneath plants. Grass rock and 10 crust cover keepin soil stable and causing some terracetting. On average1 in soil deposition typically finer particles beneath plants,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.2741901,38.85139939,9/1/2020,{9114BE5D-5251-4690-B766-BA15F6AB80EA},CO_UFO-2020_SD-357_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80117,CO,CO_UFO-2020_SS-257_V1,6/26/2020 16:02,SD,SS-257,6/24/2020 18:00,CO,Uncompahgre Field Office,,,,R036XY113CO,X14,"Slope alluvium over residuum weathered from sandstone and 
+shale",14,78,linear linear,Hill_Mountain,Shoulder,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.0524686,38.5244586,1831,,,,0,1,0,1,1,1,1,0,0,1,,"Rabit and deer scat on plot, shrubs have been browsed","LACE, DEPI, DRCU, SATR12, 
+
+Evidence of fire, dark organic material in pit, sage and rock had old burn scar. ","Lots of trash at plot center.   Old road going through plot contributing to rills and water flow path. Crosses 120 ° line. 
+
+Powerline about a 1/4 mile S of plot","Lots of old cans and garbage at plot center,
+
+shrubs all plants have dying plant parts, about 15% dead, likely from browse/drought.   Litter/top soil holding under shrubs and trees about 1/2in deeper on average sometimes more in flow paths. 
+
+Large woody litter movement in flow paths with a fair amount of litter dams forming. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.052458,38.52445253,9/1/2020,{1185C384-64F0-4714-9CF1-7A080796D74B},CO_UFO-2020_SS-257_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80118,CO,CO_UFO-2020_SD-365_V1,6/26/2020 16:10,SD,SD-365,6/18/2020 18:00,CO,Uncompahgre Field Office,,,,R034XY404CO,80,Glacial outwash and/or old complex landslide deposits,31,142,linear linear,Hill_Mountain,Shoulder,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.1095694,38.84983605,1940,,,,0,0,0,1,0,0,0,0,0,0,,Evidence of deer and likely antelope use. Not a lot of evidence of browsing.,BRTE prevalent throughout plot. One bull thistle seen.,4WD road south of plot.,"Not a lot of pedestaling, but larger rocks are catching depositions of soil. CACH42 originally recorded as herb not woody height",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.1095588,38.84982993,9/1/2020,{90A31DE7-B5C6-43A3-BC21-8AFC68C372B4},CO_UFO-2020_SD-365_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80119,CO,CO_UFO-2020_SD-366_V1,6/26/2020 16:10,SD,SD-366,6/18/2020 18:00,CO,Uncompahgre Field Office,,,,,"11—Badland,  80—Utaline-Torriorthents complex, 52 - Meeteetse stony loam, 3 to 20 percent slopes","11 - Basalt and/or calcareous, gypsiferous, weathered silty shale,  80 - Glacial outwash and/or old complex landslide deposits, 52 - Stony, outwash alluvium",5,342,linear concave,Floodplain_Basin,,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.0523783,38.79232218,1549,,,,0,1,0,1,1,1,1,0,0,0,,"Prairie dog present throughout plot,  deer or pronghorn scat, smaller holes present,  rabbits on plot, numerous ant colonies, at least two species of lizard seen. ","Mavu, hagl, agcr, sial2, depi, brte, albe, hean3, coar4, lace, acre3, tamerisk right outside of plot in small dried stream.","Just North of delta airport [had to move plot due to this), very close to devils thumb golf club, plot is in the North delta off highway vehicle area. ","Top soil is about a 1/4 inch thicker under the shrubs throughout the plot.  Small mound near center of plot likely formed by water flow, paths common leading down slope towards stream.     Litter mostly remaining under shrubs with few litter dams in flow path.   Shrubs dead/dying likely from drought.  Annual grass and forbs about 80% dead, PLJA holding on but very drought stricken, very disturbed site. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.0523677,38.79231606,9/1/2020,{511EC932-00F7-4DB8-BA68-A873742853C6},CO_UFO-2020_SD-366_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80120,CO,CO_UFO-2020_SD-367_V1,6/26/2020 16:10,SD,SD-367,6/17/2020 18:00,CO,Uncompahgre Field Office,,,,R034BY109UT,801,"Cretaceous source colluvium over residuum weathered from 
+shale",43,299,linear linear,Hill_Mountain,Summit,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.7774556,38.39671397,1982,,,,0,1,1,1,1,1,1,0,1,0,,"Shrubs and grassesheavily browsed (no seed heads remain). Sheep and deer scat, game trails present but no compaction, prarie dog hole on plot",DEPI and BRTE only 2-3 plants of each beside the gully,Power line 5 m north of plot no obvious influence. Road 100 m north,"Water erosion dominates the plot. Evidence of commonly connected water flow paths, 5 deep v cut rills and connection of them becomes a gully that has large litter dams and large rock/woody litter movement. Almost all plants have oedestalling or are apart of terracettes. Root exposure is found throughout the plot especially in rills and near gully. Small litter even under juniper has evidence of movement from beneath the plant (follows downslope).  Due to slope, deposition of soil (approx 3 in common up to 6 in). See photos. Plant death common in shrub grasses and perennial forbs. Few dead junipers. Livhen not common, few large rocks on surface.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.7774451,38.39670789,9/1/2020,{E3A54F23-9C5B-4141-A962-18046C73846A},CO_UFO-2020_SD-367_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80121,CO,CO_UFO-2020_SD-361_V1,6/26/2020 16:10,SD,SD-361,6/16/2020 18:00,CO,Uncompahgre Field Office,,,,,"52 - Meeteetse stony loam, 3 to 20 percent slopes","Stony, outwash alluvium",11,69,linear linear,Terrace,Tread,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.0274758,38.82348575,1669,,,,0,0,0,0,1,0,0,0,0,0,,No scat on plot (may have been blown off) but followed a game trail in.  ATCO has been browsed,"Hagl, BRTE, DEPI",West down slope a lot of motocross trails. Likely not a huge influence ,"On a slope with numerous interspaces, water flow patterns likely connected. Photo showing slope provided
+
+Litter remaining under shrubs, however a lot of larger litter clearly deposited by wind.   Top soil/litter about 1/2in depth under shrubs.  No fine top soil remaining
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.0274652,38.82347963,9/1/2020,{DD7DDCF4-A47C-44E0-9C43-3162C736D4A2},CO_UFO-2020_SD-361_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80122,CO,CO_UFO-2020_SD-364_V1,6/26/2020 16:10,SD,SD-364,6/15/2020 18:00,CO,Uncompahgre Field Office,,,,,800,"Cretaceous source colluvium over residuum weathered from 
+shale",5,38,linear concave,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.907232,38.69362119,1641,,,,0,1,1,0,0,1,1,0,0,0,,Small hoof prints no scat. Browsing evident. Prarie dog mounds common,HAGL,Power lines 300 meters west no visiblevinfluence,"Little pedestaling beneath shrubs, litter remaining beneath shrubs. Small rock fragments moved by water flow. Very windy exposed site but no loose top soil (not even beneath shrubs). Two very long flow paths connecting-see photos. Rock and lichen common and protecting the surface. Dead HAGL and shrubs common",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.9072215,38.69361509,9/1/2020,{4021E1D6-1A3A-4F03-BA0E-8A628E8C8CFE},CO_UFO-2020_SD-364_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80123,CO,CO_UFO-2020_SD-356_V1,7/15/2020 15:25,SD,SD-356,6/11/2020 18:00,CO,Uncompahgre Field Office,,,,,"23 - Bodot, dry-Ustic Torriorthents complex, 5 to 50 percent slopes.","Bodot - Residuum weathered from shale ,  ustic torriorthents - Residuum weathered from sandstone and shale",4,332,linear linear,Floodplain_Basin,,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.8820949,38.62007153,1775,,,,0,1,1,0,0,1,0,0,0,0,,"Prairie dogs present, active and abandoned holes. ","Hagl, brte, Silo3, depi, RUCR, 
+
+All ATCO dying 
+
+40% of SAVE4 have dying branches
+
+30% hagl dying
+
+All annuals dead (rare 1% living)",Road disturbance .5-.25 miles south of plot. ,"Sheet washing seems naturally caused from slope. Sheet washing potentially becoming gully as sides are becoming more defined. Litter deposition uncommon, Always small. Litter remaining benith plants (mainly shrubs).  Aprox 1in soil deposition under shrubs.  Lichen and rock common on surface, protecting remaining soil. 
+
+Little to no top soil. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.8820844,38.62006544,9/1/2020,{179F7B15-CD24-4C21-99BB-FC355E7D794C},CO_UFO-2020_SD-356_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80161,CO,CO_UFO-2020_SS-268_V1,7/7/2020 21:19,SS,SS-268,7/6/2020 18:00,CO,Uncompahgre Field Office,,,,R036XY284CO,32,Alluvium derived from sandstone and shale,5,182,linear linear,Terrace,Tread,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.3067676,38.22672306,2137,,,,0,0,1,0,1,1,1,0,0,0,,"Elk, deer scat. Some browsing causing dead shrub parts however most of death due to pj","DEPI, COPA3",30 m from road but uphill. Potentially brte spread from wind,Small litter movement from wind and water. Very few flow paths potentially caused by game trails. Very short and never connected. 1 inch of fine soil deposition directly beneath shrubs but not enough to cause true pedestals. PJ encroachment (deep clay loam soils and beginning to out compete sage). 30% pinyon death assuming due to drought,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.306757,38.22671704,9/1/2020,{7469B0B7-220A-4643-8096-3A58D48085E0},CO_UFO-2020_SS-268_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80162,CO,CO_UFO-2020_SS-267_V1,7/7/2020 21:19,SS,SS-267,7/3/2020 18:00,CO,Uncompahgre Field Office,,,,,"60—Monogram loam, 1 to 8 percent slopes",Parent material: Eolian deposits,2,305,linear linear,Terrace,Tread,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.8574663,38.21608955,2133,,,,0,0,1,1,0,0,1,0,0,0,,"Deer scat, rabbit scat, ","Brte, depi, lase, ",None,"Slight soil deposition from wind under shrubs. 
+
+From 305° to 240° (about 30 % of plot) water flow paths and sheet erosion common. 
+
+PJ in the general area seems to be encroaching into the sage. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.8574556,38.21608357,9/1/2020,{9E085583-C063-45A6-AA10-1322FD61C7EF},CO_UFO-2020_SS-267_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80163,CO,CO_UFO-2020_SS-264_V1,7/7/2020 21:19,SS,SS-264,7/2/2020 18:00,CO,Uncompahgre Field Office,,,,,76,Cobbles & stones rockfall deposits,5,115,linear linear,Terrace,Tread,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.6198654,38.23631923,1783,,,,0,0,1,1,1,1,1,0,0,0,,Coyote and deer scat and elk scat. Death in sage appears mostly to drought and previous fire but some browse. ,"Depi, lede, drcu",Terrace tread leading to riser with significant washes and large gully,"Majority of interspaces are flow paths leading to pedestalling and large litter movement. Fine soil deposition averages 2 inches under vegeation. In flow path leading to gully entire trees and braches from fire forming dams. 30% tree mortality due to fire, 50% sage due to fire drought and browsing. 50% cyano and 12% rock fragment protecting areas that arent exposed bedrock. PJ succesion (50/50 SS & PJ)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.6198548,38.23631323,9/1/2020,{174FD608-C48E-4863-B63C-AFD31234CBBF},CO_UFO-2020_SS-264_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80164,CO,CO_UFO-2020_RI-199_V1,7/7/2020 21:19,SS,RI-199,7/2/2020 18:00,CO,Uncompahgre Field Office,,,,R034XY401CO,73,Colluvium derived from sandstone and shale,2,80,linear linear,Flat_Plain,,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.6671574,38.22112687,1772,,,,0,0,1,1,1,1,1,0,0,0,,"Deer scat common, game trails developed and common. Sage heavily browsed with at least 50% mortality.","SATR12, DEPI, BRTE, HEAN3, SLENDER WHEAT",Gully leading from hill to road consistent with 60% of waterflow and sheet washing. Two dirt mounds on either side of the largest flow pattern in the plot. Powerlines 25 m N with a large presence of invasives surrounding.,"Approx 1 in of fine soil deposition beneath shrubs, 60% of plot has large washes with movement of WL. Movement of small litter common in flow paths and due to wind. Mortality in 50% of shrubs browse and drought induced.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.6671467,38.22112087,9/1/2020,{5F27A353-0564-4995-8389-8432587D13E0},CO_UFO-2020_RI-199_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80166,CO,CO_UFO-2020_SS-260_V1,7/7/2020 21:19,PJ,SS-260,7/5/2020 18:00,CO,Uncompahgre Field Office,,,,,76,Stony loamy rockfall deposits,5,18,linear concave,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.5657946,38.16938253,1884,,,,0,0,0,1,0,1,0,0,0,0,,"Deer/ elk scat, lots of game trails, ","BRTE, DRCU, DEPI, SIAL2,  LEAL4, CHTE, .   Fire in area likely 60+ years ago.
+
+Some beetle kill on PIED  ","About 50 to 70m from Utv road, may be contributing to sheet washing but seems natural with slope and environment. ","Potential soil deposition from wind but hard to tell because of soil deposition by water.  However a good rock and lichen layer protecting surface
+
+Terrasetting around JUOS, PIED and bedrock going with slope.  Good duff layer remaining under PIED and JUOS averaging 1/2in to 1 in
+
+Small and large litter movement from water throughout site. 
+
+About 50% tree mortality likely caused by fire and beetle kill (PIED). 
+CHAL7 all dead.
+Few ARTRW8 been significantly browsed. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.5657839,38.16937653,9/1/2020,{E7944455-C325-4E5C-B794-3FC9CBB262E8},CO_UFO-2020_SS-260_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80167,CO,CO_UFO-2020_GR-023_V1,7/7/2020 21:26,PJ,GR-023,7/5/2020 18:00,CO,Uncompahgre Field Office,,,,,76,Stony loamy rockfall deposits,5,183,linear linear,Terrace,Tread,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.6190585,38.11930043,2053,,,,0,0,0,1,0,1,0,0,0,0,,"Elk scat, lizards. Minimal browsing and browse species. ","DEPI, DRCU","Flow paths appear due to soil type, minimal vegetation and slope leading into riser","Fibe litter movement common and appear due mostly to water. Large litter movement throughout plot in multiple large washes (see photos). Terracettes due to bedrock along slope, but pockets of soil with species has minimal soil deposition around plants. Litter beneath juniper, but  many with few litter and the litter mobilr. 30% of JUOS potentially due to fire over 60+ years ago. Rocks protecting surface, 5% crusts",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.6190479,38.11929445,9/1/2020,{F69DADAF-A9C5-43CD-A650-2ABBA9AC6DF0},CO_UFO-2020_GR-023_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80182,CO,CO_UFO-2020_OT-113_V1,7/9/2020 22:18,PJ,OT-113,7/1/2020 18:00,CO,Uncompahgre Field Office,,,,,87,Residuum weathered from sandstone,13,122,linear linear,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.9998052,38.32130573,5420,,,,0,0,0,1,1,1,1,0,0,0,,Likely desert bighorn. Site very rugged. Game trails throughout plot.,Deposition and runoff is assumed due to very little soil on site. No disturbances in areas where soil is present.,Dolores SWA very remote. No outside influences.,"Water flow in bedrock is active but stable. 
+
+Litter deposition under shrubs is .25inches. Small litter movement from wind.
+
+Natural succession and die-off due to harsh conditions.
+
+Mortality
+Tree=40% Shrub=15% Forb=30%
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.9997909,38.23129172,9/1/2020,{E33583F9-4888-4B2A-B1CC-E5B932B35335},CO_UFO-2020_OT-113_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80200,CO,CO_UFO-2020_SS-261_V1,7/15/2020 18:10,PJ,SS-261,7/15/2020 18:00,CO,Uncompahgre Field Office,,,,R036XY114CO,160,,4,320,linear linear,Flat_Plain,,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.8940377,38.33596515,2215,,,,0,1,1,1,1,1,1,0,0,0,,"Lots of dead and downed trees due to beetle kill. Deer scat and game trails, rabbit, small holes from rodents","Sheet washing down slope from road. Pedestalling ,ore common in area with sage than with pj. Lots of depi","Road just south of plot, moved the plot to get off the road",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.8940092,38.33642689,9/1/2020,{AF7CCF19-E816-420A-B1EC-622E258A8387},CO_UFO-2020_SS-261_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80217,CO,CO_UFO-2020_SS-265_V1,7/20/2020 22:16,SS,SS-265,7/16/2020 18:00,CO,Uncompahgre Field Office,,,,R036XY325CO,"  B31 Barx-Lazear, very flaggy-Rock outcrop complex, 3 to 35 percent slopes",Barx - Slope alluvium derived from sandstone,6,104,linear linear,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.9077265,38.39087287,1978,,,,0,0,1,1,1,1,1,0,0,0,,"Deer scat common, gametrails present","DEPI, DRCU, LASE, LAOC3, BRTE. Pedestalling due to common water flow paths. Woody litter movement in flow paths. Litter remaing beneath PJ but commonly moved from beneath sage and other species. 1/2 inch fine soil deposition beneath sage. Compaction looks typical of site in waterflow which dominates the plot. PJ protecting from unbiquotous water runoff and sheetwashing. Rock and cyano on 30% of plot protecting the surface. Few pied dead due to drought. 50% of sage dead or with dying parts due to competition, drought and browsing.",Road 20m from end of 120 line causing gullies that border the plot. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.907716,38.3908668,9/1/2020,{0DA4B2CE-0E15-4D2A-8C21-52C9F2E22633},CO_UFO-2020_SS-265_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80230,CO,CO_UFO-2020_SS-269_V1,7/20/2020 22:16,SS,SS-269,7/19/2020 18:00,CO,Uncompahgre Field Office,,,,R036XY325CO,"B31—Barx-Lazear, very flaggy-Rock outcrop complex, 3 to 35 percent 
+slopes","Barx - Slope alluvium derived from sandstone, Lazear - Colluvium over residuum weathered from sandstone. ",5,49,linear linear,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.1484941,38.51594276,2097,,,,0,0,1,1,1,1,1,0,0,0,,"Numerous game trails throughout plot. Deer and elk scat and prints. Numerous lizards (lots of baby horny toads), rabbit scat, old small mammal burrow, 
+
+Possible bobcat or another smaller predator scat.","DEPI, LAOC3, BRTE, GUSA, CHTE, ",N/A,"1-2in of soil deposition under shrubs creating defined pedestals likely from water and wind.  
+
+Flow paths exacerbated by the game and sheep trails. 
+
+Some small litter movement from wind and in flow paths. 
+
+Tree mortality about 2%, shrub mortality around 5% likely caused from grazing, little to no forb and grass mortality. 
+
+PJ encroaching into the sage ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.1484835,38.51593669,9/1/2020,{46C97D8B-9D1F-4D84-A31A-FE387ADEA13B},CO_UFO-2020_SS-269_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80231,CO,CO_UFO-2020_PP-173_V1,7/20/2020 22:15,MMS,PP-173,7/20/2020 18:00,CO,Uncompahgre Field Office,,,,,78,Residuum weathered from sandstone and shale,7,59,linear convex,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.8834487,38.28618781,2349,,,,0,1,1,1,1,1,0,0,0,0,,Deer and rabbit scat. Game trails throughout plot. Deer scat very common.,"BRTE, OPFR ubiqutous. No remaining trees with tree woody litter very common and some of it burned, assuming this area was treated. Treatment has remived some of top soil and caused compaction with clay layer beneath and wildlife  common. Litter mostly remaining beneath shrubs except two long flow paths with large litter movement. QUGA appears to be helping stabilize most of the plot, but pedestals still common. Some wind while on plot but hardly any fine soil deposition.",Road 20 m sw and powerlines 50 m sw. Appear to cause the two long flow paths with large woody litter movement. See photos.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.8834382,38.28618176,9/1/2020,{30975147-83DB-4239-9FE4-B53B841A2322},CO_UFO-2020_PP-173_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80232,CO,CO_UFO-2020_SD-355_V1,7/20/2020 22:15,SD,SD-355,7/19/2020 18:00,CO,Uncompahgre Field Office,,,,R036XY325CO,111,Slope alluvium derived from sandstone and shale,4,9,linear linear,Flat_Plain,,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.0520405,38.53629276,1784,,,,0,1,1,1,1,1,1,0,0,0,,"Rabbit and deer scat, multiple lizard and hummingbird moth. Multiple prarie dog mounds throughout plot and ant hills.",Depi and lase rare,"No evidence of influences, bedrock and juniper at peak slope at the edge of the plot",Prarie dog mounds and ant hills increasing the soil runoff. Deposition of 1/2 inch fine soils beneath plants. Some fine litter movement from eind. Between 120 and 240 at 25 m there was a potential blowout in the past where yuha and bigelow are. Some areas fine litter no longer remaining beneath plants and with small woody litter movement. Enough vegetation that the wind and water paths are not connected. 30% shrub mortality sue to drought. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.0520299,38.53628669,9/1/2020,{3781CB69-4FC8-4FD8-B938-415CCF3CBD53},CO_UFO-2020_SD-355_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80233,CO,CO_UFO-2020_SS-258_V1,7/18/2020 23:58,PJ,SS-258,7/17/2020 18:00,CO,Uncompahgre Field Office,,,,R036XY113CO,X14,"Slope alluvium over residuum weathered from sandstone and 
+shale",33,118,convex linear,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.1396897,38.5953193,1779,,,,0,1,0,1,0,1,0,0,0,0,,Pronghorn and deer scat.  Lots of natural browsing of shrubs. Several small lizards. Few small rodent holes and scat. Rabbit scat.,"Drcu, depi, chal7, phch, 
+
+Signs of an old fire (scarred juos & pied)",N/A,"Due to water erosion very difficult to tell if there is any deposition due to wind.  Terrasetting dominates the plot.  All flow paths lead into a fairly large and defined gully. 
+
+Large and small litter movement especially near gully. Photos provided in the misc section. 
+
+15% tree mortality mostly PIED, 60% of shrubs dead or dying however shrubs near gully look healthier, 75% of forbs dead, 75% of grass dead",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.1396791,38.59531322,9/1/2020,{CD3ABA4B-231B-4C84-8196-F4F35F3A3AF2},CO_UFO-2020_SS-258_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80234,CO,CO_UFO-2020_SD-363_V1,7/18/2020 23:58,SD,SD-363,7/17/2020 18:00,CO,Uncompahgre Field Office,,,,R036XY113CO,X14,"Slope alluvium over residuum weathered from sandstone and 
+shale",3,23,linear linear,Terrace,Tread,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.1504554,38.61862324,1760,,,,0,1,1,1,1,1,1,0,0,0,,"Deer scat, dove nest, ground squirrel holes and old ant hill","BRTE LAOC3 HAGL. Three mounds of dirt potentially due to being old roads see photos. Run off due to the mounds causing sheet erosion and rare terracettes or pedestals. Litter movement small, generally remaining beneath shrubs. 1/4 in soil deposition. Beneath shrubs. No compaction. Dead forbs and grass 80% due to drought and browse",Road 25 m from end of 240 line. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.1504448,38.61861716,9/1/2020,{E1A78F6A-BA89-4552-92E3-AEE14EB5ADF0},CO_UFO-2020_SD-363_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80235,CO,CO_UFO-2020_RI-198_V1,7/18/2020 23:58,PJ,RI-198,7/18/2020 18:00,CO,Uncompahgre Field Office,,,,R036XY113CO,"R3—Lazear, extremely flaggy-Rock outcrop-Wellsbasin, extremely stony 
+complex, 20 to 75 percent slopes","Lazear - Colluvium over residuum weathered from sandstone, Wellsbasin - Colluvium derived from sandstone and shale",37,120,linear concave,AlluvialFan,,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.1975642,38.63212887,1599,,,,0,1,0,1,0,1,1,0,0,0,,Seen several species of lizards. Lots of bird activity near riparian area as well as some swallow nests on canyon walls. Several native bee burrows in gully walls. Deer scat / prints. Many small burrows in the area from small mammals.  Lots of potential habitat for larger species.,"DEPI, BRTE, PHCR, ",Small hiking / horse trail but lightly used,"Small and large litter movement in flow paths ( steep off canyon walls leading into creek. 
+
+Much more soil deposition from water. However  there is a fair amount of wind deposition under large boulders and some shrubs that are somewhat protected from water flow. 
+
+5% trees dead or dying, 10% shrubs dead or dying.
+Very little forb or grass death however a lot of annuals in the area [ when visited plot many were out of season.]
+
+Rock protecting soil from run off",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.1975536,38.63212279,9/1/2020,{6F5A5E99-A9EB-491D-94C5-72B40812B8F7},CO_UFO-2020_RI-198_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80304,CO,CO_UFO-2020_PJ-142_V1,8/5/2020 14:30,PJ,PJ-142,8/4/2020 18:00,CO,Uncompahgre Field Office,,,,R036XY287CO,"R3—Lazear, extremely flaggy-Rock outcrop-Wellsbasin, extremely stony 
+complex, 20 to 75 percent slopes, 262—Arabrab-Evpark-Parkelei complex, 3 to 20 percent slopes ","Wellsbasin - Colluvium derived from sandstone and shale, Lazear - Colluvium over residuum weathered from sandstone",48,342,concave linear,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.2760908,38.5912101,2021,,,,0,1,0,1,1,1,1,0,0,0,,"Some ungulate, rabbit, and small rodent scat. No significant signs of grazing/browse.","DEPI present in plot. Evidence of a  ground fire in distant past, but not hot enough to affect upper canopy.",Well-used road about .25 miles south of the plot.,Some water flow paths look like they may develop into rills/gullies eventually. Large amount of soil deposition from water/wind on the flat terrace. Flow paths dictated by exposed bedrock and trees.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.2760802,38.59120403,9/1/2020,{B063DA9D-E1C0-46A3-B8C8-5CC475421663},CO_UFO-2020_PJ-142_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80305,CO,CO_UFO-2020_SS-255_V1,8/5/2020 14:30,PJ,SS-255,8/3/2020 18:00,CO,Uncompahgre Field Office,,,,,,,10,199,convex linear,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.3908745,38.69303576,2158,,,,0,0,1,1,0,1,0,0,0,1,,Ungulate scat found on plot. Very minor evidence of browse/grazing.,Evidence of beetle-kill on dead PIED. >10% of PIED population affected by bore beetles.,Two-track roud about a mile West of plot.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.3908638,38.69302968,9/1/2020,{CBB2D879-E5A8-4EF9-BDF0-106418632CDF},CO_UFO-2020_SS-255_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80306,CO,CO_UFO-2020_SS-262_V1,8/5/2020 14:30,SD,SS-262,8/1/2020 18:00,CO,Uncompahgre Field Office,,,,,11 - badlands,"Basalt and/or calcareous, gypsiferous, weathered silty shale",45,78,linear concave,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.1972572,38.81705602,5581,,,,0,0,1,0,0,0,0,0,0,0,,Gopher holes found. Cat scat observed. Antelope scat observed. Some evidence of ungulate browsing.,Cheatgrass found on plot.,Private land with fence just south of plot. Road about 300m west of plot. Underground utilities running N-S just east of the plot.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.1972466,38.81704992,9/1/2020,{C5D6D904-DF98-4A69-8CAE-411C796E1513},CO_UFO-2020_SS-262_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80307,CO,CO_UFO-2020_SS-259_V1,8/5/2020 14:42,PJ,SS-259,7/30/2020 18:00,CO,Uncompahgre Field Office,,,,,"47—Kech-Rock outcrop complex, 10 to 40 percent slopes, 67—Rock outcrop",Kech - Alluvium and/or residuum weathered from sandstone and shale,14,357,linear linear,Terrace,Tread,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.3445692,38.79238681,1810,,,,0,0,1,1,1,1,1,0,0,0,,"Large hoof prints, deer and antelope scat, most species browsed but 50% shrub death due to drought and rocky erosive environment near mesa edge",DEPI,"No evidence, slope towards cliff edge causing erosion",evidence of historic fire (see photo) appears to have caused the 40% tree death. Grass and fprb death 50% due to drought. Rock very common in addition to commonly exposed bedrock and some cyano stabilizing the site. Bedrock with the slope to the mesa edge causes sheet erosion and many long flow paths. Many flow paths lead to and turn into a gully at the edge (see photo). Large litter movement in long flow paths. Small litter movement common but beneath shrubs and trees still duff remaining. Windy while on plot with some shrubs with 1/4 in fine soil deposition but water erosion dominates the plot. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.3445585,38.79238071,9/1/2020,{1A16DC2A-E192-4501-BB2A-59F297F3E6A2},CO_UFO-2020_SS-259_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80308,CO,CO_UFO-2020_MMS-088_V1,8/5/2020 14:30,PJ,MMS-088,7/22/2020 18:00,CO,Uncompahgre Field Office,,,,R036XY325CO,34D,Slope alluvium derived from sandstone,4,103,linear convex,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.7659863,38.35883955,2011,,,,0,0,0,1,1,1,1,0,0,1,,"Elk, deer, antelope and cat scat very common. Grasses and shrubs heavily browsed. Shrubs uncommonbut 30% death due to drought, ecosite and browse. ",DEPI BRTE SIAL2 ALSI8,Mesa .3 miles north contributing to flow paths and two gullys. Gullys partially stable due to rock and large litter.,"long flow paths following general slope and leading to gullys (see photos). Large litter movement in foowpaths, but most small litter remaining beneath plants. 1/4 in or less soil deposition beneath shrubs due to wind, but it appears that the water deposition may prevent pedestalling or wind deposition. Rock common and stablizing soil surface juos also helping stabilize the site.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.7659758,38.35883347,9/1/2020,{C6772AAE-A895-4D5B-9A4F-2FFA7BFE65CA},CO_UFO-2020_MMS-088_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80309,CO,CO_UFO-2020_SD-368_V1,8/5/2020 14:42,SD,SD-368,8/3/2020 18:00,CO,Uncompahgre Field Office,,,,,"73—Shavano-Lazear complex, 3 to 12 percent slopes. &  35—Fluvaquents, flooded.","Lazear - Alluvium and/or colluvium,  Shavano - Colluvium derived from sandstone and shale, Fluvaquents - Clay loam sandy   ",22,130,linear linear,Terrace,Tread,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.8800632,38.7684125,1592,,,,0,0,0,0,0,0,1,0,0,0,,One game trail otherwise no evidence of wildlife. ,"Brte, some HAGL and a single LAOC3","Small two track north of plot approx 500m with a locked gate. Doesnt seem to be effecting plot.
+
+Gunnison river about 1/4 mile from end of 240 line. ","Fine litter movement likely from wind. Soil deposition from wind under shrubs and established grasses and forbs. 
+
+Very gravelly and cobbly surface protecting soil",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.8800526,38.76840638,9/1/2020,{E5E158DB-1B4B-4B3F-9849-B2D76DCFFE42},CO_UFO-2020_SD-368_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80310,CO,CO_UFO-2020_MMS-087_V1,8/5/2020 14:42,MMS,MMS-087,8/2/2020 18:00,CO,Uncompahgre Field Office,,,,,36,,16,178,concave convex,Hill_Mountain,Shoulder,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.4782733,38.68529826,2269,,,,0,0,1,1,0,1,0,0,0,1,,Evidence of ungulate grazing and scat.,Lots of dead PIED seemingly due to bore beetles.,,Over a foot of soil deposition under some trees. Small litter moving quite far in water flow paths.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.4782626,38.68529219,9/1/2020,{59BC20AB-34C5-4263-9B85-AE6E69515036},CO_UFO-2020_MMS-087_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80311,CO,CO_UFO-2020_SD-359_V1,8/5/2020 14:42,SD,SD-359,8/1/2020 18:00,CO,Uncompahgre Field Office,,,,,Not completed,,3,99,linear concave,Floodplain_Basin,,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.2377148,38.73368384,1653,,,,0,1,1,0,0,1,1,0,0,0,,"Deer scat very common, 30% death of shrubs appears due to some browsing but mostly drought stress","SIAL2, LAOC3, DEPI, BRTE","No obvious influence, in floodplain N goes through backslope ","Half invh fine soil deposition beneath shrubs, cyano common and stabilizing the soil. Some (30%) gravel and stone stabilizing as well. Flowpaths are short and not connected, appear to be caused by game trails. Gully between two hills on top of mesa therefore chose floodplain. 10% juos death appears due to drought, achy commonly very browsed. All grasses rought stressed. Annual forbs commonly dead or dying (90%). ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.2377041,38.73367775,9/1/2020,{9AFF4A67-7388-4EEC-B686-55D4174AFF52},CO_UFO-2020_SD-359_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80312,CO,CO_UFO-2020_PJ-143_V1,8/5/2020 14:42,PJ,PJ-143,7/29/2020 18:00,CO,Uncompahgre Field Office,,,,R036XY113CO,"X31M—Walknolls-Rock outcrop complex, 20 to 60 percent slopes",Walknolls-Rock - Colluvium over residuum weathered from sandstone,33,239,linear concave,Floodplain_Basin,,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.964883,38.36975722,2070,,,,0,1,0,1,0,1,0,0,0,0,,Deer scat and prints. Lots of lizards and at least two different species. Rabbit scat. Several small burrows under the exposed bedrock.,Evidence of a historic fire (guessing around 100 years) ,Small trail East of plot. (single track) approx 1/4 mile ,"Approx 20% PIED mortality from beetle and fire, less JUOS death likely from fire. 
+
+Shrubs seem in good health except for a few under or near trees. 
+
+Forbs and grasses in good health. 
+
+Small and large litter movement in flow path. Pockets of soil deposition in various places on plot. Such as some tree bases, behind rock outcrops, flatter areas, etc. Photo provided",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.9648725,38.36975116,9/1/2020,{17BD8B9C-C339-49F4-9B31-B281D9531AA1},CO_UFO-2020_PJ-143_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80313,CO,CO_UFO-2020_MMS-083_V1,8/5/2020 14:30,PJ,MMS-083,7/21/2020 18:00,CO,Uncompahgre Field Office,,,,R036XY114CO,"262—Arabrab-Evpark-Parkelei complex, 3 to 20 percent slopes", Colluvium over residuum weathered from sandstone and shale,4,89,linear linear,Hill_Mountain,Shoulder,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.0493342,38.38857013,2341,,,,0,0,0,1,1,1,1,0,0,1,,"Deer and elk scat and tracks common. Rabbit scat. Few lizards. 
+
+Defined game trails in plot contributing / creating flow paths. ",,Small closed off two track likely contributing to flow paths. ,"Very little tree mortality. Anout 33% shrubs dead/dying likely from competiton.  Not many forbs or grasses but what is present seems to be doing well. 
+
+Small amount of wind deposition primarily in the more open sections on plot but majority is caused by water. 
+
+Small litter movement in flow paths. 
+
+Flow paths / game trails contribiting to compaction layer - about 1/4in-1/2in. 
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.0493237,38.38856408,9/1/2020,{7AE406B0-3C51-44D6-AAF8-00C323C2E33B},CO_UFO-2020_MMS-083_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80429,CO,CO_UFO-2020_SS-270_V1,9/2/2020 21:18,MMS,SS-270,8/19/2020 18:00,CO,Uncompahgre Field Office,,,,,56,"Weathered, calcareous silty shale",23,258,linear convex,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.5292613,38.8511779,1276,,,,0,1,1,1,1,1,1,0,0,0,,"Deer scat very common 40% shrub death due to browse. 30% grass death due to drought, some browse. ","BRTE, ALDE, OPFR",No evidence. Gully coming from peak if hill.,Litter remaining beneath plants. Dense grass so minor potnetial flow paths busible but small litter everywhere. Grass and annual forbs stabilizing the site. No obvious fine soil dosition. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.5292508,38.85117175,9/1/2020,{8F1459D9-1E0A-4DB7-B814-02588726FA6E},CO_UFO-2020_SS-270_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80430,CO,CO_UFO-2020_SS-256_V1,9/2/2020 21:18,PJ,SS-256,8/18/2020 18:00,CO,Uncompahgre Field Office,,,,,76,Cobbles & stones rockfall deposits,11,277,linear linear,Terrace,Tread,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.6827562,38.4518064,1993,,,,0,0,1,1,1,1,1,0,0,0,,Deer and elk scat,"BRTE occossionally just outside plot, DRCU, DEPI, OPFR, LASE","None, slope towards mesa edge increasing washes","FINE soil deposition beneath plants especially with burned organic matter in the burmed side pf the plot. Pedestalling on the burned side of plot with increased slope. Rock common in intersoaces stabilizing the soil. 60% tree death due to fire and drought. 30% shrub death due to fire, competition and minimal browse. Litter remaining beneath plants some large litter movement.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.6827455,38.45180038,9/1/2020,{342CCB6B-CEB2-488B-8A52-26F5822760B8},CO_UFO-2020_SS-256_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80431,CO,CO_UFO-2020_MMS-084_V1,9/2/2020 21:18,MMS,MMS-084,8/17/2020 18:00,CO,Uncompahgre Field Office,,,,R034XY403CO,"48—Killpack silty clay loam, 3 to 12 percent slopes",Shale,4,18,linear linear,Hill_Mountain,Summit,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.4441899,38.0621833,2260,,,,0,1,1,1,1,1,1,0,0,0,,"Rabbit, mule deer scat. Game trails present","BRTE, DEPI, OPFR, SIAL2, LASE",No visible influences,"Burned trees common, looks like there was a chaining at some point-all trees laying same direction see photo. 1 cm of fine soil deposition beneath plants. Small litter movement and few, not connected water flow paths. Grass forming duff in areas. Enough species to stanilize soil. 30% shrub death due to browse. 10% grass death due to drought.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.4441793,38.06217731,9/1/2020,{860CED85-A33F-4A87-AA24-890B4486E4E0},CO_UFO-2020_MMS-084_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80432,CO,CO_UFO-2020_SD-358_V1,9/2/2020 20:24,PJ,SD-358,8/16/2020 18:00,CO,Uncompahgre Field Office,,,,R034XY401CO,73,Colluvium derived from sandstone and shale,25,220,linear convex,Hill_Mountain,Shoulder,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.5908991,38.3714317,1841,,,,0,0,1,1,0,1,0,0,0,0,,"Deer and elk scat, lizards, rabbit scat.
+
+Rabbit brush is severely browsed","DEPI, LEAL4, DRCU, LAOC3
+
+Fair amount of sheet washing. ",Road about 1/3 mile from plot. ,"Large litter movement in small gully, small litter movement in flow paths across plot. 
+
+Surface of plot is generally protected by rock cover. However the plot is dominated by water flow paths. 
+
+About 20% tree mortality, 30% grass mortality and 30% shrub mortality. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.5908884,38.37142568,9/1/2020,{A26A4796-87DD-4F37-8783-E9F28E193692},CO_UFO-2020_SD-358_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80433,CO,CO_UFO-2020_PJ-146_V1,9/2/2020 21:18,PJ,PJ-146,8/15/2020 18:00,CO,Uncompahgre Field Office,,,,,,,10,340,linear linear,Floodplain_Basin,,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.7221204,38.5369884,2201,,,,0,1,1,0,1,0,1,0,0,0,,"Few deer and elk scat / tracks.  Small squirrels on plot,  Jays, lots of native bees, and several species of lizard. ","Plot is in the burn scar from the bull draw fire in 2018. This plot was in the unseeded area. 
+
+LASE, SIAL, SIDR, BRTE","Road approx 3/4 mike NE of plot, may be contributing to runoff and gullies forming. ","Compaction is minimal as the top soil is extremly loose and granular from the recent fire.  This also allows for soil deposition from wind. 
+
+Two or Three defined gullies / run off around plot but not in plot. Photos will be provided. 
+
+Large litter movement only in gullies, some small litter movement on plot. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.7221097,38.53698237,9/1/2020,{3C02B9B4-5AE9-44E4-B782-FDD30CDAA974},CO_UFO-2020_PJ-146_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80434,CO,CO_UFO-2020_SD-362_V1,9/2/2020 21:18,PJ,SD-362,8/14/2020 18:00,CO,Uncompahgre Field Office,,,,,,,25,160,linear linear,Hill_Mountain,Shoulder,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.7763971,38.5304874,1820,,,,0,0,1,1,1,1,0,0,0,1,,Evidence of ungulate browsing observed. Deer scat found.,Over 70% of PIED on plot shows signs of bore beetle damage. Most PIED on plot show decadense.,"DEPI, SIAL2, BRTE and DRCU observed on plot. Mining North of the plot, about 100m away.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.7763864,38.53048137,9/1/2020,{E9587C78-2CE7-4FAE-908B-B29690018074},CO_UFO-2020_SD-362_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80462,,CO_UFO-2020_RI-200_V1,9/10/2020 15:16,PJ,RI-200,8/16/2020 18:00,CO,Uncompahgre Field Office,,,,,88,Colluvium and residuum from sandstone and shale,17,341,linear linear,Terrace,Riser,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.6362707,38.4195772,1950,,,,0,1,1,1,1,1,0,0,0,0,,"Deer and rabbit scat common. 20% shrub death due to browse, drought and tree competition","Depi, beetle kill and drought causing 50% PIED death. ",Stream bed 5m from end of North line. On the slope leading into stream causing runoff to be common,"Wind while on plot, JUIS snapped on plot potentially due to wind. No strong evidence of wind deposition. Most of erosion due to obvious flow paths leading to stream bed. Large wash with sandy bottom running through N line. Small litter movement very common with some large litter movement. Also large litter mounds remaining beneath plants. Gravel is common and protects from erosion in flowpaths. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.63626,38.41957118,9/1/2020,{31AEF701-1850-4E80-BC70-2730F56F9DA4},CO_UFO-2020_RI-200_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80478,,CO_UFO-2020_SS-271_V1,9/16/2020 16:45,SD,SS-271,9/13/2020 18:00,CO,Uncompahgre Field Office,,,,R034XY401CO,73,Colluvium derived from sandstone and shale,8,161,linear linear,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.2523588,38.7231001,1722,,,,0,1,1,0,0,1,1,0,0,0,,Rabbit scat.,No trace.,No obvious influence from road since plot is uphill. 200 meters south of rim of mesa. Down slope causing water flow patterns.,Fine soil deposition approximately half inch beneath plants. Eddies with small litter movement occassional. Only two longer greater than 50 in flow paths but not connecting to any other flow paths. 50% grass dead browsed and drought stressed. Juniper 10% dead. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.2523482,38.72309401,9/1/2020,{C8DCDEA0-1D51-4D70-800D-EB565CAA4BE5},CO_UFO-2020_SS-271_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80480,CO,CO_UFO-2020_SD-360_V1,9/16/2020 19:18,SD,SD-360,6/9/2020 18:00,CO,Uncompahgre Field Office,,,,R034XY410CO,59,Weathered from shale,1,19,linear linear,Flat_Plain,,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.8113228,38.56050883,,,,,,,,,,,,,,,,Prarie dogholes. Sheep and deer scat.,"Gully is 10 meters North ofthe plot and is large and active. Pedestalling is very rare with no terracettes. Approx. 1inch of fine soildeposition beneath shrubs. No evidence of litter movement, some small litter not beneath shrubs and in potential flow paths that are going with the slope (not long or connecting)",Road causing obvious rills and gully. Three distinct rills leading to a gullyN of plot caused by the road. Rills almost look like sheet wasing lacking depth and the V shape-see photos.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.8113123,38.56050273,9/1/2020,{E4F87126-A811-485B-BB2D-0FE09C3D9DDF},CO_UFO-2020_SD-360_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80525,CO,CO_UFO-2020_MMS-089_V1,9/26/2020 20:02,MMS,MMS-089,9/14/2020 18:00,CO,Uncompahgre Field Office,,,,R048AY229CO,13,Weathered in place sandstone and shale,20,81,linear linear,Hill_Mountain,Shoulder,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.6042335,38.59330745,,,,,0,0,1,0,0,0,0,0,0,0,,Wood pecker near plot. Deer scat but due to density minimal scat and game paths.,Incredibly dense shrubs with almost no soil exposed (all duff). Therefore no soil deposition or litter movement evident. Only one flow path at the end of the North line.,"No evidence, road ~1/3 mile but no clear effect",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.604223,38.59330134,9/1/2020,{1F4F8042-3771-4308-9BF6-E045CD2C72D3},CO_UFO-2020_MMS-089_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80555,CO,CO_UFO-2020_AS-004_V1,10/10/2020 23:17,PJ,AS-004,9/24/2020 18:00,CO,Uncompahgre Field Office,,,,R048AY247CO,979,Colluvium derived from igneous and sedimentary rock,39,199,linear linear,Hill_Mountain,Shoulder,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.69923,38.09819,,,,,0,0,0,1,1,1,1,0,0,0,,"Deer scat, rabbit scat. Game trails bery common throughout the area. Browse (competition contrinuting as well) cauing 30% shrub death. Lizard on plot.",POPR,"No obvious influences. Between cliffs, 240 beginning of steep slope, causing the longer wash.","Previous burn noticed on fallen Juniper (10% of trees). Very old burn marks, almost no longer visible. Few species in flow paths with 1/2in fine soil deposition. Almost no litter movement except in the one larger rocks, where rocks are heling stabiize
+
+Long flow  paths following slope with large and small litter movement
+
+Most litter remaining under plants. Pedestaling only in flow paths. 
+Rocks very common in flow paths
+
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.6992195,38.09818396,9/1/2020,{E77AA4E2-080F-41E2-93C1-62BE00E16FEE},CO_UFO-2020_AS-004_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80558,,CO_UFO-2020_PJ-147_V1,10/7/2020 23:14,PJ,PJ-147,9/14/2020 18:00,CO,Uncompahgre Field Office,,,,,47,Alluvium and/or residuum weathered from sandstone and shale,36,161,linear linear,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.8255999,38.70041686,,,,,0,0,0,1,1,1,1,0,0,0,,"Deer scat common, near multiple game trails, occassional browsing.","Flow paths are not prominent, but common and leading rowards a rill. The rill is between two hills. Rock and cyano appears to be apart of stabilizing the surface and having minimal soil deposition beneathplants. Drought stress especially evident in shrubs, but currently minimal mortality",Near east gorge trail. ELTR7 potentialy from top of mesa mastication seeding.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.8255894,38.70041075,9/1/2020,{70A80453-BAA6-4430-A726-167B5632D945},CO_UFO-2020_PJ-147_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80566,CO,CO_UFO-2020_MC-068_V1,10/9/2020 17:04,MC,MC-068,9/29/2020 18:00,CO,Uncompahgre Field Office,,,,,921,Slide deposits derived from igneous and sedimentary rock,26,39,linear concave,Hill_Mountain,Shoulder,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.63872,38.33489,,,,,0,1,1,0,0,1,1,0,0,0,,"Elk and deer scat. Woodpecker and squirrel on plot. Some tracks, but no obvious trails or over browsing. Burrows on plot.","Microtopography of “washes” with some twigs that appear moved in washes. However, duff is very thick and ubiquitous. No wind or fine soil deposition observed. Moss occasional. ",No obvious evidence. On a hill above the road. Near a radio tower,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.6387095,38.33488392,9/1/2020,{0AAD0CEE-8436-4A67-9ACA-2C81CF800DE7},CO_UFO-2020_MC-068_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80568,CO,CO_UFO-2020_MC-070_V1,10/9/2020 21:10,MC,MC-070,9/29/2020 18:00,CO,Uncompahgre Field Office,,,,,921,Slide deposits derived from igneous and sedimentary rock,25,351,linear convex,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.62959,38.33426,,,,,0,1,0,0,0,1,0,0,0,0,,Deer and elk scat throughout the plot. Woodpecker and Jay near the plot. Small rodent scat occassional.,Multiple (approx 15%) of trees fallen. Burrow holes near PIEN and in duff are common. Small litter collecting in fallen trees due to water flow. Areas that look like where water would pool are common near shrubs. Duff ubiquitous. Few large boulders (approx 2%).,Road approx 50 meters at 240 degrees from plot. No obvious influence. On a hill mountain back slope causing the washes and areas of pooling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.6295795,38.33425392,9/1/2020,{C43F35C1-67D0-4F5B-BCDB-04EF9606ACDF},CO_UFO-2020_MC-070_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80569,CO,CO_UFO-2020_MC-066_V1,10/10/2020 18:56,MC,MC-066,10/8/2020 18:00,CO,Uncompahgre Field Office,,,,,919,Slide deposits derived from igneous and sedimentary rock,31,200,linear linear,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-107.63686,38.28327,,,,,,,,,,,,,,,,Deer scat is very common. One very distinct/worn game trail. Bird scat very common in deadfall area (line 1). Both blue bird and raven feather on plot. Martin seen approx 1/4 mile from plot,"No distinct flow paths. Area of steeper slope appear to have small litter movement over the duff layer. Mild wind while on plot. 20% tree death due to beetles, many fallen trees.",No evidence. On a slope that is causing minor terracettes at tree bases.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-107.6368495,38.28326393,9/1/2020,{BE98A3A8-E5FB-4DA0-B32C-ED4CE107A200},CO_UFO-2020_MC-066_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,
+80570,,CO_UFO-2020_SD-369_V1,10/10/2020 20:26,SD,SD-369,7/31/2020 18:00,CO,Uncompahgre Field Office,,,,,182,Scree derived from rhyolite and/or basalt and/or talus derived from andesite and/or tuff breccia,33,310,linear linear,Hill_Mountain,Backslope,Uncompahgre Field Office,Decimal Degrees,WGS84,,-108.3506026,38.82509242,,,,,0,1,0,1,1,1,1,0,0,0,,Several small lizards (whip tail). Small amount of deer scat. Some possible small mammal burrows in sides of gully under bedrock,"BRTE, DRCU,LAOC3",N/A. Up slope from canyon/rim ridge. Dominated by water erosion (forming gullies).,Small and large litter movement in gully. Compaction varies across site as the sides of the gully are unstable. GPS of plot was deleted when collector map deleted. Plot was not moved and was navigated to using collector.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-108.3505919,38.82508632,9/1/2020,{DB10A6CD-8D5A-402F-86FF-225E1115F58C},CO_UFO-2020_SD-369_V12020-09-01,Raw123DataCO2020.gdb,CO,CO,UFO 2020,,,,

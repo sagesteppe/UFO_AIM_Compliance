@@ -1,0 +1,855 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\title{Plot Task Checklist}
+\author{}
+\date{\vspace{-2.5em}}
+
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Plot Task Checklist},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\begin{document}
+\maketitle
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule
+& plot & attribute & status \\
+\midrule
+\endhead
+attribute1 & AS-012 & Photos & \\
+attribute2 & AS-012 & Characterization & \\
+attribute3 & AS-012 & Observation & \\
+attribute4 & AS-012 & Soil Stability & \\
+attribute5 & AS-012 & Species Richness & \\
+attribute6 & AS-012 & LPI-1 & \\
+attribute7 & AS-012 & LPI-2 & \\
+attribute8 & AS-012 & LPI-3 & \\
+attribute9 & AS-012 & Gap-1 & \\
+attribute10 & AS-012 & Gap-2 & \\
+attribute11 & AS-012 & Gap-3 & \\
+attribute12 & AS-012 & Known Errors & \\
+attribute13 & AS-012 & Unknown Plants & \\
+attribute14 & AS-012 & Soil Map Unit & \\
+attribute15 & AS-012 & ESD & \\
+attribute1.1 & GR-025 & Photos & \\
+attribute2.1 & GR-025 & Characterization & \\
+attribute3.1 & GR-025 & Observation & \\
+attribute4.1 & GR-025 & Soil Stability & \\
+attribute5.1 & GR-025 & Species Richness & \\
+attribute6.1 & GR-025 & LPI-1 & \\
+attribute7.1 & GR-025 & LPI-2 & \\
+attribute8.1 & GR-025 & LPI-3 & \\
+attribute9.1 & GR-025 & Gap-1 & \\
+attribute10.1 & GR-025 & Gap-2 & \\
+attribute11.1 & GR-025 & Gap-3 & \\
+attribute12.1 & GR-025 & Known Errors & \\
+attribute13.1 & GR-025 & Unknown Plants & \\
+attribute14.1 & GR-025 & Soil Map Unit & \\
+attribute15.1 & GR-025 & ESD & \\
+attribute1.2 & OT-117 & Photos & \\
+attribute2.2 & OT-117 & Characterization & \\
+attribute3.2 & OT-117 & Observation & \\
+attribute4.2 & OT-117 & Soil Stability & \\
+attribute5.2 & OT-117 & Species Richness & \\
+attribute6.2 & OT-117 & LPI-1 & \\
+attribute7.2 & OT-117 & LPI-2 & \\
+attribute8.2 & OT-117 & LPI-3 & \\
+attribute9.2 & OT-117 & Gap-1 & \\
+attribute10.2 & OT-117 & Gap-2 & \\
+attribute11.2 & OT-117 & Gap-3 & \\
+attribute12.2 & OT-117 & Known Errors & \\
+attribute13.2 & OT-117 & Unknown Plants & \\
+attribute14.2 & OT-117 & Soil Map Unit & \\
+attribute15.2 & OT-117 & ESD & \\
+attribute1.3 & OT-118 & Photos & \\
+attribute2.3 & OT-118 & Characterization & \\
+attribute3.3 & OT-118 & Observation & \\
+attribute4.3 & OT-118 & Soil Stability & \\
+attribute5.3 & OT-118 & Species Richness & \\
+attribute6.3 & OT-118 & LPI-1 & \\
+attribute7.3 & OT-118 & LPI-2 & \\
+attribute8.3 & OT-118 & LPI-3 & \\
+attribute9.3 & OT-118 & Gap-1 & \\
+attribute10.3 & OT-118 & Gap-2 & \\
+attribute11.3 & OT-118 & Gap-3 & \\
+attribute12.3 & OT-118 & Known Errors & \\
+attribute13.3 & OT-118 & Unknown Plants & \\
+attribute14.3 & OT-118 & Soil Map Unit & \\
+attribute15.3 & OT-118 & ESD & \\
+attribute1.4 & OT-119 & Photos & \\
+attribute2.4 & OT-119 & Characterization & \\
+attribute3.4 & OT-119 & Observation & \\
+attribute4.4 & OT-119 & Soil Stability & \\
+attribute5.4 & OT-119 & Species Richness & \\
+attribute6.4 & OT-119 & LPI-1 & \\
+attribute7.4 & OT-119 & LPI-2 & \\
+attribute8.4 & OT-119 & LPI-3 & \\
+attribute9.4 & OT-119 & Gap-1 & \\
+attribute10.4 & OT-119 & Gap-2 & \\
+attribute11.4 & OT-119 & Gap-3 & \\
+attribute12.4 & OT-119 & Known Errors & \\
+attribute13.4 & OT-119 & Unknown Plants & \\
+attribute14.4 & OT-119 & Soil Map Unit & \\
+attribute15.4 & OT-119 & ESD & \\
+attribute1.5 & OT-120 & Photos & \\
+attribute2.5 & OT-120 & Characterization & \\
+attribute3.5 & OT-120 & Observation & \\
+attribute4.5 & OT-120 & Soil Stability & \\
+attribute5.5 & OT-120 & Species Richness & \\
+attribute6.5 & OT-120 & LPI-1 & \\
+attribute7.5 & OT-120 & LPI-2 & \\
+attribute8.5 & OT-120 & LPI-3 & \\
+attribute9.5 & OT-120 & Gap-1 & \\
+attribute10.5 & OT-120 & Gap-2 & \\
+attribute11.5 & OT-120 & Gap-3 & \\
+attribute12.5 & OT-120 & Known Errors & \\
+attribute13.5 & OT-120 & Unknown Plants & \\
+attribute14.5 & OT-120 & Soil Map Unit & \\
+attribute15.5 & OT-120 & ESD & \\
+attribute1.6 & PJ-155 & Photos & \\
+attribute2.6 & PJ-155 & Characterization & \\
+attribute3.6 & PJ-155 & Observation & \\
+attribute4.6 & PJ-155 & Soil Stability & \\
+attribute5.6 & PJ-155 & Species Richness & \\
+attribute6.6 & PJ-155 & LPI-1 & \\
+attribute7.6 & PJ-155 & LPI-2 & \\
+attribute8.6 & PJ-155 & LPI-3 & \\
+attribute9.6 & PJ-155 & Gap-1 & \\
+attribute10.6 & PJ-155 & Gap-2 & \\
+attribute11.6 & PJ-155 & Gap-3 & \\
+attribute12.6 & PJ-155 & Known Errors & \\
+attribute13.6 & PJ-155 & Unknown Plants & \\
+attribute14.6 & PJ-155 & Soil Map Unit & \\
+attribute15.6 & PJ-155 & ESD & \\
+attribute1.7 & PJ-158 & Photos & \\
+attribute2.7 & PJ-158 & Characterization & \\
+attribute3.7 & PJ-158 & Observation & \\
+attribute4.7 & PJ-158 & Soil Stability & \\
+attribute5.7 & PJ-158 & Species Richness & \\
+attribute6.7 & PJ-158 & LPI-1 & \\
+attribute7.7 & PJ-158 & LPI-2 & \\
+attribute8.7 & PJ-158 & LPI-3 & \\
+attribute9.7 & PJ-158 & Gap-1 & \\
+attribute10.7 & PJ-158 & Gap-2 & \\
+attribute11.7 & PJ-158 & Gap-3 & \\
+attribute12.7 & PJ-158 & Known Errors & \\
+attribute13.7 & PJ-158 & Unknown Plants & \\
+attribute14.7 & PJ-158 & Soil Map Unit & \\
+attribute15.7 & PJ-158 & ESD & \\
+attribute1.8 & PJ-159 & Photos & \\
+attribute2.8 & PJ-159 & Characterization & \\
+attribute3.8 & PJ-159 & Observation & \\
+attribute4.8 & PJ-159 & Soil Stability & \\
+attribute5.8 & PJ-159 & Species Richness & \\
+attribute6.8 & PJ-159 & LPI-1 & \\
+attribute7.8 & PJ-159 & LPI-2 & \\
+attribute8.8 & PJ-159 & LPI-3 & \\
+attribute9.8 & PJ-159 & Gap-1 & \\
+attribute10.8 & PJ-159 & Gap-2 & \\
+attribute11.8 & PJ-159 & Gap-3 & \\
+attribute12.8 & PJ-159 & Known Errors & \\
+attribute13.8 & PJ-159 & Unknown Plants & \\
+attribute14.8 & PJ-159 & Soil Map Unit & \\
+attribute15.8 & PJ-159 & ESD & \\
+attribute1.9 & PJ-160 & Photos & \\
+attribute2.9 & PJ-160 & Characterization & \\
+attribute3.9 & PJ-160 & Observation & \\
+attribute4.9 & PJ-160 & Soil Stability & \\
+attribute5.9 & PJ-160 & Species Richness & \\
+attribute6.9 & PJ-160 & LPI-1 & \\
+attribute7.9 & PJ-160 & LPI-2 & \\
+attribute8.9 & PJ-160 & LPI-3 & \\
+attribute9.9 & PJ-160 & Gap-1 & \\
+attribute10.9 & PJ-160 & Gap-2 & \\
+attribute11.9 & PJ-160 & Gap-3 & \\
+attribute12.9 & PJ-160 & Known Errors & \\
+attribute13.9 & PJ-160 & Unknown Plants & \\
+attribute14.9 & PJ-160 & Soil Map Unit & \\
+attribute15.9 & PJ-160 & ESD & \\
+attribute1.10 & PJ-161 & Photos & \\
+attribute2.10 & PJ-161 & Characterization & \\
+attribute3.10 & PJ-161 & Observation & \\
+attribute4.10 & PJ-161 & Soil Stability & \\
+attribute5.10 & PJ-161 & Species Richness & \\
+attribute6.10 & PJ-161 & LPI-1 & \\
+attribute7.10 & PJ-161 & LPI-2 & \\
+attribute8.10 & PJ-161 & LPI-3 & \\
+attribute9.10 & PJ-161 & Gap-1 & \\
+attribute10.10 & PJ-161 & Gap-2 & \\
+attribute11.10 & PJ-161 & Gap-3 & \\
+attribute12.10 & PJ-161 & Known Errors & \\
+attribute13.10 & PJ-161 & Unknown Plants & \\
+attribute14.10 & PJ-161 & Soil Map Unit & \\
+attribute15.10 & PJ-161 & ESD & \\
+attribute1.11 & PP-176 & Photos & \\
+attribute2.11 & PP-176 & Characterization & \\
+attribute3.11 & PP-176 & Observation & \\
+attribute4.11 & PP-176 & Soil Stability & \\
+attribute5.11 & PP-176 & Species Richness & \\
+attribute6.11 & PP-176 & LPI-1 & \\
+attribute7.11 & PP-176 & LPI-2 & \\
+attribute8.11 & PP-176 & LPI-3 & \\
+attribute9.11 & PP-176 & Gap-1 & \\
+attribute10.11 & PP-176 & Gap-2 & \\
+attribute11.11 & PP-176 & Gap-3 & \\
+attribute12.11 & PP-176 & Known Errors & \\
+attribute13.11 & PP-176 & Unknown Plants & \\
+attribute14.11 & PP-176 & Soil Map Unit & \\
+attribute15.11 & PP-176 & ESD & \\
+attribute1.12 & RI-205 & Photos & \\
+attribute2.12 & RI-205 & Characterization & \\
+attribute3.12 & RI-205 & Observation & \\
+attribute4.12 & RI-205 & Soil Stability & \\
+attribute5.12 & RI-205 & Species Richness & \\
+attribute6.12 & RI-205 & LPI-1 & \\
+attribute7.12 & RI-205 & LPI-2 & \\
+attribute8.12 & RI-205 & LPI-3 & \\
+attribute9.12 & RI-205 & Gap-1 & \\
+attribute10.12 & RI-205 & Gap-2 & \\
+attribute11.12 & RI-205 & Gap-3 & \\
+attribute12.12 & RI-205 & Known Errors & \\
+attribute13.12 & RI-205 & Unknown Plants & \\
+attribute14.12 & RI-205 & Soil Map Unit & \\
+attribute15.12 & RI-205 & ESD & \\
+attribute1.13 & RI-209 & Photos & \\
+attribute2.13 & RI-209 & Characterization & \\
+attribute3.13 & RI-209 & Observation & \\
+attribute4.13 & RI-209 & Soil Stability & \\
+attribute5.13 & RI-209 & Species Richness & \\
+attribute6.13 & RI-209 & LPI-1 & \\
+attribute7.13 & RI-209 & LPI-2 & \\
+attribute8.13 & RI-209 & LPI-3 & \\
+attribute9.13 & RI-209 & Gap-1 & \\
+attribute10.13 & RI-209 & Gap-2 & \\
+attribute11.13 & RI-209 & Gap-3 & \\
+attribute12.13 & RI-209 & Known Errors & \\
+attribute13.13 & RI-209 & Unknown Plants & \\
+attribute14.13 & RI-209 & Soil Map Unit & \\
+attribute15.13 & RI-209 & ESD & \\
+attribute1.14 & RI-210 & Photos & \\
+attribute2.14 & RI-210 & Characterization & \\
+attribute3.14 & RI-210 & Observation & \\
+attribute4.14 & RI-210 & Soil Stability & \\
+attribute5.14 & RI-210 & Species Richness & \\
+attribute6.14 & RI-210 & LPI-1 & \\
+attribute7.14 & RI-210 & LPI-2 & \\
+attribute8.14 & RI-210 & LPI-3 & \\
+attribute9.14 & RI-210 & Gap-1 & \\
+attribute10.14 & RI-210 & Gap-2 & \\
+attribute11.14 & RI-210 & Gap-3 & \\
+attribute12.14 & RI-210 & Known Errors & \\
+attribute13.14 & RI-210 & Unknown Plants & \\
+attribute14.14 & RI-210 & Soil Map Unit & \\
+attribute15.14 & RI-210 & ESD & \\
+attribute1.15 & SS-294 & Photos & \\
+attribute2.15 & SS-294 & Characterization & \\
+attribute3.15 & SS-294 & Observation & \\
+attribute4.15 & SS-294 & Soil Stability & \\
+attribute5.15 & SS-294 & Species Richness & \\
+attribute6.15 & SS-294 & LPI-1 & \\
+attribute7.15 & SS-294 & LPI-2 & \\
+attribute8.15 & SS-294 & LPI-3 & \\
+attribute9.15 & SS-294 & Gap-1 & \\
+attribute10.15 & SS-294 & Gap-2 & \\
+attribute11.15 & SS-294 & Gap-3 & \\
+attribute12.15 & SS-294 & Known Errors & \\
+attribute13.15 & SS-294 & Unknown Plants & \\
+attribute14.15 & SS-294 & Soil Map Unit & \\
+attribute15.15 & SS-294 & ESD & \\
+attribute1.16 & SS-295 & Photos & \\
+attribute2.16 & SS-295 & Characterization & \\
+attribute3.16 & SS-295 & Observation & \\
+attribute4.16 & SS-295 & Soil Stability & \\
+attribute5.16 & SS-295 & Species Richness & \\
+attribute6.16 & SS-295 & LPI-1 & \\
+attribute7.16 & SS-295 & LPI-2 & \\
+attribute8.16 & SS-295 & LPI-3 & \\
+attribute9.16 & SS-295 & Gap-1 & \\
+attribute10.16 & SS-295 & Gap-2 & \\
+attribute11.16 & SS-295 & Gap-3 & \\
+attribute12.16 & SS-295 & Known Errors & \\
+attribute13.16 & SS-295 & Unknown Plants & \\
+attribute14.16 & SS-295 & Soil Map Unit & \\
+attribute15.16 & SS-295 & ESD & \\
+attribute1.17 & SS-296 & Photos & \\
+attribute2.17 & SS-296 & Characterization & \\
+attribute3.17 & SS-296 & Observation & \\
+attribute4.17 & SS-296 & Soil Stability & \\
+attribute5.17 & SS-296 & Species Richness & \\
+attribute6.17 & SS-296 & LPI-1 & \\
+attribute7.17 & SS-296 & LPI-2 & \\
+attribute8.17 & SS-296 & LPI-3 & \\
+attribute9.17 & SS-296 & Gap-1 & \\
+attribute10.17 & SS-296 & Gap-2 & \\
+attribute11.17 & SS-296 & Gap-3 & \\
+attribute12.17 & SS-296 & Known Errors & \\
+attribute13.17 & SS-296 & Unknown Plants & \\
+attribute14.17 & SS-296 & Soil Map Unit & \\
+attribute15.17 & SS-296 & ESD & \\
+attribute1.18 & SS-297 & Photos & \\
+attribute2.18 & SS-297 & Characterization & \\
+attribute3.18 & SS-297 & Observation & \\
+attribute4.18 & SS-297 & Soil Stability & \\
+attribute5.18 & SS-297 & Species Richness & \\
+attribute6.18 & SS-297 & LPI-1 & \\
+attribute7.18 & SS-297 & LPI-2 & \\
+attribute8.18 & SS-297 & LPI-3 & \\
+attribute9.18 & SS-297 & Gap-1 & \\
+attribute10.18 & SS-297 & Gap-2 & \\
+attribute11.18 & SS-297 & Gap-3 & \\
+attribute12.18 & SS-297 & Known Errors & \\
+attribute13.18 & SS-297 & Unknown Plants & \\
+attribute14.18 & SS-297 & Soil Map Unit & \\
+attribute15.18 & SS-297 & ESD & \\
+attribute1.19 & SS-298 & Photos & \\
+attribute2.19 & SS-298 & Characterization & \\
+attribute3.19 & SS-298 & Observation & \\
+attribute4.19 & SS-298 & Soil Stability & \\
+attribute5.19 & SS-298 & Species Richness & \\
+attribute6.19 & SS-298 & LPI-1 & \\
+attribute7.19 & SS-298 & LPI-2 & \\
+attribute8.19 & SS-298 & LPI-3 & \\
+attribute9.19 & SS-298 & Gap-1 & \\
+attribute10.19 & SS-298 & Gap-2 & \\
+attribute11.19 & SS-298 & Gap-3 & \\
+attribute12.19 & SS-298 & Known Errors & \\
+attribute13.19 & SS-298 & Unknown Plants & \\
+attribute14.19 & SS-298 & Soil Map Unit & \\
+attribute15.19 & SS-298 & ESD & \\
+attribute1.20 & SS-299 & Photos & \\
+attribute2.20 & SS-299 & Characterization & \\
+attribute3.20 & SS-299 & Observation & \\
+attribute4.20 & SS-299 & Soil Stability & \\
+attribute5.20 & SS-299 & Species Richness & \\
+attribute6.20 & SS-299 & LPI-1 & \\
+attribute7.20 & SS-299 & LPI-2 & \\
+attribute8.20 & SS-299 & LPI-3 & \\
+attribute9.20 & SS-299 & Gap-1 & \\
+attribute10.20 & SS-299 & Gap-2 & \\
+attribute11.20 & SS-299 & Gap-3 & \\
+attribute12.20 & SS-299 & Known Errors & \\
+attribute13.20 & SS-299 & Unknown Plants & \\
+attribute14.20 & SS-299 & Soil Map Unit & \\
+attribute15.20 & SS-299 & ESD & \\
+attribute1.21 & SS-300 & Photos & \\
+attribute2.21 & SS-300 & Characterization & \\
+attribute3.21 & SS-300 & Observation & \\
+attribute4.21 & SS-300 & Soil Stability & \\
+attribute5.21 & SS-300 & Species Richness & \\
+attribute6.21 & SS-300 & LPI-1 & \\
+attribute7.21 & SS-300 & LPI-2 & \\
+attribute8.21 & SS-300 & LPI-3 & \\
+attribute9.21 & SS-300 & Gap-1 & \\
+attribute10.21 & SS-300 & Gap-2 & \\
+attribute11.21 & SS-300 & Gap-3 & \\
+attribute12.21 & SS-300 & Known Errors & \\
+attribute13.21 & SS-300 & Unknown Plants & \\
+attribute14.21 & SS-300 & Soil Map Unit & \\
+attribute15.21 & SS-300 & ESD & \\
+attribute1.22 & SS-305 & Photos & \\
+attribute2.22 & SS-305 & Characterization & \\
+attribute3.22 & SS-305 & Observation & \\
+attribute4.22 & SS-305 & Soil Stability & \\
+attribute5.22 & SS-305 & Species Richness & \\
+attribute6.22 & SS-305 & LPI-1 & \\
+attribute7.22 & SS-305 & LPI-2 & \\
+attribute8.22 & SS-305 & LPI-3 & \\
+attribute9.22 & SS-305 & Gap-1 & \\
+attribute10.22 & SS-305 & Gap-2 & \\
+attribute11.22 & SS-305 & Gap-3 & \\
+attribute12.22 & SS-305 & Known Errors & \\
+attribute13.22 & SS-305 & Unknown Plants & \\
+attribute14.22 & SS-305 & Soil Map Unit & \\
+attribute15.22 & SS-305 & ESD & \\
+attribute1.23 & SS-306 & Photos & \\
+attribute2.23 & SS-306 & Characterization & \\
+attribute3.23 & SS-306 & Observation & \\
+attribute4.23 & SS-306 & Soil Stability & \\
+attribute5.23 & SS-306 & Species Richness & \\
+attribute6.23 & SS-306 & LPI-1 & \\
+attribute7.23 & SS-306 & LPI-2 & \\
+attribute8.23 & SS-306 & LPI-3 & \\
+attribute9.23 & SS-306 & Gap-1 & \\
+attribute10.23 & SS-306 & Gap-2 & \\
+attribute11.23 & SS-306 & Gap-3 & \\
+attribute12.23 & SS-306 & Known Errors & \\
+attribute13.23 & SS-306 & Unknown Plants & \\
+attribute14.23 & SS-306 & Soil Map Unit & \\
+attribute15.23 & SS-306 & ESD & \\
+attribute1.24 & SS-307 & Photos & \\
+attribute2.24 & SS-307 & Characterization & \\
+attribute3.24 & SS-307 & Observation & \\
+attribute4.24 & SS-307 & Soil Stability & \\
+attribute5.24 & SS-307 & Species Richness & \\
+attribute6.24 & SS-307 & LPI-1 & \\
+attribute7.24 & SS-307 & LPI-2 & \\
+attribute8.24 & SS-307 & LPI-3 & \\
+attribute9.24 & SS-307 & Gap-1 & \\
+attribute10.24 & SS-307 & Gap-2 & \\
+attribute11.24 & SS-307 & Gap-3 & \\
+attribute12.24 & SS-307 & Known Errors & \\
+attribute13.24 & SS-307 & Unknown Plants & \\
+attribute14.24 & SS-307 & Soil Map Unit & \\
+attribute15.24 & SS-307 & ESD & \\
+attribute1.25 & SS-308 & Photos & \\
+attribute2.25 & SS-308 & Characterization & \\
+attribute3.25 & SS-308 & Observation & \\
+attribute4.25 & SS-308 & Soil Stability & \\
+attribute5.25 & SS-308 & Species Richness & \\
+attribute6.25 & SS-308 & LPI-1 & \\
+attribute7.25 & SS-308 & LPI-2 & \\
+attribute8.25 & SS-308 & LPI-3 & \\
+attribute9.25 & SS-308 & Gap-1 & \\
+attribute10.25 & SS-308 & Gap-2 & \\
+attribute11.25 & SS-308 & Gap-3 & \\
+attribute12.25 & SS-308 & Known Errors & \\
+attribute13.25 & SS-308 & Unknown Plants & \\
+attribute14.25 & SS-308 & Soil Map Unit & \\
+attribute15.25 & SS-308 & ESD & \\
+attribute1.26 & SS-309 & Photos & \\
+attribute2.26 & SS-309 & Characterization & \\
+attribute3.26 & SS-309 & Observation & \\
+attribute4.26 & SS-309 & Soil Stability & \\
+attribute5.26 & SS-309 & Species Richness & \\
+attribute6.26 & SS-309 & LPI-1 & \\
+attribute7.26 & SS-309 & LPI-2 & \\
+attribute8.26 & SS-309 & LPI-3 & \\
+attribute9.26 & SS-309 & Gap-1 & \\
+attribute10.26 & SS-309 & Gap-2 & \\
+attribute11.26 & SS-309 & Gap-3 & \\
+attribute12.26 & SS-309 & Known Errors & \\
+attribute13.26 & SS-309 & Unknown Plants & \\
+attribute14.26 & SS-309 & Soil Map Unit & \\
+attribute15.26 & SS-309 & ESD & \\
+attribute1.27 & SS-310 & Photos & \\
+attribute2.27 & SS-310 & Characterization & \\
+attribute3.27 & SS-310 & Observation & \\
+attribute4.27 & SS-310 & Soil Stability & \\
+attribute5.27 & SS-310 & Species Richness & \\
+attribute6.27 & SS-310 & LPI-1 & \\
+attribute7.27 & SS-310 & LPI-2 & \\
+attribute8.27 & SS-310 & LPI-3 & \\
+attribute9.27 & SS-310 & Gap-1 & \\
+attribute10.27 & SS-310 & Gap-2 & \\
+attribute11.27 & SS-310 & Gap-3 & \\
+attribute12.27 & SS-310 & Known Errors & \\
+attribute13.27 & SS-310 & Unknown Plants & \\
+attribute14.27 & SS-310 & Soil Map Unit & \\
+attribute15.27 & SS-310 & ESD & \\
+attribute1.28 & SS-311 & Photos & \\
+attribute2.28 & SS-311 & Characterization & \\
+attribute3.28 & SS-311 & Observation & \\
+attribute4.28 & SS-311 & Soil Stability & \\
+attribute5.28 & SS-311 & Species Richness & \\
+attribute6.28 & SS-311 & LPI-1 & \\
+attribute7.28 & SS-311 & LPI-2 & \\
+attribute8.28 & SS-311 & LPI-3 & \\
+attribute9.28 & SS-311 & Gap-1 & \\
+attribute10.28 & SS-311 & Gap-2 & \\
+attribute11.28 & SS-311 & Gap-3 & \\
+attribute12.28 & SS-311 & Known Errors & \\
+attribute13.28 & SS-311 & Unknown Plants & \\
+attribute14.28 & SS-311 & Soil Map Unit & \\
+attribute15.28 & SS-311 & ESD & \\
+attribute1.29 & SS-312 & Photos & \\
+attribute2.29 & SS-312 & Characterization & \\
+attribute3.29 & SS-312 & Observation & \\
+attribute4.29 & SS-312 & Soil Stability & \\
+attribute5.29 & SS-312 & Species Richness & \\
+attribute6.29 & SS-312 & LPI-1 & \\
+attribute7.29 & SS-312 & LPI-2 & \\
+attribute8.29 & SS-312 & LPI-3 & \\
+attribute9.29 & SS-312 & Gap-1 & \\
+attribute10.29 & SS-312 & Gap-2 & \\
+attribute11.29 & SS-312 & Gap-3 & \\
+attribute12.29 & SS-312 & Known Errors & \\
+attribute13.29 & SS-312 & Unknown Plants & \\
+attribute14.29 & SS-312 & Soil Map Unit & \\
+attribute15.29 & SS-312 & ESD & \\
+attribute1.30 & SS-313 & Photos & \\
+attribute2.30 & SS-313 & Characterization & \\
+attribute3.30 & SS-313 & Observation & \\
+attribute4.30 & SS-313 & Soil Stability & \\
+attribute5.30 & SS-313 & Species Richness & \\
+attribute6.30 & SS-313 & LPI-1 & \\
+attribute7.30 & SS-313 & LPI-2 & \\
+attribute8.30 & SS-313 & LPI-3 & \\
+attribute9.30 & SS-313 & Gap-1 & \\
+attribute10.30 & SS-313 & Gap-2 & \\
+attribute11.30 & SS-313 & Gap-3 & \\
+attribute12.30 & SS-313 & Known Errors & \\
+attribute13.30 & SS-313 & Unknown Plants & \\
+attribute14.30 & SS-313 & Soil Map Unit & \\
+attribute15.30 & SS-313 & ESD & \\
+attribute1.31 & SD-392 & Photos & \\
+attribute2.31 & SD-392 & Characterization & \\
+attribute3.31 & SD-392 & Observation & \\
+attribute4.31 & SD-392 & Soil Stability & \\
+attribute5.31 & SD-392 & Species Richness & \\
+attribute6.31 & SD-392 & LPI-1 & \\
+attribute7.31 & SD-392 & LPI-2 & \\
+attribute8.31 & SD-392 & LPI-3 & \\
+attribute9.31 & SD-392 & Gap-1 & \\
+attribute10.31 & SD-392 & Gap-2 & \\
+attribute11.31 & SD-392 & Gap-3 & \\
+attribute12.31 & SD-392 & Known Errors & \\
+attribute13.31 & SD-392 & Unknown Plants & \\
+attribute14.31 & SD-392 & Soil Map Unit & \\
+attribute15.31 & SD-392 & ESD & \\
+attribute1.32 & SD-393 & Photos & \\
+attribute2.32 & SD-393 & Characterization & \\
+attribute3.32 & SD-393 & Observation & \\
+attribute4.32 & SD-393 & Soil Stability & \\
+attribute5.32 & SD-393 & Species Richness & \\
+attribute6.32 & SD-393 & LPI-1 & \\
+attribute7.32 & SD-393 & LPI-2 & \\
+attribute8.32 & SD-393 & LPI-3 & \\
+attribute9.32 & SD-393 & Gap-1 & \\
+attribute10.32 & SD-393 & Gap-2 & \\
+attribute11.32 & SD-393 & Gap-3 & \\
+attribute12.32 & SD-393 & Known Errors & \\
+attribute13.32 & SD-393 & Unknown Plants & \\
+attribute14.32 & SD-393 & Soil Map Unit & \\
+attribute15.32 & SD-393 & ESD & \\
+attribute1.33 & SD-394 & Photos & \\
+attribute2.33 & SD-394 & Characterization & \\
+attribute3.33 & SD-394 & Observation & \\
+attribute4.33 & SD-394 & Soil Stability & \\
+attribute5.33 & SD-394 & Species Richness & \\
+attribute6.33 & SD-394 & LPI-1 & \\
+attribute7.33 & SD-394 & LPI-2 & \\
+attribute8.33 & SD-394 & LPI-3 & \\
+attribute9.33 & SD-394 & Gap-1 & \\
+attribute10.33 & SD-394 & Gap-2 & \\
+attribute11.33 & SD-394 & Gap-3 & \\
+attribute12.33 & SD-394 & Known Errors & \\
+attribute13.33 & SD-394 & Unknown Plants & \\
+attribute14.33 & SD-394 & Soil Map Unit & \\
+attribute15.33 & SD-394 & ESD & \\
+attribute1.34 & SD-395 & Photos & \\
+attribute2.34 & SD-395 & Characterization & \\
+attribute3.34 & SD-395 & Observation & \\
+attribute4.34 & SD-395 & Soil Stability & \\
+attribute5.34 & SD-395 & Species Richness & \\
+attribute6.34 & SD-395 & LPI-1 & \\
+attribute7.34 & SD-395 & LPI-2 & \\
+attribute8.34 & SD-395 & LPI-3 & \\
+attribute9.34 & SD-395 & Gap-1 & \\
+attribute10.34 & SD-395 & Gap-2 & \\
+attribute11.34 & SD-395 & Gap-3 & \\
+attribute12.34 & SD-395 & Known Errors & \\
+attribute13.34 & SD-395 & Unknown Plants & \\
+attribute14.34 & SD-395 & Soil Map Unit & \\
+attribute15.34 & SD-395 & ESD & \\
+attribute1.35 & SD-399 & Photos & \\
+attribute2.35 & SD-399 & Characterization & \\
+attribute3.35 & SD-399 & Observation & \\
+attribute4.35 & SD-399 & Soil Stability & \\
+attribute5.35 & SD-399 & Species Richness & \\
+attribute6.35 & SD-399 & LPI-1 & \\
+attribute7.35 & SD-399 & LPI-2 & \\
+attribute8.35 & SD-399 & LPI-3 & \\
+attribute9.35 & SD-399 & Gap-1 & \\
+attribute10.35 & SD-399 & Gap-2 & \\
+attribute11.35 & SD-399 & Gap-3 & \\
+attribute12.35 & SD-399 & Known Errors & \\
+attribute13.35 & SD-399 & Unknown Plants & \\
+attribute14.35 & SD-399 & Soil Map Unit & \\
+attribute15.35 & SD-399 & ESD & \\
+attribute1.36 & SD-400 & Photos & \\
+attribute2.36 & SD-400 & Characterization & \\
+attribute3.36 & SD-400 & Observation & \\
+attribute4.36 & SD-400 & Soil Stability & \\
+attribute5.36 & SD-400 & Species Richness & \\
+attribute6.36 & SD-400 & LPI-1 & \\
+attribute7.36 & SD-400 & LPI-2 & \\
+attribute8.36 & SD-400 & LPI-3 & \\
+attribute9.36 & SD-400 & Gap-1 & \\
+attribute10.36 & SD-400 & Gap-2 & \\
+attribute11.36 & SD-400 & Gap-3 & \\
+attribute12.36 & SD-400 & Known Errors & \\
+attribute13.36 & SD-400 & Unknown Plants & \\
+attribute14.36 & SD-400 & Soil Map Unit & \\
+attribute15.36 & SD-400 & ESD & \\
+attribute1.37 & SD-401 & Photos & \\
+attribute2.37 & SD-401 & Characterization & \\
+attribute3.37 & SD-401 & Observation & \\
+attribute4.37 & SD-401 & Soil Stability & \\
+attribute5.37 & SD-401 & Species Richness & \\
+attribute6.37 & SD-401 & LPI-1 & \\
+attribute7.37 & SD-401 & LPI-2 & \\
+attribute8.37 & SD-401 & LPI-3 & \\
+attribute9.37 & SD-401 & Gap-1 & \\
+attribute10.37 & SD-401 & Gap-2 & \\
+attribute11.37 & SD-401 & Gap-3 & \\
+attribute12.37 & SD-401 & Known Errors & \\
+attribute13.37 & SD-401 & Unknown Plants & \\
+attribute14.37 & SD-401 & Soil Map Unit & \\
+attribute15.37 & SD-401 & ESD & \\
+attribute1.38 & SD-402 & Photos & \\
+attribute2.38 & SD-402 & Characterization & \\
+attribute3.38 & SD-402 & Observation & \\
+attribute4.38 & SD-402 & Soil Stability & \\
+attribute5.38 & SD-402 & Species Richness & \\
+attribute6.38 & SD-402 & LPI-1 & \\
+attribute7.38 & SD-402 & LPI-2 & \\
+attribute8.38 & SD-402 & LPI-3 & \\
+attribute9.38 & SD-402 & Gap-1 & \\
+attribute10.38 & SD-402 & Gap-2 & \\
+attribute11.38 & SD-402 & Gap-3 & \\
+attribute12.38 & SD-402 & Known Errors & \\
+attribute13.38 & SD-402 & Unknown Plants & \\
+attribute14.38 & SD-402 & Soil Map Unit & \\
+attribute15.38 & SD-402 & ESD & \\
+attribute1.39 & SD-403 & Photos & \\
+attribute2.39 & SD-403 & Characterization & \\
+attribute3.39 & SD-403 & Observation & \\
+attribute4.39 & SD-403 & Soil Stability & \\
+attribute5.39 & SD-403 & Species Richness & \\
+attribute6.39 & SD-403 & LPI-1 & \\
+attribute7.39 & SD-403 & LPI-2 & \\
+attribute8.39 & SD-403 & LPI-3 & \\
+attribute9.39 & SD-403 & Gap-1 & \\
+attribute10.39 & SD-403 & Gap-2 & \\
+attribute11.39 & SD-403 & Gap-3 & \\
+attribute12.39 & SD-403 & Known Errors & \\
+attribute13.39 & SD-403 & Unknown Plants & \\
+attribute14.39 & SD-403 & Soil Map Unit & \\
+attribute15.39 & SD-403 & ESD & \\
+attribute1.40 & SD-404 & Photos & \\
+attribute2.40 & SD-404 & Characterization & \\
+attribute3.40 & SD-404 & Observation & \\
+attribute4.40 & SD-404 & Soil Stability & \\
+attribute5.40 & SD-404 & Species Richness & \\
+attribute6.40 & SD-404 & LPI-1 & \\
+attribute7.40 & SD-404 & LPI-2 & \\
+attribute8.40 & SD-404 & LPI-3 & \\
+attribute9.40 & SD-404 & Gap-1 & \\
+attribute10.40 & SD-404 & Gap-2 & \\
+attribute11.40 & SD-404 & Gap-3 & \\
+attribute12.40 & SD-404 & Known Errors & \\
+attribute13.40 & SD-404 & Unknown Plants & \\
+attribute14.40 & SD-404 & Soil Map Unit & \\
+attribute15.40 & SD-404 & ESD & \\
+attribute1.41 & SD-405 & Photos & \\
+attribute2.41 & SD-405 & Characterization & \\
+attribute3.41 & SD-405 & Observation & \\
+attribute4.41 & SD-405 & Soil Stability & \\
+attribute5.41 & SD-405 & Species Richness & \\
+attribute6.41 & SD-405 & LPI-1 & \\
+attribute7.41 & SD-405 & LPI-2 & \\
+attribute8.41 & SD-405 & LPI-3 & \\
+attribute9.41 & SD-405 & Gap-1 & \\
+attribute10.41 & SD-405 & Gap-2 & \\
+attribute11.41 & SD-405 & Gap-3 & \\
+attribute12.41 & SD-405 & Known Errors & \\
+attribute13.41 & SD-405 & Unknown Plants & \\
+attribute14.41 & SD-405 & Soil Map Unit & \\
+attribute15.41 & SD-405 & ESD & \\
+attribute1.42 & SD-406 & Photos & \\
+attribute2.42 & SD-406 & Characterization & \\
+attribute3.42 & SD-406 & Observation & \\
+attribute4.42 & SD-406 & Soil Stability & \\
+attribute5.42 & SD-406 & Species Richness & \\
+attribute6.42 & SD-406 & LPI-1 & \\
+attribute7.42 & SD-406 & LPI-2 & \\
+attribute8.42 & SD-406 & LPI-3 & \\
+attribute9.42 & SD-406 & Gap-1 & \\
+attribute10.42 & SD-406 & Gap-2 & \\
+attribute11.42 & SD-406 & Gap-3 & \\
+attribute12.42 & SD-406 & Known Errors & \\
+attribute13.42 & SD-406 & Unknown Plants & \\
+attribute14.42 & SD-406 & Soil Map Unit & \\
+attribute15.42 & SD-406 & ESD & \\
+attribute1.43 & SD-407 & Photos & \\
+attribute2.43 & SD-407 & Characterization & \\
+attribute3.43 & SD-407 & Observation & \\
+attribute4.43 & SD-407 & Soil Stability & \\
+attribute5.43 & SD-407 & Species Richness & \\
+attribute6.43 & SD-407 & LPI-1 & \\
+attribute7.43 & SD-407 & LPI-2 & \\
+attribute8.43 & SD-407 & LPI-3 & \\
+attribute9.43 & SD-407 & Gap-1 & \\
+attribute10.43 & SD-407 & Gap-2 & \\
+attribute11.43 & SD-407 & Gap-3 & \\
+attribute12.43 & SD-407 & Known Errors & \\
+attribute13.43 & SD-407 & Unknown Plants & \\
+attribute14.43 & SD-407 & Soil Map Unit & \\
+attribute15.43 & SD-407 & ESD & \\
+attribute1.44 & SD-408 & Photos & \\
+attribute2.44 & SD-408 & Characterization & \\
+attribute3.44 & SD-408 & Observation & \\
+attribute4.44 & SD-408 & Soil Stability & \\
+attribute5.44 & SD-408 & Species Richness & \\
+attribute6.44 & SD-408 & LPI-1 & \\
+attribute7.44 & SD-408 & LPI-2 & \\
+attribute8.44 & SD-408 & LPI-3 & \\
+attribute9.44 & SD-408 & Gap-1 & \\
+attribute10.44 & SD-408 & Gap-2 & \\
+attribute11.44 & SD-408 & Gap-3 & \\
+attribute12.44 & SD-408 & Known Errors & \\
+attribute13.44 & SD-408 & Unknown Plants & \\
+attribute14.44 & SD-408 & Soil Map Unit & \\
+attribute15.44 & SD-408 & ESD & \\
+attribute1.45 & SD-409 & Photos & \\
+attribute2.45 & SD-409 & Characterization & \\
+attribute3.45 & SD-409 & Observation & \\
+attribute4.45 & SD-409 & Soil Stability & \\
+attribute5.45 & SD-409 & Species Richness & \\
+attribute6.45 & SD-409 & LPI-1 & \\
+attribute7.45 & SD-409 & LPI-2 & \\
+attribute8.45 & SD-409 & LPI-3 & \\
+attribute9.45 & SD-409 & Gap-1 & \\
+attribute10.45 & SD-409 & Gap-2 & \\
+attribute11.45 & SD-409 & Gap-3 & \\
+attribute12.45 & SD-409 & Known Errors & \\
+attribute13.45 & SD-409 & Unknown Plants & \\
+attribute14.45 & SD-409 & Soil Map Unit & \\
+attribute15.45 & SD-409 & ESD & \\
+attribute1.46 & MMS-095 & Photos & \\
+attribute2.46 & MMS-095 & Characterization & \\
+attribute3.46 & MMS-095 & Observation & \\
+attribute4.46 & MMS-095 & Soil Stability & \\
+attribute5.46 & MMS-095 & Species Richness & \\
+attribute6.46 & MMS-095 & LPI-1 & \\
+attribute7.46 & MMS-095 & LPI-2 & \\
+attribute8.46 & MMS-095 & LPI-3 & \\
+attribute9.46 & MMS-095 & Gap-1 & \\
+attribute10.46 & MMS-095 & Gap-2 & \\
+attribute11.46 & MMS-095 & Gap-3 & \\
+attribute12.46 & MMS-095 & Known Errors & \\
+attribute13.46 & MMS-095 & Unknown Plants & \\
+attribute14.46 & MMS-095 & Soil Map Unit & \\
+attribute15.46 & MMS-095 & ESD & \\
+attribute1.47 & MMS-096 & Photos & \\
+attribute2.47 & MMS-096 & Characterization & \\
+attribute3.47 & MMS-096 & Observation & \\
+attribute4.47 & MMS-096 & Soil Stability & \\
+attribute5.47 & MMS-096 & Species Richness & \\
+attribute6.47 & MMS-096 & LPI-1 & \\
+attribute7.47 & MMS-096 & LPI-2 & \\
+attribute8.47 & MMS-096 & LPI-3 & \\
+attribute9.47 & MMS-096 & Gap-1 & \\
+attribute10.47 & MMS-096 & Gap-2 & \\
+attribute11.47 & MMS-096 & Gap-3 & \\
+attribute12.47 & MMS-096 & Known Errors & \\
+attribute13.47 & MMS-096 & Unknown Plants & \\
+attribute14.47 & MMS-096 & Soil Map Unit & \\
+attribute15.47 & MMS-096 & ESD & \\
+attribute1.48 & MMS-097 & Photos & \\
+attribute2.48 & MMS-097 & Characterization & \\
+attribute3.48 & MMS-097 & Observation & \\
+attribute4.48 & MMS-097 & Soil Stability & \\
+attribute5.48 & MMS-097 & Species Richness & \\
+attribute6.48 & MMS-097 & LPI-1 & \\
+attribute7.48 & MMS-097 & LPI-2 & \\
+attribute8.48 & MMS-097 & LPI-3 & \\
+attribute9.48 & MMS-097 & Gap-1 & \\
+attribute10.48 & MMS-097 & Gap-2 & \\
+attribute11.48 & MMS-097 & Gap-3 & \\
+attribute12.48 & MMS-097 & Known Errors & \\
+attribute13.48 & MMS-097 & Unknown Plants & \\
+attribute14.48 & MMS-097 & Soil Map Unit & \\
+attribute15.48 & MMS-097 & ESD & \\
+attribute1.49 & MMS-098 & Photos & \\
+attribute2.49 & MMS-098 & Characterization & \\
+attribute3.49 & MMS-098 & Observation & \\
+attribute4.49 & MMS-098 & Soil Stability & \\
+attribute5.49 & MMS-098 & Species Richness & \\
+attribute6.49 & MMS-098 & LPI-1 & \\
+attribute7.49 & MMS-098 & LPI-2 & \\
+attribute8.49 & MMS-098 & LPI-3 & \\
+attribute9.49 & MMS-098 & Gap-1 & \\
+attribute10.49 & MMS-098 & Gap-2 & \\
+attribute11.49 & MMS-098 & Gap-3 & \\
+attribute12.49 & MMS-098 & Known Errors & \\
+attribute13.49 & MMS-098 & Unknown Plants & \\
+attribute14.49 & MMS-098 & Soil Map Unit & \\
+attribute15.49 & MMS-098 & ESD & \\
+attribute1.50 & MMS-099 & Photos & \\
+attribute2.50 & MMS-099 & Characterization & \\
+attribute3.50 & MMS-099 & Observation & \\
+attribute4.50 & MMS-099 & Soil Stability & \\
+attribute5.50 & MMS-099 & Species Richness & \\
+attribute6.50 & MMS-099 & LPI-1 & \\
+attribute7.50 & MMS-099 & LPI-2 & \\
+attribute8.50 & MMS-099 & LPI-3 & \\
+attribute9.50 & MMS-099 & Gap-1 & \\
+attribute10.50 & MMS-099 & Gap-2 & \\
+attribute11.50 & MMS-099 & Gap-3 & \\
+attribute12.50 & MMS-099 & Known Errors & \\
+attribute13.50 & MMS-099 & Unknown Plants & \\
+attribute14.50 & MMS-099 & Soil Map Unit & \\
+attribute15.50 & MMS-099 & ESD & \\
+\bottomrule
+\end{longtable}
+
+\end{document}
