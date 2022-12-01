@@ -1,0 +1,1 @@
+The variables which are calculated via these scripts were developed by Brandi W, Taylor P, Ken H. and others at UFO. If you are one of these persons please reach out so we can acknowledge your contributions. 
